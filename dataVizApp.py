@@ -22,17 +22,20 @@ st.set_page_config(
     # initial_sidebar_state="expanded",
 )
 
-# Link to your CSS file
-st.markdown(
-    """
-    <style>
-    body {
-    font-family: 'Times New Roman', Times, serif;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+# CSS
+streamlit_style = """
+			<style>
+			@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+			html, body, [class*="css"]  {
+			font-family: 'Roboto', sans-serif;
+			}
+            .picture-font {
+            font-size:12px
+            }
+			</style>
+			"""
+st.markdown(streamlit_style, unsafe_allow_html=True)
 
 # IMPORT CHART FROM PYTHON PATHS ALL
 from radialChartAll.radialChartAverageValenceAll import radial_chart_average_valence_all
@@ -71,33 +74,34 @@ from radialChartIndividual.radialChartDanceabilityEmil import radial_chart_hourl
 st.title('Comparitive Moods Visualized with Spotify Data')
 st.subheader('**Working with Valence Score and Danceability as variables for learning about our listening habits**')
 
+
+st.write('Made by Anton Bentzon, Emil Engel, Freyja Viskum, Jonathan Wad Høgsbro, and Laura Amalie Augustinus')
+st.write("MSC Digital Design and Interactive Technologies")
 # Load ITU Logo
 itu_logo_img = Image.open("images/ITU_logo_CPH_UK.jpg")
 # Display ITU Logo
 st.image(itu_logo_img, width=200)
-st.write('*Made by Anton Bentzon, Emil Engel, Freyja Viskum, Jonathan Wad Høgsbro, and Laura Amalie Augustinus*')
-st.write("*MSC Digital Design and Interactive Technologies*")
 
 st.write("**How does Spotify define valence?**")
 st.write("""
-         Spotify describes valence as a measure of the musical positivity conveyed by a track. It is represented 
-         as a numerical value between 0.0 and 1.0, with higher values indicating a more positive or happy mood, 
-         and lower values indicating a more negative or sad mood. \n Spotify calculates valence scores based on a 
-         combination of musical features, such as tempo, rhythm, and harmony, as well as lyrics and other contextual 
-         information. Valence scores are used by Spotify's recommendation algorithms to suggest songs that match a 
-         user's mood or preferences.
-         """)
+        Spotify describes valence as a measure of the musical positivity conveyed by a track. It is represented 
+        as a numerical value between 0.0 and 1.0, with higher values indicating a more positive or happy mood, 
+        and lower values indicating a more negative or sad mood. \n Spotify calculates valence scores based on a 
+        combination of musical features, such as tempo, rhythm, and harmony, as well as lyrics and other contextual 
+        information. Valence scores are used by Spotify's recommendation algorithms to suggest songs that match a 
+        user's mood or preferences.
+        """)
 st.write("**How does Spotify define danceability?**")
 st.write("""
-         Spotify describes danceability as a measure of how suitable a track is for dancing based on its tempo, rhythm 
-         stability, beat strength, and overall regularity. It is represented as a numerical value between 0.0 and 1.0, 
-         with higher values indicating that a track is more danceable. \n Danceability is calculated by analyzing various 
-         musical features, such as the track's BPM (beats per minute), the regularity of the rhythm, and the presence of a 
-         strong and consistent beat. Other factors, such as the track's time signature and the presence of vocals, can also 
-         affect the danceability score. \n Spotify uses danceability scores as part of its recommendation system to suggest 
-         songs that are suitable for dancing or to create playlists tailored to users' workout routines or dance parties.
-         """
-         )
+        Spotify describes danceability as a measure of how suitable a track is for dancing based on its tempo, rhythm 
+        stability, beat strength, and overall regularity. It is represented as a numerical value between 0.0 and 1.0, 
+        with higher values indicating that a track is more danceable. \n Danceability is calculated by analyzing various 
+        musical features, such as the track's BPM (beats per minute), the regularity of the rhythm, and the presence of a 
+        strong and consistent beat. Other factors, such as the track's time signature and the presence of vocals, can also 
+        affect the danceability score. \n Spotify uses danceability scores as part of its recommendation system to suggest 
+        songs that are suitable for dancing or to create playlists tailored to users' workout routines or dance parties.
+        """
+        )
 
 # SIDEBAR
 # with st.sidebar:
@@ -108,15 +112,12 @@ st.write("""
 # LINE CHART ALL
 st.subheader("1-Year Valence Score for All Group Members")
 st.altair_chart(line_chart_all, use_container_width=True)
-st.write("""*LINE CHART: The line chart displays the valence score for different users 
-        over a period of 12 months. \n There are a few anomalies in the valence 
-        score data that stand out. Laura has a significant drop in 
-        valence score towards the end of the year, with the lowest score in 
-        December. Freyja has an unusually low valence score in 
-        January. Additionally, Anton has a significantly higher valence score in 
-        June than in other months. These anomalies may indicate changes in music 
-        preferences or external factors affecting the users' moods.*
-        """)
+st.markdown("""<p class="picture-font">Line Chart: The line chart displays the valence score for different users 
+            over a period of 12 months. There are a few anomalies in the valence \n score data that stands out.
+            Laura has a significant drop in valence score towards the end of the year, with the lowest score in
+            December. Freyja has an unusally low valence score in Januara. Aditionally, Anton has a significantly higher
+            valence score in June than in other months.
+            </p>""", unsafe_allow_html=True)
 
 st.subheader("24-Hour Valence Score and Danceability for All Group Members")
 # COLUMNS STYLING
@@ -125,124 +126,186 @@ with col1:
     # TOTAL COUNT OF SONGS HOURLY FOR ALL
     st.write("**Song Count by Hour for All**")
     st.altair_chart(radial_chart_songs_count_hour_all, use_container_width=True)
-    st.write("""*RADIAL CHART: 
-            The dataset shows a discernible pattern of higher song activity during daytime hours and lower 
-            activity during nighttime hours, with an anomaly of a sharp drop in the number of songs played 
-            during 4 am*""")
+    st.markdown("""<p class="picture-font"> Radial Chart Song Count: The dataset shows a discernible pattern of higher 
+                song activity
+                during daytime hours and lower activity during nighttime hours, with an anomaly of a sharp drop
+                in the number of songs played during 4 am
+            </p>""", unsafe_allow_html=True)
 
 with col2:
     # 24-HOUR RADIAL VALENCE SCORE CHART FOR ALL
     st.write("**Valence Score by Hour for All**")
     st.altair_chart(radial_chart_valence_average_all, use_container_width=True)
-    st.write("*RADIAL CHART: This data shows...*")
+    st.markdown("""<p class="picture-font"> Radial Chart Valence Score: Anomalies include the lowest average 
+                valence score at midnight and a relatively low score at 11 pm. Trends show a downward trend in valence 
+                score from early morning to mid-afternoon, with a low point at 2 pm, and an upward trend from 2 pm to 
+                6 am, with a peak at 6 am
+            </p>""", unsafe_allow_html=True)
 
 with col3:
     # 24-HOUR RADIAL DANCEABILITY CHART FOR ALL
     st.write("**Danceability Score by Hour for All**")
     st.altair_chart(hourly_danceability_all, use_container_width=True)
-    st.write("*RADIAL CHART: This data shows...*")
+    st.markdown("""<p class="picture-font"> Radial Chart Danceability: This data suggests an increasing trend in 
+                danceability scores from midnight to early afternoon, peaking at 5 pm, followed by a slight decrease 
+                until 10 pm and a significant decrease until midnight. The highest energy dance music is played in the 
+                afternoon and early evening, while late night and early morning tend to have lower energy music.
+            </p>""", unsafe_allow_html=True)
 
 ############### INDIVIDUAL DATA CHARTS ###################
 
-st.write("To conclude this...")
+st.subheader("Individual 24-Hour Radial Charts")
 
 # MULTISELECT TOOL 
 options = st.multiselect(
-    'Choose to View Individual Data',
-    ['Anton', 'Freyja', 'Laura', 'Emil', 'Jonathan'],
-    ['Anton'])
+    'Choose to View Individual Group Members Data Like Above',
+    ['Anton', 'Freyja', 'Laura', 'Emil', 'Jonathan'])
 
 ######## ANTON ##############
 
-col4, col5, col6 = st.columns(3)
+col4, col5, col6 = st.columns(3, gap="large")
 if "Anton" in options:
     with col4:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR ANTON
-        st.write("**Count of Songs by Hour for Anton**")
+        st.write("**Count of Songs by 24-Hours for Anton**")
         st.altair_chart(radial_chart_songs_count_hour_anton, use_container_width=True)
-        st.write("*RADIAL CHART: This chart shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Anton: The track count varies 
+                    greatly from as low as 2 tracks during the 8th hour to as high as 141 tracks during the 
+                    16th hour. There also seems to be a trend of higher track counts during the later hours 
+                    of the day (from 16th to 19th hour) with a sudden drop at the 22nd hour.
+            </p>""", unsafe_allow_html=True)
+
 
     with col5:
         # 24-HOUR RADIAL VALENCE CHART FOR ANTON
-        st.write("**Valence Score by Hour for Anton**")
+        st.write("**Valence Score by 24-Hours for Anton**")
         st.altair_chart(radial_chart_average_valence_anton, use_container_width=True)
-        st.write("*RADIAL CHART: This chart shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Anton: This data suggests 
+                    that the average valence score of music played in a certain period is relatively stable 
+                    between 0.47 and 0.54, with the highest scores occurring in the late evening from 9 pm 
+                    to midnight, peaking at 10 pm. There is a significant drop in valence score after 
+                    midnight, with the lowest score occurring at 11 am. The valence scores seem to 
+                    follow a bimodal distribution, with peaks in the late evening and early afternoon.
+            </p>""", unsafe_allow_html=True)
 
     with col6:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR ANTON
-        st.write("**Danceability Score for Hour for Anton**")
+        st.write("**Danceability Score by 24-Hours for Anton**")
         st.altair_chart(radial_chart_hourly_danceability_anton, use_container_width=True)
-        st.write("*RADIAL CHART: This chart shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Anton: The scores range from 
+                    0.59 to 0.829, with the highest score occurring at 8am and the lowest score at 9am. 
+                    There is a slight dip in the early afternoon before the scores rise again in the late 
+                    afternoon and early evening, peaking at 11pm. The data suggests that songs played during
+                    morning hours tend to be more danceable than those played in the afternoon or evening.
+            </p>""", unsafe_allow_html=True)
 
 ######### FREYJA ###########
 
-col7, col8, col9 = st.columns(3)
+col7, col8, col9 = st.columns(3, gap="large")
 if "Freyja" in options:
     with col7:          
         # 24-HOUR RADIAL DANCEABILITY CHART FOR FREYJA
-        st.write("**Songs by Hour for Freyja**")
+        st.write("**Songs by 24-Hours for Freyja**")
         st.altair_chart(radial_chart_songs_count_hour_freyja, use_container_width=True)
-        st.write("*RADIAL CHART: This chart shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Freyja: The number of tracks played ranges from
+                    7 to 280, with the highest number of tracks played occurring at 13pm and the
+                    lowest number of tracks played at 4am. There is a consistent increase in the
+                    number of tracks played from the early morning to the late evening, peaking
+                    between 12pm and 1pm and then again between 4pm and 6pm.    
+            </p>""", unsafe_allow_html=True)
 
     with col8:
         # 24-HOUR RADIAL VALENCE CHART FOR FREYJA
-        st.write("**Valence Score for Hour for Freyja**")
+        st.write("**Valence Score by 24-Hours for Freyja**")
         st.altair_chart(radial_chart_average_valence_freyja, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Freyja: 
+                    The valence scores range from
+                    0.07666956521739131 to 0.49439999999999995, with the highest score occurring at 5am and
+                    the lowest score at 0am. There is a steady increase in valence scores from the early
+                    morning to the late afternoon, peaking at 5am. Valence scores then begin to decrease
+                    until reaching their lowest point at 0am. The data suggests that songs played in the early
+                    morning tend to have a higher valence score than those played in the late evening or
+                    early morning hours.
+            </p>""", unsafe_allow_html=True)
 
     with col9:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR FREYJA
-        st.write("**Danceability Score for Hour for Freyja**")
+        st.write("**Danceability Score by 24-Hours for Freyja**")
         st.altair_chart(radial_chart_hourly_danceability_freyja, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Freyja: The danceability scores range from
+                    0.152 to 0.626, with the highest score occurring at 5am and the lowest score at 3am.
+                    There is a consistent increase in danceability scores from the early morning to the late
+                    afternoon, with the highest scores occurring between 5pm and 7pm. The data suggests that
+                    songs played in the late afternoon and early evening tend to be more danceable than those
+                    played in the morning or late evening.
+            </p>""", unsafe_allow_html=True)
 
 
 ######### LAURA ###########
 
-col10, col11, col12 = st.columns(3)
+col10, col11, col12 = st.columns(3, gap="large")
 if "Laura" in options:
     with col10:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR LAURA
-        st.write("**24-Hour Total Count of Songs by Hour for Laura**")
+        st.write("**Total Count of Songs by 24-Hours for Laura**")
         st.altair_chart(radial_chart_songs_count_hour_laura, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Laura: The number of 
+                    tracks played ranges from 1 to 523, with the highest number of tracks played occurring 
+                    at 10am and the lowest number of tracks played at 2am and 23pm. There is a consistent 
+                    increase in the number of tracks played from the early morning to the late evening, 
+                    peaking between 9am and 11am and then again between 6pm and 7pm.
+            </p>""", unsafe_allow_html=True)
 
     with col11:
         # 24-HOUR RADIAL VALENCE CHART FOR LAURA
-        st.write("**24-Hour Valence Score for Hour for Laura**")
+        st.write("**Valence Score by 24-Hours for Laura**")
         st.altair_chart(radial_chart_average_valence_laura, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
-
+        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Laura: The valence scores 
+                    range from 0.205 to 0.538, with the highest score occurring at 11pm and the lowest 
+                    score at 2am. There is a slight increase in valence scores from the early morning to 
+                    the late afternoon, with the highest scores occurring between 10pm and midnight. The 
+                    data suggests that songs played in the late evening tend to have a higher valence score 
+                    than those played in the early morning or late at night.
+            </p>""", unsafe_allow_html=True)
 
     with col12:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR Laura
-        st.write("*24-Hour Danceability Score for Hour for Laura*")
+        st.write("*Danceability Score by 24-Hours for Laura*")
         st.altair_chart(radial_chart_hourly_danceability_laura, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Laura: The danceability 
+                    scores range from 0.573 to 0.694, with the highest score occurring at 3am and the 
+                    lowest score at 5am. There is a consistent increase in danceability scores from the 
+                    early morning to the late afternoon, with the highest scores occurring between 11pm 
+                    and midnight. The data suggests that songs played in the late evening and early morning 
+                    tend to be more danceable than those played in the afternoon or late at night.
+            </p>""", unsafe_allow_html=True)
 
 
 ######### EMIL ###########
 
-col13, col14, col15 = st.columns(3)
+col13, col14, col15 = st.columns(3, gap="large")
 if "Emil" in options: 
     with col13:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
-        st.write("**24-Hour Total Count of Songs by Hour for Emil**")
+        st.write("**Total Count of Songs by 24-Hours for Emil**")
         st.altair_chart(radial_chart_songs_count_hour_emil, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Emil: 
+            </p>""", unsafe_allow_html=True)
 
     with col14: 
         # 24-HOUR RADIAL VALENCE CHART FOR EMIL
-        st.write("**24-Hour Valence Score for Hour for Emil**")
+        st.write("**Valence Score by 24-Hours for Emil**")
         st.altair_chart(radial_chart_average_valence_emil, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Emil: 
+            </p>""", unsafe_allow_html=True)
 
 
     with col15:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
-        st.write("**24-Hour Danceability Score for Hour for Emil**")
+        st.write("**Danceability Score by 24-Hours for Emil**")
         st.altair_chart(radial_chart_hourly_danceability_emil, use_container_width=True)
-        st.write("*RADIAL CHART: This data shows...*")
+        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Emil: 
+            </p>""", unsafe_allow_html=True)
 
 
 ############### CHARTS THAT ARE WORKING ON ALL OF OUR DATA ###################
