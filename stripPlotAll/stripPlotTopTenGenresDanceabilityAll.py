@@ -23,13 +23,13 @@ top_genres = df_genres_clean_2['artistGenres'].value_counts().nlargest(10).index
 df_genres_clean_40 = df_genres_clean_2[df_genres_clean_2['artistGenres'].isin(top_genres)]
 
 # Create the strip plot using the filtered DataFrame
-strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_40, title='Strip Plot of Danceability by Top 10 Artist Genres').mark_circle(size=30).encode(
+strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle(size=30).encode(
     y=alt.Y("artistGenres:N", axis=alt.Axis(title="Artist Genres")),
     x=alt.X("danceability:Q", axis=alt.Axis(title="Danceability")),
     # href='url:N', 
     tooltip=['trackName:N', "artistName:N", 'artistGenres:N','url:N'],
     # yOffset="jitter:Q",
-    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='plasma'))
+    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='greys'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
     url='https://www.google.com/search?q=' + alt.datum.Name,

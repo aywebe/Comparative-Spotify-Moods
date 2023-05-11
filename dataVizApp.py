@@ -312,31 +312,61 @@ if "Emil" in options:
 
 col16, col17 = st.columns(2, gap="large")
 with col16:
+    # SCATTERPLOT / HEATMAP VERS 2
+    st.subheader("Track Interconectedness of Valence Score and Danceability by Top 10 Artist Genres")
+    st.altair_chart(scatter_plot_valence_danceability_all, use_container_width=True)
+    st.markdown("""<p class="picture-font"> Scatter Plot Valence vs Danceability: The scatter plot represents 
+                the relationship between the valence score and danceability of songs across the top 10 most 
+                common genres in the dataset. The y-axis shows the danceability rating, while the x-axis 
+                shows the valence score. Each circle represents a song, and its color indicates the valence 
+                score of the song. The tooltip shows additional information about each song, such as 
+                its name, artist, genre, valence score, and danceability rating. By examining the scatter 
+                plot, we can see how the valence score and danceability of songs tend to vary across 
+                different genres. Some genres, such as pop and rock, have a wider range of valence scores 
+                and danceability ratings, while others, such as hip-hop and R&B, tend to have higher 
+                danceability ratings but lower valence scores
+            </p>""", unsafe_allow_html=True)
+
+with col17:
     # HEATMAP
     st.subheader("Interconectedness of Valence Score and Danceability")
     st.altair_chart(heatmap_valence_danceability_all, use_container_width=True)
-    st.write("*HEATMAP: This data shows...*")
-
-
-with col17:
-    # SCATTERPLOT / HEATMAP VERS 2
-    st.subheader("Track Interconectedness of Valence Score and Danceability")
-    st.altair_chart(scatter_plot_valence_danceability_all, use_container_width=True)
-    st.write("*SCATTERPLOT: This data shows...*")
-
+    st.markdown("""<p class="picture-font"> Heatmap of Valence vs. Danceability: This 2D histogram heatmap 
+                illustrates the 
+                correlation between the valence score and danceability of songs in a given dataset.
+            The central area of the chart exhibits a dense cluster of songs with moderate valence scores 
+            and danceability ratings. Showing a high concentration of songs with similar valence and 
+            danceability ratings in the middle range of the two variables. 
+            </p>""", unsafe_allow_html=True)
 
 col18, col19 = st.columns(2, gap="Large")
 with col18:
     # STRIP PLOT TOP 10 ARTIST GENRES VALENCE
     st.subheader("Valence Score by Top 10 Artist Genres")
     st.altair_chart(strip_plot_valence_artist_genres_all, use_container_width=True)
-    st.write("*STRIP PLOT: This data shows...*")
+    st.markdown("""<p class="picture-font"> Valence Score by top 10 Artist Genres: This strip plot shows 
+                the valence score for the top 10 most common genres of artists. The plot is created using 
+                data from a merged dataset of streaming information on various songs and artists. Each 
+                circle represents a song, and the position of the circle along the x-axis indicates the 
+                valence score of the song. The y-axis shows the artist genre. Hover over a circle to see 
+                the song name, artist name, artist genre, valence score, and danceability score. The color 
+                of the circles indicates the valence score of the song, with warmer colors representing 
+                higher scores. The chart helps to visualize the distribution of valence scores across 
+                different genres of music.
+            </p>""", unsafe_allow_html=True)
+
 
 with col19:
     # STRIP PLOT TOP 10 ARTIST GENRES DANCEABILITY
     st.subheader("Danceability by Top 10 Artist Genres")
     st.altair_chart(strip_plot_danceability_artist_genres_all, use_container_width=True)
-    st.write("*STRIP PLOT: This data shows...*")
+    st.markdown("""<p class="picture-font"> Danceability by Top 10 Artist Genres: This chart shows a 
+                strip plot of danceability scores for the top 10 artist genres found in a dataset of 
+                merged streaming information. The y-axis displays the artist genres while the x-axis 
+                displays the danceability scores ranging from 0 to 1. Each circle represents a track, 
+                with its associated track name, artist name, artist genres, and a URL for searching the 
+                track. 
+            </p>""", unsafe_allow_html=True)
 
 
 
