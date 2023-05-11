@@ -68,7 +68,7 @@ from radialChartIndividual.radialChartAverageValenceEmil import radial_chart_ave
 from radialChartIndividual.radialChartDanceabilityEmil import radial_chart_hourly_danceability_emil
 
 # TITLE
-st.title('Comparitive Moods Visualized with Spotify Data 2')
+st.title('Comparitive Moods Visualized with Spotify Data')
 st.subheader('**Working with Valence Score and Danceability as variables for learning about our listening habits**')
 
 # Load ITU Logo
