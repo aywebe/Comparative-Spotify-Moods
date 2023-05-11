@@ -1,0 +1,969 @@
+,endTime,artistName,trackName,msPlayed,danceability,valenceScore,artistGenres,minutesPlayed
+0,2022-03-14 20:42,Biig Piig,Switch,638,0.594,0.639,"['indie soul', 'modern alternative pop']",0.010633333333333333
+1,2022-04-14 10:21,Biig Piig,Switch,141502,0.594,0.639,"['indie soul', 'modern alternative pop']",2.3583666666666665
+2,2022-04-14 10:43,Biig Piig,Switch,141502,0.594,0.639,"['indie soul', 'modern alternative pop']",2.3583666666666665
+3,2022-03-14 20:50,Little Dragon,Where You Belong,207037,0.737,0.36,"['art pop', 'downtempo', 'electronica', 'gothenburg indie', 'indie soul', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish synthpop', 'trip hop']",3.450616666666667
+4,2022-04-14 10:24,Little Dragon,Where You Belong,207037,0.737,0.36,"['art pop', 'downtempo', 'electronica', 'gothenburg indie', 'indie soul', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish synthpop', 'trip hop']",3.450616666666667
+5,2022-04-14 10:46,Little Dragon,Where You Belong,207037,0.737,0.36,"['art pop', 'downtempo', 'electronica', 'gothenburg indie', 'indie soul', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish synthpop', 'trip hop']",3.450616666666667
+6,2022-03-14 20:46,Channel Tres,"fuego (feat. Tyler, The Creator)",248764,0.745,0.434,"['indie soul', 'la pop']",4.146066666666667
+7,2022-03-14 20:54,Channel Tres,"fuego (feat. Tyler, The Creator)",248764,0.745,0.434,"['indie soul', 'la pop']",4.146066666666667
+8,2022-04-14 10:04,Channel Tres,"fuego (feat. Tyler, The Creator)",248764,0.745,0.434,"['indie soul', 'la pop']",4.146066666666667
+9,2022-04-14 10:28,Channel Tres,"fuego (feat. Tyler, The Creator)",248764,0.745,0.434,"['indie soul', 'la pop']",4.146066666666667
+10,2022-04-14 10:51,Channel Tres,"fuego (feat. Tyler, The Creator)",248764,0.745,0.434,"['indie soul', 'la pop']",4.146066666666667
+11,2022-03-14 21:04,BJ The Chicago Kid,Good Luv'n,229059,0.471,0.552,"['alternative r&b', 'chicago rap']",3.81765
+12,2022-03-14 21:08,Thundercat,Drink Dat,215163,0.703,0.192,"['afrofuturism', 'indie soul']",3.58605
+13,2022-10-21 16:15,Thundercat,Drink Dat,215163,0.703,0.192,"['afrofuturism', 'indie soul']",3.58605
+14,2022-03-14 21:12,BADBADNOTGOOD,Time Moves Slow,273864,0.591,0.308,"['canadian modern jazz', 'indie soul']",4.5644
+15,2022-03-14 21:15,Robert Glasper,Move Love,198133,0.589,0.343,"['contemporary jazz', 'indie jazz', 'indie soul', 'jazz', 'modern jazz piano', 'neo r&b', 'neo soul']",3.302216666666667
+16,2022-03-14 21:20,BADBADNOTGOOD,In Your Eyes,247054,0.488,0.438,"['canadian modern jazz', 'indie soul']",4.117566666666667
+17,2022-12-16 16:29,BADBADNOTGOOD,In Your Eyes,247055,0.488,0.438,"['canadian modern jazz', 'indie soul']",4.117583333333333
+18,2023-01-09 19:42,BADBADNOTGOOD,In Your Eyes,2983,0.488,0.438,"['canadian modern jazz', 'indie soul']",0.049716666666666666
+19,2022-03-14 21:25,Robert Glasper,Always Shine,322346,0.466,0.063,"['contemporary jazz', 'indie jazz', 'indie soul', 'jazz', 'modern jazz piano', 'neo r&b', 'neo soul']",5.372433333333333
+20,2022-03-14 21:42,Robert Glasper,Afro Blue,307626,0.819,0.454,"['contemporary jazz', 'indie jazz', 'indie soul', 'jazz', 'modern jazz piano', 'neo r&b', 'neo soul']",5.1271
+21,2022-03-14 21:43,Rihanna,James Joint,72080,0.399,0.405,"['barbadian pop', 'pop', 'urban contemporary']",1.2013333333333334
+22,2022-12-16 16:43,Rihanna,James Joint,72080,0.399,0.405,"['barbadian pop', 'pop', 'urban contemporary']",1.2013333333333334
+23,2022-03-14 21:48,Robert Glasper,Letter To Hermione,291840,0.535,0.432,"['contemporary jazz', 'indie jazz', 'indie soul', 'jazz', 'modern jazz piano', 'neo r&b', 'neo soul']",4.864
+24,2022-03-22 18:18,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+25,2022-03-22 18:27,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+26,2022-03-28 18:04,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+27,2022-03-28 18:24,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+28,2022-04-14 10:00,Sam Gellaitry,NEW WAVE,63808,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",1.0634666666666666
+29,2022-04-14 10:08,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+30,2022-04-14 10:54,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+31,2022-04-22 21:26,Sam Gellaitry,NEW WAVE,228798,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133
+32,2022-08-29 16:45,Sam Gellaitry,NEW WAVE,255,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",0.00425
+33,2022-08-29 16:46,Sam Gellaitry,NEW WAVE,50886,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",0.8481
+34,2022-12-02 16:46,Sam Gellaitry,NEW WAVE,228799,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133166666666667
+35,2022-12-27 10:47,Sam Gellaitry,NEW WAVE,228799,0.641,0.533,"['future bass', 'scottish electronic', 'vapor twitch']",3.8133166666666667
+36,2022-03-26 18:06,John Coltrane,Blue Train - Remastered 2003/Rudy Van Gelder Edition,644013,0.506,0.584,"['bebop', 'free jazz', 'jazz', 'jazz saxophone', 'vocal jazz']",10.73355
+37,2022-03-26 18:23,Horace Silver,Song For My Father,438280,0.742,0.591,"['bebop', 'hard bop', 'jazz', 'jazz piano']",7.304666666666667
+38,2022-03-26 18:33,Lee Morgan,The Sidewinder - Remastered 1999/Rudy Van Gelder Edition,625293,0.473,0.808,"['bebop', 'hard bop', 'jazz', 'jazz trumpet']",10.42155
+39,2022-03-26 18:41,Herbie Hancock,Watermelon Man - Remastered,429266,0.612,0.594,"['contemporary post-bop', 'instrumental funk', 'jazz', 'jazz funk', 'jazz fusion', 'jazz piano']",7.154433333333333
+40,2022-03-26 18:44,Hank Mobley,Dig Dis - Remastered 1999/Rudy Van Gelder Edition,181496,0.599,0.508,"['bebop', 'hard bop', 'jazz', 'jazz saxophone']",3.0249333333333333
+41,2022-10-19 17:12,Hank Mobley,Dig Dis - Remastered 1999/Rudy Van Gelder Edition,369386,0.599,0.508,"['bebop', 'hard bop', 'jazz', 'jazz saxophone']",6.156433333333333
+42,2022-03-28 17:29,Logic1000,What You Like,193893,0.794,0.598,['ukg revival'],3.23155
+43,2022-03-28 17:38,Logic1000,What You Like,193893,0.794,0.598,['ukg revival'],3.23155
+44,2022-03-28 18:20,Logic1000,What You Like,193893,0.794,0.598,['ukg revival'],3.23155
+45,2022-03-28 17:35,Totally Enormous Extinct Dinosaurs,A Dream I have,273994,0.779,0.329,"['alternative dance', 'indietronica', 'nu disco', 'oxford indie']",4.566566666666667
+46,2022-03-28 18:17,Totally Enormous Extinct Dinosaurs,A Dream I have,273994,0.779,0.329,"['alternative dance', 'indietronica', 'nu disco', 'oxford indie']",4.566566666666667
+47,2022-03-28 17:46,Mariah Carey,Fantasy,243493,0.669,0.807,"['dance pop', 'pop', 'urban contemporary']",4.058216666666667
+48,2022-04-08 22:15,Mariah Carey,Fantasy,243493,0.669,0.807,"['dance pop', 'pop', 'urban contemporary']",4.058216666666667
+49,2022-04-22 21:35,Mariah Carey,Fantasy,37901,0.669,0.807,"['dance pop', 'pop', 'urban contemporary']",0.6316833333333334
+50,2022-03-28 17:55,Joakim,Nothing Gold - Todd Terje Remix,541468,0.73,0.963,"['balearic', 'electrofox', 'nu disco']",9.024466666666667
+51,2022-03-28 17:56,Joshwa,My Humps,90348,0.862,0.587,['uk tech house'],1.5058
+52,2022-03-28 17:59,Diplo,Turn Back Time,147260,0.751,0.398,"['edm', 'electro house', 'moombahton', 'pop dance', 'tropical house']",2.4543333333333335
+53,2022-03-28 18:00,CHANEY,39 Times (Confrontation) - Edit,55959,0.879,0.926,['uk dance'],0.93265
+54,2022-03-28 18:27,Swedish House Mafia,Moth To A Flame (with The Weeknd),3529,0.553,0.105,"['edm', 'pop dance', 'progressive electro house']",0.05881666666666667
+55,2022-03-28 18:34,Cassie,Long Way 2 Go,73340,0.589,0.675,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",1.2223333333333333
+56,2022-04-22 21:56,Cassie,Long Way 2 Go,215910,0.589,0.675,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",3.5985
+57,2022-03-28 18:35,Remy Ma,Conceited (There's Something About Remy),66606,0.668,0.564,"['alternative r&b', 'bronx hip hop', 'contemporary r&b', 'dirty south rap', 'hip pop', 'r&b', 'southern hip hop', 'trap queen', 'urban contemporary']",1.1101
+58,2022-03-28 18:39,Nelly Furtado,Promiscuous,242293,0.808,0.868,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",4.038216666666667
+59,2022-03-28 18:40,Cassie,Simple Things,60923,0.704,0.394,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",1.0153833333333333
+60,2022-03-28 18:41,Timbaland,Indian Flute (feat. Sebastian & Raje Shwari),44408,0.565,0.771,"['dance pop', 'pop', 'pop rap']",0.7401333333333333
+61,2022-03-28 18:44,Amerie,1 Thing,23591,0.612,0.867,"['contemporary r&b', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",0.39318333333333333
+62,2022-03-28 18:47,Amerie,1 Thing,1915,0.612,0.867,"['contemporary r&b', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",0.03191666666666667
+63,2022-03-28 18:50,Timbaland,Give It To Me,128278,0.975,0.815,"['dance pop', 'pop', 'pop rap']",2.137966666666667
+64,2022-04-08 22:40,Timbaland,Give It To Me,106678,0.975,0.815,"['dance pop', 'pop', 'pop rap']",1.7779666666666667
+65,2022-03-28 18:51,Timbaland,Say Something (Featuring Drake),65108,0.555,0.725,"['dance pop', 'pop', 'pop rap']",1.0851333333333333
+66,2022-03-28 18:54,Field Mob,So What,216000,0.931,0.896,"['atl hip hop', 'dirty south rap', 'old school atlanta hip hop']",3.6
+67,2022-03-28 18:55,Cassie,King Of Hearts,35181,0.634,0.593,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",0.58635
+68,2022-03-28 18:57,Ryan Leslie,Rescue You,3819,0.794,0.719,"['Mellow', 'rnb', 'ryan leslie', 'pop']",0.06365
+69,2022-03-28 18:58,Fantasia,When I See U,33332,0.569,0.754,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",0.5555333333333333
+70,2022-03-28 19:01,Ryan Leslie,Something That I Like,9044,0.655,0.685,"['rnb', 'Hip-Hop', 'Love', 'feel good', 'Gilles Peterson']",0.15073333333333333
+71,2022-03-28 19:03,The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",100995,0.833,0.645,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",1.68325
+72,2022-03-28 19:05,Cassie,Me & U,104269,0.803,0.739,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",1.7378166666666666
+73,2022-03-28 19:09,Cassie,Me & U,5003,0.803,0.739,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",0.08338333333333334
+74,2022-03-28 19:13,Virtual Self,Ghost Voices,266365,0.311,0.358,"['electro house', 'future bass']",4.439416666666666
+75,2022-10-28 20:33,Virtual Self,Ghost Voices,266365,0.311,0.358,"['electro house', 'future bass']",4.439416666666666
+76,2022-12-02 18:50,Virtual Self,Ghost Voices,266365,0.311,0.358,"['electro house', 'future bass']",4.439416666666666
+77,2022-03-28 19:23,George Michael,Flawless (Go to the City),411133,0.714,0.766,['new wave pop'],6.852216666666667
+78,2022-03-28 19:28,Kid Cudi,Day 'N' Nite - Crookers Remix,281746,0.751,0.965,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",4.695766666666667
+79,2022-04-22 22:31,Kid Cudi,Day 'N' Nite - Crookers Remix,273394,0.751,0.965,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",4.556566666666667
+80,2022-03-28 20:46,Wamdue Project,King Of My Castle - Roy Malone's King Mix,181754,0.868,0.764,['No genre information available'],3.0292333333333334
+81,2022-04-08 20:24,Wamdue Project,King Of My Castle - Roy Malone's King Mix,299333,0.868,0.764,['No genre information available'],4.988883333333333
+82,2022-04-08 15:56,DJ Dado,X - files,106479,0.642,0.442,"['dream trance', 'italo dance']",1.77465
+83,2022-04-08 22:11,DJ Dado,X - files,239693,0.642,0.442,"['dream trance', 'italo dance']",3.994883333333333
+84,2022-10-28 20:09,DJ Dado,X - files,239693,0.642,0.442,"['dream trance', 'italo dance']",3.994883333333333
+85,2022-04-08 16:00,Amaarae,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),204764,0.87,0.319,"['afro r&b', 'afrobeats', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",3.412733333333333
+86,2022-04-08 18:05,Amaarae,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),204764,0.87,0.319,"['afro r&b', 'afrobeats', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",3.412733333333333
+87,2022-08-29 16:43,Amaarae,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),10901,0.87,0.319,"['afro r&b', 'afrobeats', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",0.18168333333333334
+88,2022-10-28 19:22,Amaarae,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),204763,0.87,0.319,"['afro r&b', 'afrobeats', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",3.412716666666667
+89,2022-12-02 20:46,Amaarae,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),204763,0.87,0.319,"['afro r&b', 'afrobeats', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']",3.412716666666667
+90,2022-04-08 16:03,Miraa May,Make Room,203187,0.836,0.323,"['alternative r&b', 'uk contemporary r&b']",3.38645
+91,2022-04-08 18:09,Miraa May,Make Room,203187,0.836,0.323,"['alternative r&b', 'uk contemporary r&b']",3.38645
+92,2022-10-28 19:39,Miraa May,Make Room,203186,0.836,0.323,"['alternative r&b', 'uk contemporary r&b']",3.386433333333333
+93,2022-04-08 16:06,Drake,Fountains (with Tems),192418,0.843,0.689,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.2069666666666667
+94,2022-04-08 18:12,Drake,Fountains (with Tems),192418,0.843,0.689,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.2069666666666667
+95,2022-10-28 19:05,Drake,Fountains (with Tems),192417,0.843,0.689,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.20695
+96,2022-04-08 16:13,Burna Boy,Collateral Damage,197559,0.74,0.903,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.29265
+97,2022-04-08 18:19,Burna Boy,Collateral Damage,197559,0.74,0.903,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.29265
+98,2022-10-28 19:13,Burna Boy,Collateral Damage,197558,0.74,0.903,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.2926333333333333
+99,2022-12-02 20:32,Burna Boy,Collateral Damage,197558,0.74,0.903,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.2926333333333333
+100,2022-04-08 16:17,Koffee,W (feat. Gunna),230151,0.856,0.902,"['dancehall', 'dancehall queen', 'jamaican dancehall']",3.83585
+101,2022-04-08 18:22,Koffee,W (feat. Gunna),230151,0.856,0.902,"['dancehall', 'dancehall queen', 'jamaican dancehall']",3.83585
+102,2022-10-28 19:58,Koffee,W (feat. Gunna),230151,0.856,0.902,"['dancehall', 'dancehall queen', 'jamaican dancehall']",3.83585
+103,2022-12-02 20:43,Koffee,W (feat. Gunna),230151,0.856,0.902,"['dancehall', 'dancehall queen', 'jamaican dancehall']",3.83585
+104,2022-04-08 16:20,Masego,Queen Tings - Santi Remix,211920,0.722,0.79,"['alternative r&b', 'indie soul']",3.532
+105,2022-04-08 18:26,Masego,Queen Tings - Santi Remix,211920,0.722,0.79,"['alternative r&b', 'indie soul']",3.532
+106,2022-10-28 19:29,Masego,Queen Tings - Santi Remix,211920,0.722,0.79,"['alternative r&b', 'indie soul']",3.532
+107,2022-12-02 20:29,Masego,Queen Tings - Santi Remix,211920,0.722,0.79,"['alternative r&b', 'indie soul']",3.532
+108,2022-04-08 16:24,Burna Boy,On the Low,185899,0.816,0.937,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.098316666666667
+109,2022-04-08 18:29,Burna Boy,On the Low,185899,0.816,0.937,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.098316666666667
+110,2022-10-28 19:10,Burna Boy,On the Low,185898,0.816,0.937,"['afrobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",3.0983
+111,2022-04-08 16:26,KAYTRANADA,Vex Oh (feat. Eight9FLY),162147,0.742,0.804,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",2.70245
+112,2022-04-08 18:32,KAYTRANADA,Vex Oh (feat. Eight9FLY),162147,0.742,0.804,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",2.70245
+113,2022-10-28 19:42,KAYTRANADA,Vex Oh (feat. Eight9FLY),162146,0.742,0.804,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",2.7024333333333335
+114,2022-12-15 12:13,KAYTRANADA,Vex Oh (feat. Eight9FLY),162146,0.742,0.804,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",2.7024333333333335
+115,2022-04-08 16:28,PinkPantheress,All my friends know,118813,0.719,0.192,"['pop', 'dance', 'jungle', 'dancehall', 'bedroom pop']",1.9802166666666667
+116,2022-04-08 18:34,PinkPantheress,All my friends know,118813,0.719,0.192,"['pop', 'dance', 'jungle', 'dancehall', 'bedroom pop']",1.9802166666666667
+117,2022-04-22 21:31,PinkPantheress,All my friends know,113092,0.719,0.192,"['pop', 'dance', 'jungle', 'dancehall', 'bedroom pop']",1.8848666666666667
+118,2022-10-28 19:15,PinkPantheress,All my friends know,118813,0.719,0.192,"['pop', 'dance', 'jungle', 'dancehall', 'bedroom pop']",1.9802166666666667
+119,2023-03-10 19:07,PinkPantheress,All my friends know,118813,0.719,0.192,"['pop', 'dance', 'jungle', 'dancehall', 'bedroom pop']",1.9802166666666667
+120,2022-04-08 16:32,Jorja Smith,Be Honest (feat. Burna Boy),207031,0.757,0.635,"['r&b', 'uk contemporary r&b']",3.4505166666666667
+121,2022-04-08 18:37,Jorja Smith,Be Honest (feat. Burna Boy),207031,0.757,0.635,"['r&b', 'uk contemporary r&b']",3.4505166666666667
+122,2022-10-28 19:19,Jorja Smith,Be Honest (feat. Burna Boy),207030,0.757,0.635,"['r&b', 'uk contemporary r&b']",3.4505
+123,2022-12-02 20:25,Jorja Smith,Be Honest (feat. Burna Boy),207030,0.757,0.635,"['r&b', 'uk contemporary r&b']",3.4505
+124,2022-04-08 16:34,ROSALÍA,TKN (feat. Travis Scott),129371,0.776,0.485,"['pop', 'r&b en espanol']",2.1561833333333333
+125,2022-04-08 18:38,ROSALÍA,TKN (feat. Travis Scott),30872,0.776,0.485,"['pop', 'r&b en espanol']",0.5145333333333333
+126,2022-07-04 23:29,ROSALÍA,TKN (feat. Travis Scott),48262,0.776,0.485,"['pop', 'r&b en espanol']",0.8043666666666667
+127,2022-10-28 19:26,ROSALÍA,TKN (feat. Travis Scott),129370,0.776,0.485,"['pop', 'r&b en espanol']",2.1561666666666666
+128,2022-04-08 16:37,ROSALÍA,"Yo x Ti, Tu x Mi",201040,0.78,0.579,"['pop', 'r&b en espanol']",3.3506666666666667
+129,2022-04-08 18:41,ROSALÍA,"Yo x Ti, Tu x Mi",201040,0.78,0.579,"['pop', 'r&b en espanol']",3.3506666666666667
+130,2022-10-28 19:46,ROSALÍA,"Yo x Ti, Tu x Mi",201040,0.78,0.579,"['pop', 'r&b en espanol']",3.3506666666666667
+131,2022-04-08 16:41,Drake,Get It Together,250337,0.781,0.849,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.172283333333334
+132,2022-04-08 18:45,Drake,Get It Together,250337,0.781,0.849,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.172283333333334
+133,2022-10-28 19:35,Drake,Get It Together,250337,0.781,0.849,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.172283333333334
+134,2022-12-02 20:47,Drake,Get It Together,52654,0.781,0.849,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.8775666666666667
+135,2022-04-08 16:45,Kojo Funds,I Like (feat. WizKid),192785,0.496,0.63,"['afroswing', 'grime', 'uk dancehall', 'uk hip hop']",3.2130833333333335
+136,2022-04-08 18:49,Kojo Funds,I Like (feat. WizKid),192785,0.496,0.63,"['afroswing', 'grime', 'uk dancehall', 'uk hip hop']",3.2130833333333335
+137,2022-10-28 19:49,Kojo Funds,I Like (feat. WizKid),192784,0.496,0.63,"['afroswing', 'grime', 'uk dancehall', 'uk hip hop']",3.2130666666666667
+138,2022-12-02 20:35,Kojo Funds,I Like (feat. WizKid),192784,0.496,0.63,"['afroswing', 'grime', 'uk dancehall', 'uk hip hop']",3.2130666666666667
+139,2022-04-08 16:48,Wesley Joseph,Ghostin',197675,0.856,0.161,['uk alternative hip hop'],3.294583333333333
+140,2022-04-08 18:52,Wesley Joseph,Ghostin',197675,0.856,0.161,['uk alternative hip hop'],3.294583333333333
+141,2022-04-08 16:50,Dreamer Isioma,Valentina,128640,0.717,0.735,"['alternative r&b', 'modern indie pop']",2.144
+142,2022-08-29 16:40,Dreamer Isioma,Valentina,1892,0.717,0.735,"['alternative r&b', 'modern indie pop']",0.03153333333333333
+143,2022-08-29 16:42,Dreamer Isioma,Valentina,2356,0.717,0.735,"['alternative r&b', 'modern indie pop']",0.039266666666666665
+144,2022-04-08 16:52,Jaz Karis,Let Me Down,148696,0.657,0.478,"['alternative r&b', 'uk contemporary r&b']",2.478266666666667
+145,2022-04-08 18:54,Jaz Karis,Let Me Down,148696,0.657,0.478,"['alternative r&b', 'uk contemporary r&b']",2.478266666666667
+146,2022-04-08 16:55,L.A.X,Sempe,171429,0.699,0.478,"['afrobeats', 'afropop', 'azontobeats', 'nigerian pop']",2.85715
+147,2022-04-08 18:57,L.A.X,Sempe,171429,0.699,0.478,"['afrobeats', 'afropop', 'azontobeats', 'nigerian pop']",2.85715
+148,2022-04-08 16:57,Ojerime,I Know Now (2003),118500,0.737,0.77,"['alternative r&b', 'uk contemporary r&b']",1.975
+149,2022-04-08 19:02,Ojerime,I Know Now (2003),118500,0.737,0.77,"['alternative r&b', 'uk contemporary r&b']",1.975
+150,2022-04-08 17:00,melvitto,Santorini Coffee,134365,0.801,0.836,"['afrobeats', 'nigerian pop']",2.2394166666666666
+151,2022-04-08 19:04,melvitto,Santorini Coffee,134365,0.801,0.836,"['afrobeats', 'nigerian pop']",2.2394166666666666
+152,2022-04-08 17:02,Cruel Santino,Sparky,144000,0.666,0.637,"['alte', 'nigerian pop']",2.4
+153,2022-04-08 17:05,IAMDDB,Silver Lines,200512,0.671,0.449,"['alternative r&b', 'uk contemporary r&b']",3.3418666666666668
+154,2022-04-08 17:08,Olamide,Infinity (feat. Omah Lay),171765,0.93,0.518,"['afrobeats', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']",2.86275
+155,2022-04-08 19:07,Olamide,Infinity (feat. Omah Lay),171765,0.93,0.518,"['afrobeats', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']",2.86275
+156,2022-04-08 17:13,Juls,Soweto Blues,298998,0.863,0.399,"['afrobeats', 'afroswing', 'uk dancehall']",4.9833
+157,2022-04-08 17:17,Drake,Laugh Now Cry Later (feat. Lil Durk),261493,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.358216666666666
+158,2022-11-06 19:33,Drake,Laugh Now Cry Later (feat. Lil Durk),35375,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.5895833333333333
+159,2022-11-28 16:38,Drake,Laugh Now Cry Later (feat. Lil Durk),261492,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.3582
+160,2022-11-28 17:03,Drake,Laugh Now Cry Later (feat. Lil Durk),37174,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.6195666666666667
+161,2022-11-30 10:44,Drake,Laugh Now Cry Later (feat. Lil Durk),224370,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.7395
+162,2022-12-02 18:12,Drake,Laugh Now Cry Later (feat. Lil Durk),261493,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.358216666666666
+163,2022-12-02 18:17,Drake,Laugh Now Cry Later (feat. Lil Durk),116786,0.761,0.522,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",1.9464333333333332
+164,2022-04-08 17:21,Free Nationals,Eternal Light,193740,0.793,0.898,"['alternative r&b', 'indie soul']",3.229
+165,2022-04-08 17:24,Nao,Drive and Disconnect,210173,0.818,0.534,"['alternative r&b', 'uk contemporary r&b']",3.502883333333333
+166,2022-04-08 17:28,melvitto,In Fact (feat. Gabzy),225179,0.915,0.606,"['afrobeats', 'nigerian pop']",3.7529833333333333
+167,2022-04-08 17:31,Miraa May,Regardless,205093,0.702,0.477,"['alternative r&b', 'uk contemporary r&b']",3.4182166666666665
+168,2022-04-08 17:34,Col3trane,Resume,168500,0.831,0.937,"['alternative r&b', 'uk contemporary r&b']",2.808333333333333
+169,2022-04-08 17:37,Chop Daily,Zanku Love,156000,0.762,0.798,['afroswing'],2.6
+170,2022-04-08 17:40,King Promise,Commando,169413,0.709,0.751,"['afrobeats', 'ghanaian alternative', 'ghanaian pop']",2.82355
+171,2022-04-08 17:47,The Internet,Girl (feat. KAYTRANADA),415613,0.568,0.453,"['alternative r&b', 'lgbtq+ hip hop']",6.9268833333333335
+172,2022-04-08 17:49,J Balvin,Brillo,159573,0.535,0.767,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2.65955
+173,2022-04-08 17:52,Nao,Woman (feat. Lianne La Havas),191827,0.702,0.415,"['alternative r&b', 'uk contemporary r&b']",3.1971166666666666
+174,2022-04-08 17:55,Scribz Riley,Mandy,185800,0.823,0.552,"['canadian contemporary r&b', 'london rap']",3.0966666666666667
+175,2022-04-08 17:58,Dreamer Isioma,Stop Calling The Police On Me,146866,0.681,0.368,"['alternative r&b', 'modern indie pop']",2.447766666666667
+176,2022-04-08 18:02,Maeta,Teen Scene (ft. Buddy),186098,0.335,0.545,"['alternative r&b', 'indie r&b']",3.1016333333333335
+177,2022-04-08 19:00,Miraa May,Angles (feat. JME),183084,0.796,0.495,"['alternative r&b', 'uk contemporary r&b']",3.0514
+178,2022-04-08 19:10,Oxlade,AWAY,164571,0.726,0.705,"['afrobeats', 'nigerian pop']",2.74285
+179,2022-04-08 19:13,StarBoy,Electric (feat. Wizkid & London),178776,0.775,0.672,['afrobeats'],2.9796
+180,2022-04-08 19:16,Kizz Daniel,Nesesari,178001,0.792,0.945,"['afrobeats', 'afropop', 'azontobeats', 'nigerian pop']",2.966683333333333
+181,2022-04-08 19:17,Ojerime,Often Enough - A COLORS SHOW,71825,0.659,0.311,"['alternative r&b', 'uk contemporary r&b']",1.1970833333333333
+182,2022-04-08 19:21,SG Lewis,Feed The Fire (feat. Lucky Daye),245471,0.849,0.928,"['indie soul', 'uk dance', 'vapor soul']",4.091183333333333
+183,2022-04-08 19:25,SG Lewis,Aura,229744,0.844,0.719,"['indie soul', 'uk dance', 'vapor soul']",3.829066666666667
+184,2022-04-08 19:53,SG Lewis,Aura,229744,0.844,0.719,"['indie soul', 'uk dance', 'vapor soul']",3.829066666666667
+185,2022-04-08 19:29,Roman Flügel,Garden Party,232000,0.718,0.888,"['electronica', 'float house', 'frankfurt electronic', 'melodic techno', 'microhouse', 'minimal tech house', 'minimal techno', 'techno']",3.8666666666666667
+186,2022-04-08 19:32,Diplo,On My Mind,189268,0.771,0.63,"['edm', 'electro house', 'moombahton', 'pop dance', 'tropical house']",3.1544666666666665
+187,2022-04-08 19:36,Doja Cat,Streets - Disclosure Remix,254280,0.697,0.41,"['dance pop', 'pop']",4.238
+188,2022-04-08 19:40,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),198082,0.677,0.464,"['canadian pop', 'pop']",3.3013666666666666
+189,2022-04-08 19:44,SG Lewis,Impact (feat. Robyn & Channel Tres),284573,0.677,0.862,"['indie soul', 'uk dance', 'vapor soul']",4.742883333333333
+190,2022-04-08 19:50,Nelly Furtado,All Good Things (Come To An End),311187,0.661,0.388,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",5.18645
+191,2022-04-08 19:57,KAYTRANADA,10%,186680,0.794,0.615,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",3.1113333333333335
+192,2022-04-08 20:11,Maverick Sabre,Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix,183082,0.881,0.965,['irish hip hop'],3.0513666666666666
+193,2022-04-22 23:05,Maverick Sabre,Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix,181306,0.881,0.965,['irish hip hop'],3.0217666666666667
+194,2022-04-08 20:19,Basement Jaxx,Samba Magic,479480,0.533,0.681,"['alternative dance', 'big beat', 'electronica', 'trip hop']",7.991333333333333
+195,2022-04-08 20:25,Kylie Minogue,In Your Eyes,36108,0.689,0.709,"['australian dance', 'australian pop', 'dance pop', 'eurodance', 'new wave pop']",0.6018
+196,2022-04-22 22:50,Kylie Minogue,In Your Eyes,116610,0.689,0.709,"['australian dance', 'australian pop', 'dance pop', 'eurodance', 'new wave pop']",1.9435
+197,2022-04-08 20:26,Elton John,Cold Heart - Acoustic,53976,0.641,0.395,"['glam rock', 'mellow gold', 'piano rock', 'rock']",0.8996
+198,2023-01-12 14:27,Elton John,Cold Heart - Acoustic,21188,0.641,0.395,"['glam rock', 'mellow gold', 'piano rock', 'rock']",0.35313333333333335
+199,2022-04-08 20:28,Elton John,Cold Heart - PS1 Remix,118870,0.655,0.628,"['glam rock', 'mellow gold', 'piano rock', 'rock']",1.9811666666666667
+200,2022-04-08 20:32,Wes,Alane - Radio Version,220133,0.845,0.961,['cameroonian pop'],3.6688833333333335
+201,2022-04-08 20:36,Wes,Mindoulou,253160,0.669,0.346,['cameroonian pop'],4.219333333333333
+202,2022-04-08 20:39,Phats & Small,Turn Around - Radio Edit,212147,0.797,0.801,"['disco house', 'hip house', 'vocal house']",3.5357833333333333
+203,2022-04-08 20:44,Amadou & Mariam,Filaou Bessame (Cerrone Remix),280526,0.742,0.589,"['afropop', 'malian blues', 'mande pop', 'world']",4.675433333333333
+204,2022-04-08 20:50,Salif Keita,Bah Poulo,338316,0.802,0.695,"['afropop', 'malian blues', 'mande pop', 'world']",5.6386
+205,2022-04-08 21:00,Safri Duo,Played-A-Live (The Bongo Song),405693,0.634,0.202,['eurodance'],6.76155
+206,2022-04-08 21:04,Wes,Degue wegue,214600,0.678,0.646,['cameroonian pop'],3.5766666666666667
+207,2022-04-08 21:08,Kassav\',Avèou Doudou,284693,0.809,0.846,"['musique guadeloupe', 'zouk']",4.744883333333333
+208,2022-04-08 21:16,Gala,Freed From Desire,213394,0.704,0.636,"['eurodance', 'hip house', 'italo dance']",3.556566666666667
+209,2022-04-08 21:27,Erobique,Urlaub in Italien,377669,0.828,0.474,"['german indie', 'hamburg electronic']",6.294483333333333
+210,2022-04-08 21:30,Afriquoi,Kudaushe,238420,0.702,0.438,['african electronic'],3.9736666666666665
+211,2022-04-08 21:35,Wes,Ramende,242733,0.713,0.588,['cameroonian pop'],4.04555
+212,2022-04-08 21:38,Amadou & Mariam,Bofou Safou,190067,0.792,0.599,"['afropop', 'malian blues', 'mande pop', 'world']",3.1677833333333334
+213,2022-04-08 21:43,France Gall,"Ella, elle l'a - Remasterisé en 2004",291400,0.702,0.455,"['chanson', 'ye ye']",4.8566666666666665
+214,2022-04-08 21:50,La Bouche,Be My Lover,240867,0.669,0.841,"['diva house', 'eurodance', 'europop', 'german techno']",4.01445
+215,2022-04-08 21:55,Desireless,Voyage voyage,266600,0.606,0.838,"['french synthpop', 'italian disco']",4.443333333333333
+216,2022-04-08 21:59,Inner Circle,Sweat (A La La La La Long),227067,0.787,0.94,"['reggae', 'reggae fusion']",3.78445
+217,2022-04-08 22:02,Wes,Alane - Todd Terry's A Cappella,215667,0.674,0.382,['cameroonian pop'],3.59445
+218,2022-04-08 22:07,DJ Dado,Twin peaks theme,261000,0.586,0.223,"['dream trance', 'italo dance']",4.35
+219,2022-10-28 20:13,DJ Dado,Twin peaks theme,261000,0.586,0.223,"['dream trance', 'italo dance']",4.35
+220,2022-04-08 22:28,JAY-Z,Heart Of The City (Ain't No Love),200565,0.606,0.802,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",3.34275
+221,2022-04-11 18:37,Yung Lean,Lips,22639,0.742,0.504,"['cloud rap', 'psychedelic hip hop', 'underground hip hop']",0.3773166666666667
+222,2022-04-11 18:38,Yung Lean,Ginseng Strip 2002,23835,0.601,0.389,"['cloud rap', 'psychedelic hip hop', 'underground hip hop']",0.39725
+223,2022-04-12 17:13,Yung Lean,Kyoto,27980,0.622,0.208,"['cloud rap', 'psychedelic hip hop', 'underground hip hop']",0.4663333333333333
+224,2022-04-12 19:23,BTS,Butter,39701,0.759,0.695,"['k-pop', 'k-pop boy group', 'pop']",0.6616833333333333
+225,2022-08-29 17:11,BTS,Butter,6478,0.759,0.695,"['k-pop', 'k-pop boy group', 'pop']",0.10796666666666667
+226,2022-04-12 19:24,BTS,Dynamite,37301,0.746,0.737,"['k-pop', 'k-pop boy group', 'pop']",0.6216833333333334
+227,2022-04-22 17:24,BTS,Dynamite,2078,0.746,0.737,"['k-pop', 'k-pop boy group', 'pop']",0.034633333333333335
+228,2022-04-12 19:25,EXO,CALL ME BABY,51178,0.692,0.879,"['k-pop', 'k-pop boy group']",0.8529666666666667
+229,2022-04-12 20:54,EXO,LOVE ME RIGHT,51120,0.625,0.757,"['k-pop', 'k-pop boy group']",0.852
+230,2022-04-14 09:56,Bing Crosby,Easter Parade,131826,0.366,0.403,"['adult standards', 'easy listening', 'lounge']",2.1971
+231,2022-04-14 10:18,Unknown Mortal Orchestra,Weekend Run,289133,0.813,0.874,"['art pop', 'indie rock', 'indie soul', 'indietronica', 'kiwi rock', 'neo-psychedelic', 'portland hip hop', 'psychedelic pop']",4.818883333333333
+232,2022-04-14 10:41,Unknown Mortal Orchestra,Weekend Run,289133,0.813,0.874,"['art pop', 'indie rock', 'indie soul', 'indietronica', 'kiwi rock', 'neo-psychedelic', 'portland hip hop', 'psychedelic pop']",4.818883333333333
+233,2022-04-14 10:32,Manu Delago,Freeze,232258,0.395,0.0528,"['handpan', 'new tribe']",3.8709666666666664
+234,2022-04-14 10:36,FKA twigs,lightbeamers,211880,0.742,0.307,"['afrofuturism', 'alternative r&b', 'art pop', 'escape room', 'experimental r&b', 'trip hop']",3.5313333333333334
+235,2022-04-22 17:25,BTS,Permission to Dance,3877,0.702,0.646,"['k-pop', 'k-pop boy group', 'pop']",0.06461666666666667
+236,2022-04-22 17:27,Harry Styles,As It Was,114532,0.52,0.662,['pop'],1.9088666666666667
+237,2022-04-22 21:22,Harry Styles,As It Was,167303,0.52,0.662,['pop'],2.7883833333333334
+238,2022-07-04 23:08,Harry Styles,As It Was,6455,0.52,0.662,['pop'],0.10758333333333334
+239,2022-12-27 10:48,Harry Styles,As It Was,44108,0.52,0.662,['pop'],0.7351333333333333
+240,2023-01-09 19:04,Harry Styles,As It Was,4260,0.52,0.662,['pop'],0.071
+241,2023-02-08 17:58,Harry Styles,As It Was,85902,0.52,0.662,['pop'],1.4317
+242,2023-02-21 09:46,Harry Styles,As It Was,1404,0.52,0.662,['pop'],0.0234
+243,2022-04-22 21:19,The Kid LAROI,STAY (with Justin Bieber),174106,0.591,0.478,['australian hip hop'],2.9017666666666666
+244,2022-08-29 16:39,The Kid LAROI,STAY (with Justin Bieber),169621,0.591,0.478,['australian hip hop'],2.8270166666666667
+245,2022-07-10 20:37,Justin Bieber,Ghost,15824,0.601,0.441,"['canadian pop', 'pop']",0.2637333333333333
+246,2022-04-22 21:29,Shawn Mendes,Lost In Japan,198319,0.713,0.425,"['canadian pop', 'pop', 'viral pop']",3.3053166666666667
+247,2022-04-22 21:39,Justice,D.A.N.C.E,242266,0.613,0.496,"['alternative dance', 'dance-punk', 'electronica', 'filter house', 'indietronica', 'new rave']",4.037766666666666
+248,2022-04-22 21:42,Aya Nakamura,Djadja,171133,0.811,0.541,"['basshall', 'francoton', 'pop urbaine']",2.8522166666666666
+249,2022-04-22 21:47,Nelly Furtado,Maneater,258893,0.796,0.787,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",4.314883333333333
+250,2022-04-22 21:51,will.i.am,Heartbreaker,255306,0.788,0.449,"['dance pop', 'pop']",4.2551
+251,2022-04-22 21:52,Cookin\' On 3 Burners,Force of Nature,62519,0.742,0.888,"['bboy', 'instrumental funk']",1.0419833333333333
+252,2022-04-22 21:59,*NSYNC,Bye Bye Bye,195430,0.61,0.861,"['boy band', 'dance pop', 'pop']",3.2571666666666665
+253,2022-04-22 23:12,*NSYNC,Bye Bye Bye,2844,0.61,0.861,"['boy band', 'dance pop', 'pop']",0.0474
+254,2022-04-22 22:07,Vanessa Carlton,A Thousand Miles,237493,0.56,0.268,"['lilith', 'neo mellow', 'piano rock', 'pop rock', 'post-teen pop']",3.9582166666666665
+255,2022-04-22 22:10,Valentino Khan,Move It,199867,0.796,0.619,"['brostep', 'edm', 'electro house', 'electronic trap', 'moombahton']",3.3311166666666665
+256,2022-04-22 22:12,Sash!,Encore Une Fois - Future Breeze Edit,125527,0.663,0.843,"['eurodance', 'german techno']",2.0921166666666666
+257,2022-04-22 22:19,Natasha Bedingfield,Unwritten,238581,0.706,0.629,"['dance pop', 'pop', 'post-teen pop']",3.97635
+258,2022-04-22 22:22,Nena,99 Luftballons,183449,0.575,0.504,"['german pop', 'new wave pop']",3.0574833333333333
+259,2022-04-22 22:26,Rihanna,Where Have You Been,242680,0.719,0.444,"['barbadian pop', 'pop', 'urban contemporary']",4.044666666666667
+260,2022-04-22 22:32,Elvis Presley,Trouble / Guitar Man - Live from the '68 Comeback Special,36768,0.435,0.743,"['rock-and-roll', 'rockabilly']",0.6128
+261,2022-04-22 22:35,Jason Derulo,It Girl,1687,0.668,0.345,"['dance pop', 'pop']",0.02811666666666667
+262,2022-04-22 22:38,Rihanna,SOS,165105,0.677,0.527,"['barbadian pop', 'pop', 'urban contemporary']",2.75175
+263,2022-04-22 22:45,Tobias Rahim,STOR MAND (feat. Andreas Odbjerg),183883,0.667,0.493,['danish pop'],3.0647166666666665
+264,2022-11-04 14:57,Tobias Rahim,STOR MAND (feat. Andreas Odbjerg),1120,0.667,0.493,['danish pop'],0.018666666666666668
+265,2022-04-22 22:48,KIDD,Buongiorno,184017,0.707,0.577,"['danish hip hop', 'danish pop']",3.06695
+266,2022-04-22 22:53,Cher,Believe,233720,0.652,0.459,"['dance pop', 'pop']",3.8953333333333333
+267,2022-04-22 22:58,"Earth, Wind & Fire",Boogie Wonderland,288293,0.802,0.963,"['disco', 'funk', 'jazz funk', 'soul']",4.804883333333334
+268,2022-04-22 23:02,50 Cent,In Da Club,193466,0.902,0.805,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",3.2244333333333333
+269,2022-04-22 23:15,50 Cent,In Da Club,193466,0.902,0.805,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",3.2244333333333333
+270,2022-04-22 23:18,50 Cent,In Da Club,135907,0.902,0.805,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",2.2651166666666667
+271,2022-04-22 23:23,Mall Grab,Love Reigns,294507,0.625,0.648,"['aussietronica', 'australian house', 'lo-fi house']",4.90845
+272,2022-04-28 20:36,Pusha T,Diet Coke,25878,0.697,0.789,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",0.4313
+273,2022-11-06 19:32,Pusha T,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),93402,0.594,0.66,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",1.5567
+274,2022-11-28 16:41,Pusha T,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),152612,0.594,0.66,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",2.5435333333333334
+275,2022-11-30 11:30,Pusha T,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),152612,0.594,0.66,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",2.5435333333333334
+276,2022-12-27 10:43,Pusha T,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),1544,0.594,0.66,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",0.025733333333333334
+277,2022-12-27 10:49,Pusha T,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),66344,0.594,0.66,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",1.1057333333333332
+278,2022-04-28 20:37,Pusha T,Dreamin Of The Past (feat. Kanye West),65840,0.594,0.897,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",1.0973333333333333
+279,2022-04-28 20:39,Charli XCX,Twice,113383,0.779,0.38,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",1.8897166666666667
+280,2022-12-27 10:52,Charli XCX,Twice,194600,0.779,0.38,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",3.243333333333333
+281,2022-04-28 20:40,Charli XCX,Constant Repeat,33587,0.832,0.49,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",0.5597833333333333
+282,2022-05-09 20:21,Charli XCX,Constant Repeat,7418,0.832,0.49,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",0.12363333333333333
+283,2022-10-20 20:04,Charli XCX,Constant Repeat,189373,0.832,0.49,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",3.1562166666666664
+284,2022-12-27 10:55,Charli XCX,Constant Repeat,189373,0.832,0.49,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",3.1562166666666664
+285,2022-05-09 20:24,Charli XCX,Good Ones,5099,0.764,0.789,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",0.08498333333333333
+286,2022-04-28 20:41,Charli XCX,Yuck,16474,0.765,0.886,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",0.2745666666666667
+287,2022-05-09 20:23,Charli XCX,Yuck,126685,0.765,0.886,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",2.1114166666666665
+288,2022-04-28 20:44,Joel Corry,OUT OUT (feat. Charli XCX & Saweetie),109110,0.787,0.796,"['dance pop', 'pop dance', 'tropical house', 'uk dance']",1.8185
+289,2022-05-01 18:41,When Saints Go Machine,Fail Forever,3668,0.781,0.722,"['danish electropop', 'danish indie']",0.06113333333333333
+290,2022-05-01 18:43,Kenton Slash Demon,Harpe,3552,0.571,0.074,['danish electropop'],0.0592
+291,2022-05-01 19:21,Kenton Slash Demon,Sun,11006,0.753,0.437,['danish electropop'],0.18343333333333334
+292,2022-05-09 20:18,Kenton Slash Demon,Sun,15928,0.753,0.437,['danish electropop'],0.2654666666666667
+293,2022-05-09 20:25,Camila Cabello,Bam Bam (feat. Ed Sheeran),22233,0.756,0.956,"['dance pop', 'pop']",0.37055
+294,2022-07-04 23:00,Camila Cabello,Bam Bam (feat. Ed Sheeran),21896,0.756,0.956,"['dance pop', 'pop']",0.36493333333333333
+295,2022-05-09 20:27,Camila Cabello,My Oh My (feat. DaBaby),159056,0.724,0.383,"['dance pop', 'pop']",2.650933333333333
+296,2022-05-24 17:47,The Kid LAROI,Thousand Miles,38684,0.376,0.203,['australian hip hop'],0.6447333333333334
+297,2022-05-24 17:50,Lucus,Dream,11459,0.674,0.643,['sad rap'],0.19098333333333334
+298,2022-05-24 17:52,Lucus,Malibu,88479,0.779,0.46,['sad rap'],1.47465
+299,2022-05-27 16:30,Post Malone,Psycho (feat. Ty Dolla $ign),92438,0.75,0.459,"['dfw rap', 'melodic rap', 'pop', 'rap']",1.5406333333333333
+300,2022-05-30 16:48,John De Sohn,Only For The Better,13038,0.597,0.488,"['pop dance', 'swedish tropical house']",0.2173
+301,2022-05-30 16:49,Ericka Jane,Strangers In The Night,17995,0.66,0.667,"['danish pop', 'scandipop']",0.29991666666666666
+302,2022-05-30 21:20,Ericka Jane,Bad Like You,12215,0.865,0.733,"['danish pop', 'scandipop']",0.20358333333333334
+303,2022-06-19 15:35,Caius,Tomorrow - Poolside Edit,25112,0.877,0.651,['danish electropop'],0.4185333333333333
+304,2022-06-19 15:38,Neigh,CmeCry,131924,0.654,0.215,['No genre information available'],2.198733333333333
+305,2022-06-19 16:22,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),21989,0.736,0.894,['lgbtq+ hip hop'],0.3664833333333333
+306,2022-06-19 16:23,Jack Harlow,WHATS POPPIN,62322,0.923,0.826,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",1.0387
+307,2022-06-19 16:24,Jack Harlow,Tyler Herro,9438,0.792,0.775,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",0.1573
+308,2022-06-19 16:40,Jack Harlow,Dua Lipa,43363,0.833,0.405,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",0.7227166666666667
+309,2022-07-04 22:55,Megan Thee Stallion,Sweetest Pie,39439,0.814,0.677,"['houston rap', 'pop', 'rap', 'trap queen']",0.6573166666666667
+310,2022-09-18 16:59,Ed Sheeran,Bad Habits,59963,0.807,0.537,"['pop', 'uk pop']",0.9993833333333333
+311,2022-07-04 23:01,Ed Sheeran,Perfect,13850,0.599,0.168,"['pop', 'uk pop']",0.23083333333333333
+312,2022-07-04 23:04,Drake,Sticky,6431,0.853,0.0774,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.10718333333333334
+313,2022-08-06 20:19,Drake,Sticky,19168,0.853,0.0774,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.3194666666666667
+314,2022-11-06 19:41,Drake,Jimmy Cooks (feat. 21 Savage),11075,0.529,0.366,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.18458333333333332
+315,2023-01-15 12:51,Drake,Jimmy Cooks (feat. 21 Savage),218364,0.529,0.366,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.6394
+316,2022-07-04 23:05,Drake,Massive,69938,0.499,0.0557,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",1.1656333333333333
+317,2022-08-06 20:18,Drake,Massive,2570,0.499,0.0557,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.042833333333333334
+318,2022-07-04 23:06,Kate Bush,Running Up That Hill (A Deal With God),40124,0.629,0.194,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",0.6687333333333333
+319,2022-07-04 23:09,Bad Bunny,Me Porto Bonito,87992,0.911,0.425,"['reggaeton', 'trap latino', 'urbano latino']",1.4665333333333332
+320,2022-07-04 23:21,Bad Bunny,Me Porto Bonito,68905,0.911,0.425,"['reggaeton', 'trap latino', 'urbano latino']",1.1484166666666666
+321,2022-08-29 16:58,Bad Bunny,Me Porto Bonito,8138,0.911,0.425,"['reggaeton', 'trap latino', 'urbano latino']",0.13563333333333333
+322,2023-01-09 19:07,Bad Bunny,Me Porto Bonito,7697,0.911,0.425,"['reggaeton', 'trap latino', 'urbano latino']",0.12828333333333333
+323,2022-07-04 23:10,Bad Bunny,Ojitos Lindos,7964,0.647,0.268,"['reggaeton', 'trap latino', 'urbano latino']",0.13273333333333334
+324,2022-08-06 20:16,Bad Bunny,Ojitos Lindos,2634,0.647,0.268,"['reggaeton', 'trap latino', 'urbano latino']",0.0439
+325,2022-08-29 17:00,Bad Bunny,Ojitos Lindos,3053,0.647,0.268,"['reggaeton', 'trap latino', 'urbano latino']",0.050883333333333336
+326,2022-07-04 23:14,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),242102,0.881,0.719,"['pop', 'viral pop']",4.035033333333334
+327,2022-08-29 17:07,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),154486,0.881,0.719,"['pop', 'viral pop']",2.5747666666666666
+328,2022-08-29 17:12,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),45766,0.881,0.719,"['pop', 'viral pop']",0.7627666666666667
+329,2022-08-29 17:15,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),82303,0.881,0.719,"['pop', 'viral pop']",1.3717166666666667
+330,2022-08-29 17:18,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),46927,0.881,0.719,"['pop', 'viral pop']",0.7821166666666667
+331,2022-07-04 23:20,Bad Bunny,Efecto,4365,0.801,0.234,"['reggaeton', 'trap latino', 'urbano latino']",0.07275
+332,2022-07-04 23:18,Glass Animals,Heat Waves,7592,0.761,0.531,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",0.12653333333333333
+333,2022-12-27 11:10,Bad Bunny,Moscow Mule,436397,0.804,0.292,"['reggaeton', 'trap latino', 'urbano latino']",7.2732833333333335
+334,2022-08-06 20:15,KAROL G,PROVENZA,15925,0.87,0.54,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",0.2654166666666667
+335,2022-07-04 23:23,Shakira,Te Felicito,4597,0.695,0.575,"['colombian pop', 'dance pop', 'latin pop', 'pop']",0.07661666666666667
+336,2022-08-06 21:44,Beyoncé,BREAK MY SOUL,122575,0.693,0.864,"['pop', 'r&b']",2.0429166666666667
+337,2022-07-04 23:26,Bad Bunny,Party,200423,0.829,0.471,"['reggaeton', 'trap latino', 'urbano latino']",3.3403833333333335
+338,2022-07-04 23:32,Bad Bunny,Party,128058,0.829,0.471,"['reggaeton', 'trap latino', 'urbano latino']",2.1343
+339,2022-08-29 17:03,Bad Bunny,Party,117445,0.829,0.471,"['reggaeton', 'trap latino', 'urbano latino']",1.9574166666666666
+340,2022-12-28 08:00,Bad Bunny,Party,77960,0.829,0.471,"['reggaeton', 'trap latino', 'urbano latino']",1.2993333333333332
+341,2023-01-02 08:44,Bad Bunny,Party,19419,0.829,0.471,"['reggaeton', 'trap latino', 'urbano latino']",0.32365
+342,2023-01-02 11:24,Bad Bunny,Party,85311,0.829,0.471,"['reggaeton', 'trap latino', 'urbano latino']",1.42185
+343,2022-07-04 23:27,ROSALÍA,BIZCOCHITO,24195,0.93,0.781,"['pop', 'r&b en espanol']",0.40325
+344,2022-07-04 23:28,ROSALÍA,SAOKO,72736,0.827,0.734,"['pop', 'r&b en espanol']",1.2122666666666666
+345,2022-08-06 20:17,Bad Bunny,Después de la Playa,3040,0.564,0.607,"['reggaeton', 'trap latino', 'urbano latino']",0.050666666666666665
+346,2022-08-29 17:04,Bad Bunny,Después de la Playa,17310,0.564,0.607,"['reggaeton', 'trap latino', 'urbano latino']",0.2885
+347,2022-07-04 23:30,Bad Bunny,Un Ratito,6606,0.787,0.222,"['reggaeton', 'trap latino', 'urbano latino']",0.1101
+348,2022-07-04 23:33,Lil Nas X,Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again),82140,0.872,0.778,['lgbtq+ hip hop'],1.369
+349,2022-07-04 23:34,YoungBoy Never Broke Again,Right Foot Creep,48552,0.725,0.815,"['baton rouge rap', 'rap']",0.8092
+350,2022-07-07 20:25,Guy Gerber,What To Do - &ME Remix,9589,0.904,0.408,"['deep disco house', 'israeli techno', 'microhouse', 'minimal tech house', 'minimal techno', 'organic electronic', 'organic house', 'tech house']",0.15981666666666666
+351,2022-07-11 19:58,Justin Bieber,Love You Different (feat. BEAM),68433,0.759,0.374,"['canadian pop', 'pop']",1.14055
+352,2022-08-06 20:14,Justin Bieber,Love You Different (feat. BEAM),80330,0.759,0.374,"['canadian pop', 'pop']",1.3388333333333333
+353,2022-08-06 20:21,Beyoncé,CUFF IT,122154,0.78,0.642,"['pop', 'r&b']",2.0359
+354,2022-08-06 20:22,Beyoncé,SUMMER RENAISSANCE,52096,0.674,0.208,"['pop', 'r&b']",0.8682666666666666
+355,2022-08-06 20:35,Beyoncé,SUMMER RENAISSANCE,16618,0.674,0.208,"['pop', 'r&b']",0.2769666666666667
+356,2022-08-06 20:25,Beyoncé,ENERGY (feat. Beam),155067,0.903,0.587,"['pop', 'r&b']",2.58445
+357,2022-08-06 20:26,Beyoncé,COZY,60090,0.556,0.367,"['pop', 'r&b']",1.0015
+358,2022-08-06 20:29,Beyoncé,HEATED,14421,0.785,0.496,"['pop', 'r&b']",0.24035
+359,2022-08-06 20:32,Beyoncé,AMERICA HAS A PROBLEM,189775,0.789,0.108,"['pop', 'r&b']",3.162916666666667
+360,2022-08-29 16:00,Yeat,Poppin,32264,0.705,0.259,"['pluggnb', 'rage rap']",0.5377333333333333
+361,2022-08-29 16:04,Yeat,Poppin,1288,0.705,0.259,"['pluggnb', 'rage rap']",0.021466666666666665
+362,2022-08-29 16:06,Yeat,Poppin,130786,0.705,0.259,"['pluggnb', 'rage rap']",2.1797666666666666
+363,2022-08-29 16:07,Yeat,Poppin,2368,0.705,0.259,"['pluggnb', 'rage rap']",0.039466666666666664
+364,2022-08-31 11:27,Yeat,Poppin,167186,0.705,0.259,"['pluggnb', 'rage rap']",2.7864333333333335
+365,2022-08-31 11:33,Yeat,Poppin,160167,0.705,0.259,"['pluggnb', 'rage rap']",2.66945
+366,2022-11-06 19:29,Yeat,Poppin,141026,0.705,0.259,"['pluggnb', 'rage rap']",2.350433333333333
+367,2022-11-28 16:50,Yeat,Poppin,167186,0.705,0.259,"['pluggnb', 'rage rap']",2.7864333333333335
+368,2022-11-30 11:28,Yeat,Poppin,159378,0.705,0.259,"['pluggnb', 'rage rap']",2.6563
+369,2022-12-02 18:04,Yeat,Poppin,167187,0.705,0.259,"['pluggnb', 'rage rap']",2.78645
+370,2022-12-02 18:05,Yeat,Poppin,4975,0.705,0.259,"['pluggnb', 'rage rap']",0.08291666666666667
+371,2022-12-13 12:43,Yeat,Poppin,48090,0.705,0.259,"['pluggnb', 'rage rap']",0.8015
+372,2022-08-29 16:01,Playboi Carti,Yah Mean,9775,0.777,0.738,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.16291666666666665
+373,2022-08-29 16:02,Playboi Carti,Pull Up,65062,0.842,0.57,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",1.0843666666666667
+374,2022-08-31 11:28,Playboi Carti,Pull Up,0,0.842,0.57,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.0
+375,2022-11-06 19:30,Playboi Carti,Pull Up,27318,0.842,0.57,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",0.4553
+376,2022-08-29 16:03,Trippie Redd,Dark Knight Dummo,5085,0.28,0.254,"['melodic rap', 'rap']",0.08475
+377,2023-02-16 22:02,Trippie Redd,Miss The Rage (feat. Playboi Carti),8034,0.581,0.353,"['melodic rap', 'rap']",0.1339
+378,2022-11-28 16:51,Yeat,Monëy so big,25070,0.693,0.353,"['pluggnb', 'rage rap']",0.41783333333333333
+379,2022-12-13 12:47,Yeat,Monëy so big,96235,0.693,0.353,"['pluggnb', 'rage rap']",1.6039166666666667
+380,2022-08-29 16:10,PinkPantheress,Where you are (feat. WILLOW),127512,0.689,0.362,"['electronic', 'garage', 'hyperpop']",2.1252
+381,2022-11-24 16:54,PinkPantheress,Where you are (feat. WILLOW),9333,0.689,0.362,"['electronic', 'garage', 'hyperpop']",0.15555
+382,2022-08-29 16:12,PinkPantheress,Picture in my mind,84207,0.73,0.772,"['Disco', 'electronic', 'pop', 'dance', 'dance-pop']",1.40345
+383,2022-12-02 17:22,PinkPantheress,Picture in my mind,176931,0.73,0.772,"['Disco', 'electronic', 'pop', 'dance', 'dance-pop']",2.94885
+384,2022-12-15 11:06,PinkPantheress,Picture in my mind,176930,0.73,0.772,"['Disco', 'electronic', 'pop', 'dance', 'dance-pop']",2.9488333333333334
+385,2022-08-29 16:13,PinkPantheress,Just for me,8057,0.804,0.713,"['2-step', 'pop', 'UK Garage', 'bedroom pop', 'Trash']",0.13428333333333334
+386,2022-12-15 12:32,PinkPantheress,Break it off - Bonus,96133,0.552,0.746,"['jungle', 'atmospheric drum and bass', 'jazzstep', 'UK Garage', 'alternative rnb']",1.6022166666666666
+387,2023-02-16 21:13,PinkPantheress,Break it off - Bonus,29291,0.552,0.746,"['jungle', 'atmospheric drum and bass', 'jazzstep', 'UK Garage', 'alternative rnb']",0.48818333333333336
+388,2022-08-29 16:14,PinkPantheress,I must apologise,101691,0.616,0.75,"['atmospheric drum and bass', 'liquid drum and bass', 'electropop', 'indie pop', 'Drum and bass']",1.69485
+389,2022-11-24 15:27,PinkPantheress,I must apologise,10431,0.616,0.75,"['atmospheric drum and bass', 'liquid drum and bass', 'electropop', 'indie pop', 'Drum and bass']",0.17385
+390,2022-12-13 12:34,PinkPantheress,I must apologise,14820,0.616,0.75,"['atmospheric drum and bass', 'liquid drum and bass', 'electropop', 'indie pop', 'Drum and bass']",0.247
+391,2023-01-22 15:40,PinkPantheress,I must apologise,108373,0.616,0.75,"['atmospheric drum and bass', 'liquid drum and bass', 'electropop', 'indie pop', 'Drum and bass']",1.8062166666666666
+392,2023-02-16 21:16,PinkPantheress,I must apologise,1207,0.616,0.75,"['atmospheric drum and bass', 'liquid drum and bass', 'electropop', 'indie pop', 'Drum and bass']",0.020116666666666668
+393,2023-02-22 10:18,PinkPantheress,I must apologise,18877,0.616,0.75,"['atmospheric drum and bass', 'liquid drum and bass', 'electropop', 'indie pop', 'Drum and bass']",0.31461666666666666
+394,2022-08-29 16:15,PinkPantheress,Passion,7082,0.699,0.607,"['electronic', 'pop', 'bedroom pop', 'liquid drum and bass', 'indie']",0.11803333333333334
+395,2022-10-28 20:04,PinkPantheress,Passion,135627,0.699,0.607,"['electronic', 'pop', 'bedroom pop', 'liquid drum and bass', 'indie']",2.26045
+396,2022-12-15 12:06,PinkPantheress,Passion,138268,0.699,0.607,"['electronic', 'pop', 'bedroom pop', 'liquid drum and bass', 'indie']",2.304466666666667
+397,2022-08-29 16:30,Mura Masa,"bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",105824,0.719,0.761,"['channel islands indie', 'hyperpop', 'indie soul', 'vapor soul']",1.7637333333333334
+398,2022-12-15 12:24,Steve Lacy,Some,118393,0.784,0.634,['afrofuturism'],1.9732166666666666
+399,2022-11-24 15:33,PinkPantheress,Attracted To You,21855,0.727,0.75,"['l', '2020s', '2021', 'MySpotigramBot', '-1001190477876']",0.36425
+400,2022-12-02 17:26,piri,soft spot,223627,0.612,0.422,"['Drum and bass', 'electronic', 'club', 'dnb']",3.727116666666667
+401,2022-11-30 15:07,piri,beachin,8696,0.667,0.825,['Drum and bass'],0.14493333333333333
+402,2022-08-29 16:48,DJ Pied Piper & The Masters Of Ceremonies,Do You Really Like It? - Radio Edit,5607,0.847,0.764,['uk garage'],0.09345
+403,2022-12-07 21:03,Sweet Female Attitude,Flowers - Sunship Edit,55983,0.746,0.915,"['bassline', 'uk garage']",0.93305
+404,2022-12-12 16:19,Sweet Female Attitude,Flowers - Sunship Edit,230133,0.746,0.915,"['bassline', 'uk garage']",3.83555
+405,2022-12-13 12:33,Sweet Female Attitude,Flowers - Sunship Edit,54835,0.746,0.915,"['bassline', 'uk garage']",0.9139166666666667
+406,2022-12-15 10:50,Sweet Female Attitude,Flowers - Sunship Edit,230133,0.746,0.915,"['bassline', 'uk garage']",3.83555
+407,2023-02-16 21:11,Sweet Female Attitude,Flowers - Sunship Edit,22860,0.746,0.915,"['bassline', 'uk garage']",0.381
+408,2023-02-22 10:15,Sweet Female Attitude,Flowers - Sunship Edit,46985,0.746,0.915,"['bassline', 'uk garage']",0.7830833333333334
+409,2022-08-29 16:49,Mis-Teeq,B With Me - Bump & Flex Radio Edit,9369,0.515,0.638,"['girl group', 'uk garage']",0.15615
+410,2022-08-29 16:50,Fred again..,Jungle,9833,0.665,0.397,"['edm', 'house']",0.16388333333333333
+411,2022-11-06 12:05,Fred again..,Jungle,24926,0.665,0.397,"['edm', 'house']",0.4154333333333333
+412,2022-11-06 12:09,Fred again..,Jungle,174788,0.665,0.397,"['edm', 'house']",2.913133333333333
+413,2022-11-06 19:20,Fred again..,Jungle,104605,0.665,0.397,"['edm', 'house']",1.7434166666666666
+414,2022-11-11 16:07,Fred again..,Jungle,14059,0.665,0.397,"['edm', 'house']",0.23431666666666667
+415,2022-08-29 16:51,Fred again..,Kyle (i found you),2368,0.76,0.215,"['edm', 'house']",0.039466666666666664
+416,2022-11-06 19:16,Fred again..,Marea (we’ve lost dancing),53614,0.761,0.473,"['edm', 'house']",0.8935666666666666
+417,2022-08-29 16:52,Central Cee,Loading,10425,0.85,0.694,['melodic drill'],0.17375
+418,2023-01-03 13:14,Central Cee,Loading,14860,0.85,0.694,['melodic drill'],0.24766666666666667
+419,2023-01-03 13:15,Central Cee,Doja,60662,0.911,0.972,['melodic drill'],1.0110333333333332
+420,2022-08-29 16:53,Central Cee,Obsessed With You,51861,0.746,0.904,['melodic drill'],0.86435
+421,2022-08-29 16:54,Central Cee,Commitment Issues,19005,0.8,0.795,['melodic drill'],0.31675
+422,2022-08-29 16:55,beabadoobee,Sunny day,4075,0.751,0.713,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",0.06791666666666667
+423,2022-08-29 16:56,Mura Masa,hollaback bitch (with Shygirl & Channel Tres),50631,0.904,0.604,"['channel islands indie', 'hyperpop', 'indie soul', 'vapor soul']",0.84385
+424,2022-11-30 12:47,Mura Masa,hollaback bitch (with Shygirl & Channel Tres),19882,0.904,0.604,"['channel islands indie', 'hyperpop', 'indie soul', 'vapor soul']",0.33136666666666664
+425,2022-08-29 16:57,Shygirl,Coochie (a bedtime story),7430,0.744,0.507,"['alternative r&b', 'art pop', 'electra', 'escape room', 'grimewave', 'hyperpop']",0.12383333333333334
+426,2022-08-29 17:05,Bad Bunny,Neverita,19110,0.876,0.428,"['reggaeton', 'trap latino', 'urbano latino']",0.3185
+427,2022-08-29 17:10,benny blanco,Bad Decisions (with BTS & Snoop Dogg),170155,0.762,0.955,['pop'],2.835916666666667
+428,2022-08-29 17:13,Charlie Puth,Attention,69485,0.775,0.797,"['pop', 'viral pop']",1.1580833333333334
+429,2022-09-03 12:03,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,122176,0.736,0.698,['house'],2.0362666666666667
+430,2022-11-06 19:25,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,93309,0.736,0.698,['house'],1.55515
+431,2022-11-11 17:01,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,6896,0.736,0.698,['house'],0.11493333333333333
+432,2022-11-20 13:55,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,67163,0.736,0.698,['house'],1.1193833333333334
+433,2022-11-30 12:39,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,217653,0.736,0.698,['house'],3.62755
+434,2022-12-02 18:36,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,226627,0.736,0.698,['house'],3.7771166666666667
+435,2022-12-13 11:59,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,226627,0.736,0.698,['house'],3.7771166666666667
+436,2022-12-15 10:13,Eliza Rose,B.O.T.A. (Baddest Of Them All) - Edit,46968,0.736,0.698,['house'],0.7828
+437,2022-09-04 16:13,Ryuichi Sakamoto,Merry Christmas Mr. Lawrence,38092,0.493,0.278,"['compositional ambient', 'japanese classical', 'japanese contemporary classical', 'japanese soundtrack']",0.6348666666666667
+438,2022-09-20 07:42,PinkPantheress,Pain,12103,0.829,0.81,"['indie', 'UK Garage', 'bedroom pop', '2-step', 'MySpotigramBot']",0.20171666666666666
+439,2022-12-15 12:22,PinkPantheress,Pain,98544,0.829,0.81,"['indie', 'UK Garage', 'bedroom pop', '2-step', 'MySpotigramBot']",1.6424
+440,2023-02-16 21:12,PinkPantheress,Pain,46904,0.829,0.81,"['indie', 'UK Garage', 'bedroom pop', '2-step', 'MySpotigramBot']",0.7817333333333333
+441,2022-09-20 07:44,Kind mod Kind,Der Hvor Du Møder Mig,144500,0.432,0.29,['No genre information available'],2.408333333333333
+442,2022-09-20 07:47,Kind mod Kind,Version of U,147019,0.702,0.323,"['Ballad', 'danish']",2.4503166666666667
+443,2022-09-20 07:59,PRISMA,Bangs,3094,0.583,0.762,['danish indie'],0.05156666666666666
+444,2022-09-28 14:52,Infernal,Ten Miles,139923,0.551,0.481,['eurodance'],2.33205
+445,2022-09-28 14:55,Infernal,Ten Miles,102794,0.551,0.481,['eurodance'],1.7132333333333334
+446,2022-10-11 16:48,Lil Yachty,Flex Up (feat. Future & Playboi Carti),44522,0.829,0.545,"['atl hip hop', 'melodic rap', 'rap', 'trap']",0.7420333333333333
+447,2022-10-19 15:55,Billie Holiday,Solitude,42816,0.462,0.19,"['adult standards', 'harlem renaissance', 'jazz', 'jazz blues', 'soul', 'swing', 'torch song', 'vocal jazz']",0.7136
+448,2022-10-19 16:09,Larry Young,The Moontrane - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998,441426,0.406,0.59,"['hard bop', 'jazz funk', 'jazz organ', 'soul jazz']",7.3571
+449,2022-10-19 16:14,Ike Quebec,Blue Samba - Remastered,317560,0.602,0.51,['jazz saxophone'],5.292666666666666
+450,2022-10-19 16:18,DOMi & JD BECK,MOON (feat. Herbie Hancock),271167,0.678,0.785,"['jazz fusion', 'fip']",4.51945
+451,2022-10-19 16:25,James Francies,713,321600,0.53,0.578,['uk contemporary jazz'],5.36
+452,2022-10-19 16:33,Terence Blanchard,Jackie Gets Out,176296,0.382,0.141,"['contemporary post-bop', 'jazz trumpet', 'new orleans jazz']",2.938266666666667
+453,2022-10-19 16:41,Johnathan Blake,Rivers & Parks,479920,0.499,0.371,['fip'],7.998666666666667
+454,2022-10-19 16:49,Sonny Rollins,Blues For Philly Joe - Remastered,404146,0.551,0.721,"['bebop', 'contemporary post-bop', 'hard bop', 'jazz', 'jazz saxophone']",6.735766666666667
+455,2022-10-19 17:01,Kenny Dorham,Mamacita - Remastered 2014,663160,0.527,0.813,"['bebop', 'hard bop', 'jazz', 'jazz trumpet']",11.052666666666667
+456,2022-10-19 17:05,Reuben Wilson,Orange Peel,284647,0.671,0.855,"['hammond organ', 'jazz funk', 'jazz organ', 'rare groove', 'soul jazz']",4.744116666666667
+457,2022-10-19 17:17,Nels Cline,The Bed We Made,205093,0.493,0.0698,"['experimental guitar', 'jazz guitar']",3.4182166666666665
+458,2022-10-19 17:20,R+R=NOW,Colors In The Dark,195402,0.37,0.142,"['indie jazz', 'neo r&b', 'uk contemporary jazz']",3.2567
+459,2022-10-19 17:25,Immanuel Wilkins,Shadow,284529,0.438,0.19,['contemporary jazz'],4.74215
+460,2022-10-19 17:43,Sonny Clark,Cool Struttin',563613,0.58,0.48,"['bebop', 'contemporary post-bop', 'hard bop', 'jazz', 'jazz piano']",9.39355
+461,2022-10-19 17:45,Ambrose Akinmusire,Roy,160720,0.399,0.279,"['contemporary jazz', 'contemporary post-bop', 'jazz', 'jazz trumpet']",2.6786666666666665
+462,2022-10-19 17:51,Charlie Hunter,Ashby Man,327343,0.606,0.614,['jazz guitar'],5.4557166666666665
+463,2022-10-19 17:55,Gene Harris & The Three Sounds,Book Of Slim,203160,0.679,0.762,"['jazz funk', 'soul jazz']",3.386
+464,2022-12-15 12:17,Gene Harris & The Three Sounds,Book Of Slim,203160,0.679,0.762,"['jazz funk', 'soul jazz']",3.386
+465,2022-10-19 18:01,Clifford Brown,De-Dah - Remastered,291106,0.501,0.773,"['bebop', 'hard bop', 'jazz', 'jazz trumpet']",4.851766666666666
+466,2022-10-19 18:10,Charles Lloyd,How Can I Tell You - Live,586185,0.385,0.253,"['contemporary jazz', 'contemporary post-bop', 'jazz quartet', 'jazz saxophone']",9.76975
+467,2022-10-19 18:20,Joe Henderson,Blue Bossa - Remastered,482440,0.531,0.785,"['bebop', 'contemporary post-bop', 'hard bop', 'jazz', 'jazz saxophone']",8.040666666666667
+468,2022-10-19 18:26,"Medeski, Martin & Wood",Shine It,299066,0.623,0.562,"['instrumental funk', 'jam band', 'jazz organ', 'jazz trio', 'modern jazz trio']",4.9844333333333335
+469,2022-10-19 18:29,Thelonious Monk,'Round Midnight,193840,0.542,0.206,"['bebop', 'contemporary post-bop', 'jazz', 'jazz piano', 'jazz trio']",3.2306666666666666
+470,2022-10-19 18:36,Makaya McCraven,Autumn In New York,355880,0.432,0.363,"['contemporary jazz', 'experimental jazz', 'indie jazz']",5.931333333333333
+471,2022-10-19 18:48,McCoy Tyner,Search For Peace,392000,0.456,0.15,"['contemporary post-bop', 'jazz', 'jazz piano']",6.533333333333333
+472,2022-10-19 18:59,Joel Ross,Gato's Gift,368386,0.451,0.228,"['contemporary jazz', 'jazz vibraphone']",6.139766666666667
+473,2022-10-20 19:52,Joe Armon-Jones,Almost Went Too Far,384986,0.707,0.721,"['indie jazz', 'indie soul', 'uk contemporary jazz']",6.416433333333333
+474,2022-10-20 19:55,Vince Staples,ARE YOU WITH THAT?,138410,0.859,0.563,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",2.3068333333333335
+475,2022-12-15 12:31,Vince Staples,ARE YOU WITH THAT?,138410,0.859,0.563,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",2.3068333333333335
+476,2022-10-20 20:08,A$AP Ferg,Let You Go,196000,0.738,0.599,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",3.2666666666666666
+477,2022-10-20 20:10,Oddisee,The Carter Barron,97194,0.446,0.35,"['alternative hip hop', 'dmv rap', 'instrumental hip hop', 'sudanese pop']",1.6199
+478,2022-10-21 16:02,Ahmad Jamal Trio,I Love Music,1813,0.314,0.258,"['bebop', 'jazz', 'jazz trio']",0.030216666666666666
+479,2023-01-16 11:08,Alessia Cara,Here,199453,0.376,0.331,"['canadian contemporary r&b', 'canadian pop', 'pop']",3.3242166666666666
+480,2023-03-08 17:39,Alessia Cara,Here,199453,0.376,0.331,"['canadian contemporary r&b', 'canadian pop', 'pop']",3.3242166666666666
+481,2022-10-21 16:07,Roy Ayers,Sunshine - Demo,300280,0.436,0.813,"['funk', 'jazz funk', 'jazz vibraphone', 'soul']",5.004666666666667
+482,2022-10-21 16:12,Gucci Mane,Wake Up in the Sky,204664,0.8,0.367,"['atl hip hop', 'dirty south rap', 'hip hop', 'rap', 'southern hip hop', 'trap']",3.4110666666666667
+483,2022-10-21 16:24,Anderson .Paak,Tints (feat. Kendrick Lamar),268400,0.805,0.703,"['escape room', 'hip hop', 'indie soul', 'neo soul']",4.473333333333334
+484,2022-10-21 16:30,Pharoah Sanders,Love Is Everywhere,318626,0.507,0.751,"['avant-garde jazz', 'free jazz', 'hard bop', 'jazz', 'jazz funk', 'jazz saxophone', 'spiritual jazz']",5.310433333333333
+485,2022-10-21 16:31,GoldLink,Dance On Me,45511,0.724,0.497,"['alternative r&b', 'dmv rap']",0.7585166666666666
+486,2022-10-26 16:40,DJ Khaled,GREECE (feat. Drake),4117,0.695,0.229,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",0.06861666666666667
+487,2022-10-28 18:59,Drake,Race My Mind,269883,0.488,0.783,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.49805
+488,2022-10-28 19:02,Chris Brown,No Guidance (feat. Drake),151360,0.696,0.136,"['r&b', 'rap']",2.522666666666667
+489,2022-10-28 20:25,Alice Deejay,Better Off Alone,214883,0.671,0.787,"['bouncy house', 'eurodance']",3.581383333333333
+490,2022-10-28 20:28,Fonzerelli,Moonlight Party - Radio Edit,169846,0.535,0.334,"['bouncy house', 'deep progressive trance']",2.830766666666667
+491,2022-10-28 20:40,Robert Miles,Children - Dream Version,426106,0.596,0.177,"['dream trance', 'eurodance', 'trance']",7.101766666666666
+492,2022-12-02 18:56,Robert Miles,Children - Dream Version,376568,0.596,0.177,"['dream trance', 'eurodance', 'trance']",6.276133333333333
+493,2022-11-04 14:59,Tobias Rahim,Kurder I København (feat. ZK & Luna Ersahin),91950,0.671,0.4,['danish pop'],1.5325
+494,2022-11-04 15:01,Tobias Rahim,Ozonlag A Energi (feat. Niels Brandt),129980,0.672,0.672,['danish pop'],2.166333333333333
+495,2022-11-06 11:45,salute,Feel The Same,22523,0.774,0.498,['ukg revival'],0.37538333333333335
+496,2022-11-06 11:58,salute,Therapy,40367,0.622,0.579,['ukg revival'],0.6727833333333333
+497,2022-11-06 19:15,salute,Therapy,31532,0.622,0.579,['ukg revival'],0.5255333333333333
+498,2022-11-06 19:17,salute,Therapy,28525,0.622,0.579,['ukg revival'],0.47541666666666665
+499,2022-11-11 16:06,salute,Therapy,97163,0.622,0.579,['ukg revival'],1.6193833333333334
+500,2022-11-12 17:48,salute,Therapy,79188,0.622,0.579,['ukg revival'],1.3198
+501,2022-12-02 18:18,salute,Therapy,11828,0.622,0.579,['ukg revival'],0.19713333333333333
+502,2022-12-13 11:38,salute,Therapy,5131,0.622,0.579,['ukg revival'],0.08551666666666667
+503,2022-12-13 11:41,salute,Therapy,230217,0.622,0.579,['ukg revival'],3.83695
+504,2022-12-15 09:57,salute,Therapy,234474,0.622,0.579,['ukg revival'],3.9079
+505,2022-12-16 21:13,salute,Therapy,234474,0.622,0.579,['ukg revival'],3.9079
+506,2023-02-16 21:07,salute,Therapy,1207,0.622,0.579,['ukg revival'],0.020116666666666668
+507,2022-11-06 11:48,Lxury,Memphis,81223,0.647,0.0708,['uk house'],1.3537166666666667
+508,2022-11-06 11:49,DJ Seinfeld,Someday - salute Remix,26888,0.628,0.693,['lo-fi house'],0.44813333333333333
+509,2022-11-06 12:01,DJ Seinfeld,Someday - salute Remix,50317,0.628,0.693,['lo-fi house'],0.8386166666666667
+510,2022-11-06 19:18,DJ Seinfeld,Someday - salute Remix,61707,0.628,0.693,['lo-fi house'],1.02845
+511,2022-11-12 17:40,DJ Seinfeld,Someday - salute Remix,289411,0.628,0.693,['lo-fi house'],4.8235166666666665
+512,2022-11-30 11:49,DJ Seinfeld,Someday - salute Remix,6154,0.628,0.693,['lo-fi house'],0.10256666666666667
+513,2022-12-13 11:46,DJ Seinfeld,Someday - salute Remix,289412,0.628,0.693,['lo-fi house'],4.823533333333334
+514,2022-12-15 10:02,DJ Seinfeld,Someday - salute Remix,289411,0.628,0.693,['lo-fi house'],4.8235166666666665
+515,2022-11-06 12:02,Junior Jack,E Samba,21536,0.635,0.784,"['deep house', 'disco house', 'vocal house']",0.3589333333333333
+516,2022-11-06 11:50,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,74640,0.691,0.527,['disco house'],1.244
+517,2022-11-06 12:00,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,25379,0.691,0.527,['disco house'],0.4229833333333333
+518,2022-11-24 17:23,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,17531,0.691,0.527,['disco house'],0.29218333333333335
+519,2022-11-30 11:44,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,188105,0.691,0.527,['disco house'],3.135083333333333
+520,2022-12-13 11:50,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,222019,0.691,0.527,['disco house'],3.7003166666666667
+521,2022-12-15 10:06,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,222019,0.691,0.527,['disco house'],3.7003166666666667
+522,2022-12-16 21:24,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,222019,0.691,0.527,['disco house'],3.7003166666666667
+523,2023-02-16 21:41,Dj Streaks,IN2 THE SUCC / 30TH CENTURY STUNTMAN - Edit,5816,0.691,0.527,['disco house'],0.09693333333333333
+524,2022-11-06 11:55,salute,Sternenhimmel,50027,0.577,0.195,['ukg revival'],0.8337833333333333
+525,2022-11-12 17:47,salute,Sternenhimmel,334886,0.577,0.195,['ukg revival'],5.581433333333333
+526,2022-11-30 11:48,salute,Sternenhimmel,286125,0.577,0.195,['ukg revival'],4.76875
+527,2022-12-02 18:32,salute,Sternenhimmel,334886,0.577,0.195,['ukg revival'],5.581433333333333
+528,2022-12-13 11:56,salute,Sternenhimmel,334886,0.577,0.195,['ukg revival'],5.581433333333333
+529,2022-12-15 10:12,salute,Sternenhimmel,334886,0.577,0.195,['ukg revival'],5.581433333333333
+530,2022-12-16 21:19,salute,Sternenhimmel,334886,0.577,0.195,['ukg revival'],5.581433333333333
+531,2022-11-06 11:59,Loods,Never The Same,40205,0.57,0.336,"['australian dance', 'disco house']",0.6700833333333334
+532,2022-12-02 16:50,Loods,Never The Same,212812,0.57,0.336,"['australian dance', 'disco house']",3.546866666666667
+533,2022-12-02 17:35,Loods,Never The Same,15742,0.57,0.336,"['australian dance', 'disco house']",0.2623666666666667
+534,2022-12-13 12:32,Loods,Never The Same,212812,0.57,0.336,"['australian dance', 'disco house']",3.546866666666667
+535,2022-12-15 10:46,Loods,Never The Same,212812,0.57,0.336,"['australian dance', 'disco house']",3.546866666666667
+536,2023-02-16 21:42,Loods,Never The Same,11946,0.57,0.336,"['australian dance', 'disco house']",0.1991
+537,2023-02-16 21:40,Loods,Love Is Real,11935,0.703,0.551,"['australian dance', 'disco house']",0.19891666666666666
+538,2022-11-30 12:45,Barry Can\'t Swim,Fiorucci Made Me Hardcore,6837,0.701,0.88,"['electronic', 'House', 'breakbeat']",0.11395
+539,2022-12-13 12:36,Barry Can\'t Swim,Fiorucci Made Me Hardcore,118835,0.701,0.88,"['electronic', 'House', 'breakbeat']",1.9805833333333334
+540,2022-11-06 12:03,Noisia,Supersonic (VIP),24311,0.416,0.0613,"['breakbeat', 'brostep', 'deep dnb', 'drum and bass', 'dutch dnb', 'neurofunk']",0.40518333333333334
+541,2022-11-06 12:04,Fred again..,Jungle - Rico Nasty Remix,89269,0.686,0.422,"['edm', 'house']",1.4878166666666666
+542,2022-12-02 17:34,Fred again..,Admit It (u don't want 2),227574,0.761,0.49,"['edm', 'house']",3.7929
+543,2022-11-06 12:06,Headie One,SOLDIERS (feat. Sampha),5746,0.536,0.239,['uk hip hop'],0.09576666666666667
+544,2022-11-06 12:10,Motorcycle,As The Rush Comes,9322,0.614,0.644,"['trance', 'dance', 'vocal trance', 'electronic', 'female vocalists']",0.15536666666666665
+545,2022-11-06 19:23,jamesjamesjames,My Purple iPod Nano (2nd Gen),10565,0.778,0.464,['No genre information available'],0.17608333333333334
+546,2022-11-30 11:31,Don Toliver,After Party,6208,0.629,0.453,"['rap', 'trap']",0.10346666666666667
+547,2022-12-26 11:25,Gunna,how you did that (feat. Kodak Black),16789,0.821,0.35,"['atl hip hop', 'melodic rap', 'rap', 'trap']",0.27981666666666666
+548,2022-11-06 19:36,Pi’erre Bourne,Switching Lanes (feat. Playboi Carti),112465,0.458,0.736,"['melodic rap', 'vapor trap']",1.8744166666666666
+549,2022-11-28 16:44,Pi’erre Bourne,Switching Lanes (feat. Playboi Carti),190097,0.458,0.736,"['melodic rap', 'vapor trap']",3.168283333333333
+550,2022-11-30 10:49,Pi’erre Bourne,Switching Lanes (feat. Playboi Carti),190097,0.458,0.736,"['melodic rap', 'vapor trap']",3.168283333333333
+551,2022-12-02 17:54,Pi’erre Bourne,Switching Lanes (feat. Playboi Carti),202084,0.458,0.736,"['melodic rap', 'vapor trap']",3.3680666666666665
+552,2022-11-06 19:37,Drake,Wants and Needs (feat. Lil Baby),23394,0.578,0.1,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.3899
+553,2022-11-28 17:02,Drake,What’s Next,178153,0.781,0.0628,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",2.9692166666666666
+554,2022-12-02 18:15,Drake,What’s Next,178154,0.781,0.0628,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",2.9692333333333334
+555,2022-11-06 19:39,Drake,More M’s,4551,0.704,0.0713,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.07585
+556,2023-01-15 12:54,Drake,Pussy & Millions (feat. Travis Scott),208522,0.749,0.445,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.4753666666666665
+557,2022-11-06 19:40,Drake,Rich Flex,56424,0.561,0.424,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.9404
+558,2022-11-20 13:59,Drake,Rich Flex,212023,0.561,0.424,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",3.533716666666667
+559,2023-01-09 19:00,Drake,Rich Flex,98057,0.561,0.424,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",1.6342833333333333
+560,2022-11-28 16:47,Future,WAIT FOR U (feat. Drake & Tems),189893,0.463,0.339,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",3.1648833333333335
+561,2022-11-30 10:52,Future,WAIT FOR U (feat. Drake & Tems),189893,0.463,0.339,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",3.1648833333333335
+562,2022-12-02 17:57,Future,WAIT FOR U (feat. Drake & Tems),189893,0.463,0.339,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",3.1648833333333335
+563,2022-11-06 19:42,Drake,Fair Trade (with Travis Scott),4458,0.666,0.292,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.0743
+564,2022-11-06 19:43,Drake,Knife Talk (with 21 Savage ft. Project Pat),45929,0.849,0.153,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",0.7654833333333333
+565,2022-11-20 14:00,Calvin Harris,One Kiss (with Dua Lipa),22952,0.791,0.592,"['edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",0.38253333333333334
+566,2022-11-24 15:10,Junior Jack,Thrill Me,38869,0.641,0.123,"['deep house', 'disco house', 'vocal house']",0.6478166666666667
+567,2022-11-24 15:13,Junior Jack,Thrill Me,151093,0.641,0.123,"['deep house', 'disco house', 'vocal house']",2.5182166666666665
+568,2022-11-30 11:34,Junior Jack,Thrill Me,11050,0.641,0.123,"['deep house', 'disco house', 'vocal house']",0.18416666666666667
+569,2022-12-02 12:53,Junior Jack,Thrill Me,3889,0.641,0.123,"['deep house', 'disco house', 'vocal house']",0.06481666666666666
+570,2022-12-02 18:42,Junior Jack,Thrill Me,354307,0.641,0.123,"['deep house', 'disco house', 'vocal house']",5.905116666666666
+571,2022-12-13 12:05,Junior Jack,Thrill Me,354307,0.641,0.123,"['deep house', 'disco house', 'vocal house']",5.905116666666666
+572,2022-12-15 10:19,Junior Jack,Thrill Me,354306,0.641,0.123,"['deep house', 'disco house', 'vocal house']",5.9051
+573,2022-11-24 15:16,Friend Within,Bring It Down,180465,0.763,0.843,"['house', 'uk dance']",3.00775
+574,2022-12-02 18:45,Friend Within,Bring It Down,180465,0.763,0.843,"['house', 'uk dance']",3.00775
+575,2022-12-13 12:08,Friend Within,Bring It Down,180465,0.763,0.843,"['house', 'uk dance']",3.00775
+576,2022-12-15 10:22,Friend Within,Bring It Down,180465,0.763,0.843,"['house', 'uk dance']",3.00775
+577,2022-12-16 21:27,Friend Within,Bring It Down,180465,0.763,0.843,"['house', 'uk dance']",3.00775
+578,2022-11-24 15:21,Oppidan,Lakitu,280858,0.908,0.439,['No genre information available'],4.6809666666666665
+579,2022-11-24 17:42,Oppidan,Lakitu,266493,0.908,0.439,['No genre information available'],4.44155
+580,2022-11-30 11:38,Oppidan,Lakitu,239500,0.908,0.439,['No genre information available'],3.9916666666666667
+581,2022-11-30 12:35,Oppidan,Lakitu,15658,0.908,0.439,['No genre information available'],0.2609666666666667
+582,2022-12-02 12:51,Oppidan,Lakitu,139459,0.908,0.439,['No genre information available'],2.324316666666667
+583,2022-12-12 16:25,Oppidan,Lakitu,239500,0.908,0.439,['No genre information available'],3.9916666666666667
+584,2022-12-13 12:12,Oppidan,Lakitu,239500,0.908,0.439,['No genre information available'],3.9916666666666667
+585,2022-12-15 10:26,Oppidan,Lakitu,239500,0.908,0.439,['No genre information available'],3.9916666666666667
+586,2022-12-16 21:28,Oppidan,Lakitu,49692,0.908,0.439,['No genre information available'],0.8282
+587,2022-12-24 11:10,Oppidan,Lakitu,4565,0.908,0.439,['No genre information available'],0.07608333333333334
+588,2022-11-24 15:30,PinkPantheress,Do you miss me?,128853,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",2.14755
+589,2022-12-11 19:49,PinkPantheress,Do you miss me?,128853,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",2.14755
+590,2022-12-12 18:00,PinkPantheress,Do you miss me?,128853,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",2.14755
+591,2022-12-13 18:37,PinkPantheress,Do you miss me?,6606,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",0.1101
+592,2022-12-15 11:49,PinkPantheress,Do you miss me?,128853,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",2.14755
+593,2022-12-27 10:21,PinkPantheress,Do you miss me?,128853,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",2.14755
+594,2023-01-09 19:35,PinkPantheress,Do you miss me?,128853,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",2.14755
+595,2023-02-16 21:14,PinkPantheress,Do you miss me?,28827,0.647,0.643,"['deep house', 'alternative rnb', 'electronic', 'indie', 'chill']",0.48045
+596,2022-11-27 16:05,Kokoroko,Dide O,60453,0.604,0.372,"['british jazz', 'indie soul']",1.00755
+597,2022-11-28 15:44,BROCKHAMPTON,Take It Back,146702,0.554,0.632,"['boy band', 'rap']",2.4450333333333334
+598,2022-11-28 15:46,BROCKHAMPTON,RZA,132746,0.61,0.486,"['boy band', 'rap']",2.2124333333333333
+599,2022-11-28 15:48,BROCKHAMPTON,Gold Teeth,106093,0.637,0.521,"['boy band', 'rap']",1.7682166666666668
+600,2022-11-28 15:51,BROCKHAMPTON,Big Pussy,140600,0.608,0.807,"['boy band', 'rap']",2.3433333333333333
+601,2022-11-28 15:52,BROCKHAMPTON,Big Pussy,4896,0.608,0.807,"['boy band', 'rap']",0.0816
+602,2022-11-28 15:53,BROCKHAMPTON,SUGAR,54026,0.453,0.516,"['boy band', 'rap']",0.9004333333333333
+603,2022-11-28 15:54,BROCKHAMPTON,NEW SHOES,91914,0.809,0.734,"['boy band', 'rap']",1.5319
+604,2022-11-28 16:00,BROCKHAMPTON,NEW SHOES,198293,0.809,0.734,"['boy band', 'rap']",3.304883333333333
+605,2022-12-02 19:12,BROCKHAMPTON,NEW SHOES,198293,0.809,0.734,"['boy band', 'rap']",3.304883333333333
+606,2022-12-11 20:08,BROCKHAMPTON,NEW SHOES,198293,0.809,0.734,"['boy band', 'rap']",3.304883333333333
+607,2022-11-28 15:56,BROCKHAMPTON,The Ending,108226,0.449,0.699,"['boy band', 'rap']",1.8037666666666667
+608,2022-11-28 16:02,BROCKHAMPTON,KEEP IT SOUTHERN,117333,0.699,0.75,"['boy band', 'rap']",1.95555
+609,2022-11-28 16:08,BROCKHAMPTON,MAN ON THE MOON,355927,0.736,0.534,"['boy band', 'rap']",5.9321166666666665
+610,2022-12-02 20:21,BROCKHAMPTON,MAN ON THE MOON,198857,0.736,0.534,"['boy band', 'rap']",3.3142833333333335
+611,2022-12-11 20:12,BROCKHAMPTON,MAN ON THE MOON,240600,0.736,0.534,"['boy band', 'rap']",4.01
+612,2022-11-28 16:09,BROCKHAMPTON,DUCT TAPE,4298,0.642,0.481,"['boy band', 'rap']",0.07163333333333333
+613,2022-11-28 16:12,BROCKHAMPTON,ALWAYS SOMETHING,191165,0.74,0.907,"['boy band', 'rap']",3.1860833333333334
+614,2022-11-28 16:16,BROCKHAMPTON,GOODBYE,169120,0.772,0.327,"['boy band', 'rap']",2.8186666666666667
+615,2022-11-28 16:23,BROCKHAMPTON,FMG,57984,0.755,0.463,"['boy band', 'rap']",0.9664
+616,2022-11-28 16:48,BROCKHAMPTON,FMG,15361,0.755,0.463,"['boy band', 'rap']",0.25601666666666667
+617,2022-11-30 10:55,BROCKHAMPTON,FMG,150600,0.755,0.463,"['boy band', 'rap']",2.51
+618,2022-12-02 17:58,BROCKHAMPTON,FMG,62829,0.755,0.463,"['boy band', 'rap']",1.04715
+619,2022-11-28 16:27,Justin Bieber,Honest (feat. Don Toliver),193322,0.81,0.809,"['canadian pop', 'pop']",3.2220333333333335
+620,2022-12-02 17:50,Justin Bieber,Honest (feat. Don Toliver),193322,0.81,0.809,"['canadian pop', 'pop']",3.2220333333333335
+621,2022-11-28 16:52,Yeat,Flawlëss (feat. Lil Uzi Vert),54293,0.474,0.109,"['pluggnb', 'rage rap']",0.9048833333333334
+622,2022-11-30 11:22,Yeat,Flawlëss (feat. Lil Uzi Vert),1973,0.474,0.109,"['pluggnb', 'rage rap']",0.032883333333333334
+623,2022-12-13 12:42,Yeat,Flawlëss (feat. Lil Uzi Vert),115844,0.474,0.109,"['pluggnb', 'rage rap']",1.9307333333333334
+624,2022-11-28 16:56,Lil Baby,Life Goes On,247054,0.716,0.387,"['atl hip hop', 'atl trap', 'rap', 'trap']",4.117566666666667
+625,2022-11-28 16:59,Lil Tecca,REPEAT IT (with Gunna),190344,0.681,0.588,"['melodic rap', 'pluggnb', 'rap']",3.1724
+626,2022-12-26 11:13,Lil Tecca,REPEAT IT (with Gunna),4640,0.681,0.588,"['melodic rap', 'pluggnb', 'rap']",0.07733333333333334
+627,2022-11-30 10:45,Kid Cudi,Baptized In Fire,27198,0.673,0.759,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",0.4533
+628,2022-11-30 11:33,Odd Mob,LEFT TO RIGHT,140789,0.856,0.219,"['aussietronica', 'bass house']",2.3464833333333335
+629,2022-11-30 11:40,Odd Mob,LEFT TO RIGHT,138283,0.856,0.219,"['aussietronica', 'bass house']",2.3047166666666667
+630,2022-11-30 12:40,Odd Mob,LEFT TO RIGHT,85045,0.856,0.219,"['aussietronica', 'bass house']",1.4174166666666668
+631,2022-12-02 16:52,Odd Mob,LEFT TO RIGHT,146250,0.856,0.219,"['aussietronica', 'bass house']",2.4375
+632,2022-12-12 16:28,Odd Mob,LEFT TO RIGHT,146250,0.856,0.219,"['aussietronica', 'bass house']",2.4375
+633,2022-12-13 12:15,Odd Mob,LEFT TO RIGHT,146250,0.856,0.219,"['aussietronica', 'bass house']",2.4375
+634,2022-12-15 10:29,Odd Mob,LEFT TO RIGHT,146250,0.856,0.219,"['aussietronica', 'bass house']",2.4375
+635,2023-02-16 21:10,Odd Mob,LEFT TO RIGHT,73084,0.856,0.219,"['aussietronica', 'bass house']",1.2180666666666666
+636,2022-11-30 12:41,salute,Heaven,29802,0.743,0.905,['ukg revival'],0.4967
+637,2022-12-02 17:40,salute,Heaven,314500,0.743,0.905,['ukg revival'],5.241666666666666
+638,2022-12-12 17:36,salute,Heaven,281681,0.743,0.905,['ukg revival'],4.694683333333334
+639,2022-12-13 12:20,salute,Heaven,314500,0.743,0.905,['ukg revival'],5.241666666666666
+640,2022-12-15 10:34,salute,Heaven,314500,0.743,0.905,['ukg revival'],5.241666666666666
+641,2023-02-16 21:09,Sans Soucis,All Over This Party - salute Remix,80584,0.793,0.798,['No genre information available'],1.3430666666666666
+642,2023-02-16 21:19,Sans Soucis,All Over This Party - salute Remix,3784,0.793,0.798,['No genre information available'],0.06306666666666666
+643,2023-02-16 22:01,Sans Soucis,All Over This Party - salute Remix,17217,0.793,0.798,['No genre information available'],0.28695
+644,2022-12-02 13:39,salute,Joy,247141,0.663,0.683,['ukg revival'],4.119016666666667
+645,2022-12-02 16:33,salute,Joy,281381,0.663,0.683,['ukg revival'],4.689683333333333
+646,2022-12-02 17:45,salute,Joy,281381,0.663,0.683,['ukg revival'],4.689683333333333
+647,2022-12-13 12:25,salute,Joy,281381,0.663,0.683,['ukg revival'],4.689683333333333
+648,2022-12-15 10:39,salute,Joy,281381,0.663,0.683,['ukg revival'],4.689683333333333
+649,2023-02-16 21:17,salute,Joy,49365,0.663,0.683,['ukg revival'],0.82275
+650,2022-12-02 16:37,Dj Streaks,Greatest Love - Edit,230551,0.691,0.743,['disco house'],3.8425166666666666
+651,2022-12-02 16:40,DJ Seinfeld,Tell Me One More Time - Mona Yim Remix,156774,0.784,0.145,['lo-fi house'],2.6129
+652,2022-12-02 17:47,DJ Seinfeld,Tell Me One More Time - Mona Yim Remix,127343,0.784,0.145,['lo-fi house'],2.1223833333333335
+653,2022-12-13 12:28,DJ Seinfeld,Tell Me One More Time - Mona Yim Remix,208191,0.784,0.145,['lo-fi house'],3.46985
+654,2022-12-15 10:42,DJ Seinfeld,Tell Me One More Time - Mona Yim Remix,208190,0.784,0.145,['lo-fi house'],3.4698333333333333
+655,2022-12-02 16:43,Fred again..,Homies (feat. Henry Wu),181023,0.774,0.827,"['edm', 'house']",3.01705
+656,2022-12-02 17:03,DJ Seinfeld,These Things Will Come To Be,296360,0.674,0.166,['lo-fi house'],4.939333333333333
+657,2022-12-02 17:07,Fred again..,Delilah (pull me out of this),250702,0.685,0.586,"['edm', 'house']",4.178366666666666
+658,2022-12-02 17:16,Dj Streaks,The Best Rapper Alive,487619,0.66,0.157,['disco house'],8.126983333333333
+659,2022-12-15 11:15,Dj Streaks,The Best Rapper Alive,487619,0.66,0.157,['disco house'],8.126983333333333
+660,2022-12-02 17:19,Sam Gellaitry,Assumptions,220838,0.639,0.443,"['future bass', 'scottish electronic', 'vapor twitch']",3.680633333333333
+661,2022-12-02 17:30,DJ Seinfeld,U Already Know,252693,0.715,0.65,['lo-fi house'],4.21155
+662,2022-12-02 18:08,Travis Scott,A-Team,176640,0.626,0.17,"['hip hop', 'rap', 'slap house']",2.944
+663,2022-12-26 11:07,Travis Scott,A-Team,176640,0.626,0.17,"['hip hop', 'rap', 'slap house']",2.944
+664,2022-12-02 18:57,Louf,Formation - Otik Remix,2374,0.434,0.436,['No genre information available'],0.03956666666666667
+665,2022-12-02 18:58,Daryl Hall & John Oates,I Can't Go for That (No Can Do),6490,0.889,0.963,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",0.10816666666666666
+666,2022-12-15 12:40,Kali Uchis,Your Teeth In My Neck,186181,0.853,0.86,['colombian pop'],3.1030166666666665
+667,2022-12-02 19:02,Hamdi,Trumpet (salute remix),240000,0.649,0.526,"['electronic', 'UK Garage']",4.0
+668,2022-12-02 19:07,Boddika,Mercy - Boddikas VIP,4069,0.795,0.0438,"['future garage', 'uk bass']",0.06781666666666666
+669,2022-12-02 19:09,Lxury,Do This Forever,115799,0.689,0.154,['uk house'],1.9299833333333334
+670,2023-01-02 13:19,Lxury,Do This Forever,300000,0.689,0.154,['uk house'],5.0
+671,2022-12-05 13:07,Childish Gambino,III. Urn,23210,0.59,0.399,"['atl hip hop', 'hip hop', 'rap']",0.3868333333333333
+672,2022-12-05 14:44,Thundercat,Funny Thing,0,0.586,0.65,"['afrofuturism', 'indie soul']",0.0
+673,2023-01-16 11:27,Thundercat,Funny Thing,116630,0.586,0.65,"['afrofuturism', 'indie soul']",1.9438333333333333
+674,2022-12-07 20:28,Sweet Female Attitude,Flowers (Cutfather & Joe) - Mix,20682,0.785,0.576,"['bassline', 'uk garage']",0.3447
+675,2022-12-07 21:05,Artigeardit,Vågen (Artigeardit X Lamin),74261,0.891,0.523,"['danish hip hop', 'danish pop']",1.2376833333333332
+676,2022-12-07 21:21,Artigeardit,"Er Her (Artigeardit, KESI)",10368,0.589,0.711,"['danish hip hop', 'danish pop']",0.1728
+677,2022-12-07 21:22,Branco,Bando Bitch,65258,0.925,0.669,"['danish hip hop', 'danish pop']",1.0876333333333332
+678,2022-12-07 21:23,RH,MCQUEEN,10271,0.954,0.915,"['danish hip hop', 'danish pop']",0.17118333333333333
+679,2022-12-07 21:26,Branco,SEXY BACK,18538,0.804,0.662,"['danish hip hop', 'danish pop']",0.30896666666666667
+680,2022-12-07 22:04,TopGunn,LARS SEIER FREESTYLE,12550,0.673,0.753,"['danish hip hop', 'danish pop']",0.20916666666666667
+681,2022-12-07 22:05,TopGunn,MOON BLUE v1,31068,0.873,0.496,"['danish hip hop', 'danish pop']",0.5178
+682,2022-12-07 22:40,Cheff Records,"Sender mig til månen (feat. Kidd, TopGunn, Klumben & ELOQ)",16219,0.844,0.836,['No genre information available'],0.27031666666666665
+683,2022-12-11 16:57,SZA,SOS,117773,0.507,0.506,"['pop', 'r&b', 'rap']",1.9628833333333333
+684,2022-12-11 17:00,SZA,Kill Bill,153946,0.644,0.418,"['pop', 'r&b', 'rap']",2.5657666666666668
+685,2022-12-13 18:50,SZA,Kill Bill,11361,0.644,0.418,"['pop', 'r&b', 'rap']",0.18935
+686,2023-01-07 16:12,SZA,Kill Bill,87273,0.644,0.418,"['pop', 'r&b', 'rap']",1.45455
+687,2023-01-09 18:47,SZA,Kill Bill,63587,0.644,0.418,"['pop', 'r&b', 'rap']",1.0597833333333333
+688,2023-01-09 19:06,SZA,Kill Bill,11087,0.644,0.418,"['pop', 'r&b', 'rap']",0.18478333333333333
+689,2022-12-11 17:03,SZA,Seek & Destroy,203733,0.651,0.345,"['pop', 'r&b', 'rap']",3.39555
+690,2023-01-07 16:13,SZA,Seek & Destroy,45785,0.651,0.345,"['pop', 'r&b', 'rap']",0.7630833333333333
+691,2022-12-11 17:06,SZA,Low,181080,0.698,0.335,"['pop', 'r&b', 'rap']",3.018
+692,2022-12-11 18:08,SZA,Low,355960,0.698,0.335,"['pop', 'r&b', 'rap']",5.932666666666667
+693,2022-12-11 19:52,SZA,Low,181080,0.698,0.335,"['pop', 'r&b', 'rap']",3.018
+694,2022-12-12 18:03,SZA,Low,181080,0.698,0.335,"['pop', 'r&b', 'rap']",3.018
+695,2022-12-13 18:39,SZA,Low,107347,0.698,0.335,"['pop', 'r&b', 'rap']",1.7891166666666667
+696,2022-12-15 11:55,SZA,Low,181080,0.698,0.335,"['pop', 'r&b', 'rap']",3.018
+697,2022-12-27 10:28,SZA,Low,181080,0.698,0.335,"['pop', 'r&b', 'rap']",3.018
+698,2023-01-05 15:15,SZA,Low,181080,0.698,0.335,"['pop', 'r&b', 'rap']",3.018
+699,2023-01-07 13:48,SZA,Low,39381,0.698,0.335,"['pop', 'r&b', 'rap']",0.65635
+700,2022-12-11 17:09,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+701,2022-12-11 18:11,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+702,2022-12-11 19:55,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+703,2022-12-12 20:05,SZA,Love Language,110412,0.707,0.545,"['pop', 'r&b', 'rap']",1.8402
+704,2022-12-13 18:49,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+705,2022-12-15 12:01,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+706,2022-12-27 10:34,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+707,2023-01-05 15:38,SZA,Love Language,143895,0.707,0.545,"['pop', 'r&b', 'rap']",2.39825
+708,2023-01-09 18:45,SZA,Love Language,23289,0.707,0.545,"['pop', 'r&b', 'rap']",0.38815
+709,2023-03-10 18:56,SZA,Love Language,183893,0.707,0.545,"['pop', 'r&b', 'rap']",3.0648833333333334
+710,2022-12-11 17:11,SZA,Blind,104942,0.461,0.599,"['pop', 'r&b', 'rap']",1.7490333333333334
+711,2022-12-11 18:14,SZA,Blind,150720,0.461,0.599,"['pop', 'r&b', 'rap']",2.512
+712,2022-12-11 17:14,SZA,Used (feat. Don Toliver),146950,0.734,0.705,"['pop', 'r&b', 'rap']",2.4491666666666667
+713,2022-12-11 18:17,SZA,Used (feat. Don Toliver),146950,0.734,0.705,"['pop', 'r&b', 'rap']",2.4491666666666667
+714,2022-12-11 20:05,SZA,Used (feat. Don Toliver),145887,0.734,0.705,"['pop', 'r&b', 'rap']",2.43145
+715,2022-12-15 12:04,SZA,Used (feat. Don Toliver),146950,0.734,0.705,"['pop', 'r&b', 'rap']",2.4491666666666667
+716,2022-12-27 10:37,SZA,Used (feat. Don Toliver),146951,0.734,0.705,"['pop', 'r&b', 'rap']",2.4491833333333335
+717,2023-01-07 13:51,SZA,Used (feat. Don Toliver),146950,0.734,0.705,"['pop', 'r&b', 'rap']",2.4491666666666667
+718,2022-12-11 17:15,SZA,Snooze,99726,0.559,0.392,"['pop', 'r&b', 'rap']",1.6621
+719,2022-12-11 18:21,SZA,Snooze,201800,0.559,0.392,"['pop', 'r&b', 'rap']",3.3633333333333333
+720,2022-12-11 17:18,SZA,Notice Me,160920,0.724,0.777,"['pop', 'r&b', 'rap']",2.682
+721,2022-12-11 18:23,SZA,Notice Me,160920,0.724,0.777,"['pop', 'r&b', 'rap']",2.682
+722,2022-12-11 17:24,SZA,Gone Girl,338025,0.428,0.418,"['pop', 'r&b', 'rap']",5.63375
+723,2022-12-11 18:34,SZA,Gone Girl,62786,0.428,0.418,"['pop', 'r&b', 'rap']",1.0464333333333333
+724,2022-12-11 17:25,SZA,Smoking on my Ex Pack,83826,0.466,0.333,"['pop', 'r&b', 'rap']",1.3971
+725,2022-12-11 17:30,SZA,Ghost in the Machine (feat. Phoebe Bridgers),283972,0.624,0.589,"['pop', 'r&b', 'rap']",4.732866666666666
+726,2022-12-11 17:56,SZA,Ghost in the Machine (feat. Phoebe Bridgers),218586,0.624,0.589,"['pop', 'r&b', 'rap']",3.6431
+727,2022-12-11 18:01,SZA,Ghost in the Machine (feat. Phoebe Bridgers),218586,0.624,0.589,"['pop', 'r&b', 'rap']",3.6431
+728,2022-12-13 18:42,SZA,Ghost in the Machine (feat. Phoebe Bridgers),214492,0.624,0.589,"['pop', 'r&b', 'rap']",3.574866666666667
+729,2022-12-15 11:52,SZA,Ghost in the Machine (feat. Phoebe Bridgers),218586,0.624,0.589,"['pop', 'r&b', 'rap']",3.6431
+730,2022-12-27 10:25,SZA,Ghost in the Machine (feat. Phoebe Bridgers),218587,0.624,0.589,"['pop', 'r&b', 'rap']",3.643116666666667
+731,2023-01-05 15:09,SZA,Ghost in the Machine (feat. Phoebe Bridgers),3645,0.624,0.589,"['pop', 'r&b', 'rap']",0.06075
+732,2023-01-05 15:12,SZA,Ghost in the Machine (feat. Phoebe Bridgers),215611,0.624,0.589,"['pop', 'r&b', 'rap']",3.5935166666666665
+733,2023-01-09 18:53,SZA,Ghost in the Machine (feat. Phoebe Bridgers),218586,0.624,0.589,"['pop', 'r&b', 'rap']",3.6431
+734,2022-12-11 17:32,SZA,F2F,137981,0.533,0.465,"['pop', 'r&b', 'rap']",2.2996833333333333
+735,2022-12-11 17:57,SZA,F2F,86827,0.533,0.465,"['pop', 'r&b', 'rap']",1.4471166666666666
+736,2022-12-11 18:02,SZA,F2F,72463,0.533,0.465,"['pop', 'r&b', 'rap']",1.2077166666666668
+737,2023-01-09 18:57,SZA,F2F,185040,0.533,0.465,"['pop', 'r&b', 'rap']",3.084
+738,2022-12-11 17:34,SZA,Nobody Gets Me,106560,0.358,0.276,"['pop', 'r&b', 'rap']",1.776
+739,2022-12-13 20:01,SZA,Nobody Gets Me,7384,0.358,0.276,"['pop', 'r&b', 'rap']",0.12306666666666667
+740,2023-01-09 18:58,SZA,Nobody Gets Me,17492,0.358,0.276,"['pop', 'r&b', 'rap']",0.2915333333333333
+741,2022-12-11 17:35,SZA,Conceited,67114,0.791,0.772,"['pop', 'r&b', 'rap']",1.1185666666666667
+742,2022-12-11 17:36,SZA,Too Late,45162,0.445,0.351,"['pop', 'r&b', 'rap']",0.7527
+743,2022-12-11 17:37,SZA,Far,5770,0.612,0.477,"['pop', 'r&b', 'rap']",0.09616666666666666
+744,2022-12-11 17:40,SZA,Shirt,180682,0.848,0.572,"['pop', 'r&b', 'rap']",3.0113666666666665
+745,2022-12-13 18:45,SZA,Shirt,181840,0.848,0.572,"['pop', 'r&b', 'rap']",3.030666666666667
+746,2022-12-15 11:58,SZA,Shirt,181840,0.848,0.572,"['pop', 'r&b', 'rap']",3.030666666666667
+747,2022-12-27 10:31,SZA,Shirt,181840,0.848,0.572,"['pop', 'r&b', 'rap']",3.030666666666667
+748,2023-01-05 15:18,SZA,Shirt,181840,0.848,0.572,"['pop', 'r&b', 'rap']",3.030666666666667
+749,2023-01-09 18:50,SZA,Shirt,149803,0.848,0.572,"['pop', 'r&b', 'rap']",2.4967166666666665
+750,2022-12-11 17:44,SZA,Open Arms (feat. Travis Scott),239613,0.665,0.216,"['pop', 'r&b', 'rap']",3.99355
+751,2022-12-11 17:49,SZA,Open Arms (feat. Travis Scott),239613,0.665,0.216,"['pop', 'r&b', 'rap']",3.99355
+752,2022-12-11 17:45,SZA,I Hate U,44241,0.533,0.376,"['pop', 'r&b', 'rap']",0.73735
+753,2022-12-11 17:51,SZA,I Hate U,121762,0.533,0.376,"['pop', 'r&b', 'rap']",2.0293666666666668
+754,2023-01-07 13:54,SZA,I Hate U,173906,0.533,0.376,"['pop', 'r&b', 'rap']",2.898433333333333
+755,2022-12-11 17:52,SZA,Forgiveless (feat. Ol' Dirty Bastard),15253,0.668,0.469,"['pop', 'r&b', 'rap']",0.25421666666666665
+756,2022-12-11 18:37,Bruce Springsteen,Born in the U.S.A.,3690,0.398,0.584,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",0.0615
+757,2022-12-11 19:17,J.J. Cale,After Midnight,143693,0.694,0.521,"['blues', 'blues rock', 'folk rock', 'roots rock', 'singer-songwriter']",2.3948833333333335
+758,2022-12-11 19:18,"Crosby, Stills & Nash",Helplessly Hoping - 2005 Remaster,32306,0.483,0.423,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",0.5384333333333333
+759,2022-12-11 19:19,Joe Jackson,Is She Really Going Out With Him?,10314,0.874,0.919,"['mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'singer-songwriter', 'sophisti-pop']",0.1719
+760,2022-12-11 19:20,Paul Simon,50 Ways to Leave Your Lover,69514,0.815,0.293,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",1.1585666666666667
+761,2022-12-11 19:21,Jimi Hendrix,All Along the Watchtower,48469,0.438,0.564,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",0.8078166666666666
+762,2022-12-11 19:28,Jimi Hendrix,All Along the Watchtower,89450,0.438,0.564,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",1.4908333333333332
+763,2022-12-11 19:29,Jimi Hendrix,All Along the Watchtower,1173,0.438,0.564,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",0.01955
+764,2022-12-11 19:26,Bob Dylan,All Along the Watchtower,47605,0.581,0.697,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']",0.7934166666666667
+765,2022-12-11 19:31,Jimi Hendrix,Purple Haze,1567,0.533,0.486,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",0.026116666666666667
+766,2022-12-11 19:32,Jimi Hendrix,Little Wing,31861,0.515,0.426,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",0.5310166666666667
+767,2022-12-11 19:33,Red Hot Chili Peppers,Under the Bridge,31904,0.559,0.458,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",0.5317333333333333
+768,2022-12-11 19:35,Gus Dapperton,"Prune, You Talk Funny",8288,0.571,0.579,"['bedroom pop', 'indie poptimism', 'pov: indie']",0.13813333333333333
+769,2022-12-11 19:38,Gus Dapperton,Post Humorous,6425,0.638,0.779,"['bedroom pop', 'indie poptimism', 'pov: indie']",0.10708333333333334
+770,2022-12-11 19:42,Gus Dapperton,Post Humorous,21625,0.638,0.779,"['bedroom pop', 'indie poptimism', 'pov: indie']",0.36041666666666666
+771,2022-12-11 19:45,PinkPantheress,Reason,131906,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.1984333333333335
+772,2022-12-11 20:18,PinkPantheress,Reason,31521,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",0.52535
+773,2022-12-12 17:46,PinkPantheress,Reason,131906,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.1984333333333335
+774,2022-12-12 17:56,PinkPantheress,Reason,131906,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.1984333333333335
+775,2022-12-13 18:35,PinkPantheress,Reason,131907,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.19845
+776,2022-12-15 11:44,PinkPantheress,Reason,131906,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.1984333333333335
+777,2022-12-27 10:17,PinkPantheress,Reason,131907,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.19845
+778,2023-01-09 19:26,PinkPantheress,Reason,89987,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",1.4997833333333332
+779,2023-01-09 19:31,PinkPantheress,Reason,131906,0.543,0.281,"['atmospheric drum and bass', 'pop', 'melodic', 'atmospheric', 'Drum and bass']",2.1984333333333335
+780,2022-12-12 16:21,MPH,Nova,134813,0.797,0.478,['bass house'],2.2468833333333333
+781,2022-12-15 10:58,MPH,Nova,213000,0.797,0.478,['bass house'],3.55
+782,2022-12-13 12:37,Lil Uzi Vert,Just Wanna Rock,57584,0.486,0.0385,"['melodic rap', 'philly rap', 'rage rap', 'rap']",0.9597333333333333
+783,2023-02-16 21:18,Lil Uzi Vert,Just Wanna Rock,67465,0.486,0.0385,"['melodic rap', 'philly rap', 'rage rap', 'rap']",1.1244166666666666
+784,2023-02-21 09:49,Lil Uzi Vert,Just Wanna Rock,1602,0.486,0.0385,"['melodic rap', 'philly rap', 'rage rap', 'rap']",0.0267
+785,2023-02-21 09:50,Lil Uzi Vert,Just Wanna Rock,39926,0.486,0.0385,"['melodic rap', 'philly rap', 'rage rap', 'rap']",0.6654333333333333
+786,2022-12-13 12:38,Lil Uzi Vert,Futsal Shuffle 2020 - Bonus Track,40674,0.879,0.278,"['melodic rap', 'philly rap', 'rage rap', 'rap']",0.6779
+787,2022-12-13 12:39,Lil Uzi Vert,XO Tour Llif3,114667,0.732,0.401,"['melodic rap', 'philly rap', 'rage rap', 'rap']",1.9111166666666666
+788,2022-12-13 12:40,Lil Uzi Vert,The Way Life Goes (feat. Oh Wonder),5346,0.703,0.696,"['melodic rap', 'philly rap', 'rage rap', 'rap']",0.0891
+789,2022-12-13 12:48,SeptembersRich,5 2 Üh 60 (feat. Yeat),78581,0.595,0.566,['rage rap'],1.3096833333333333
+790,2022-12-13 12:49,SeptembersRich,Perky Dream,26288,0.483,0.244,['rage rap'],0.4381333333333333
+791,2022-12-13 18:30,SeptembersRich,Tesla (feat. Yeat),3483,0.661,0.533,['rage rap'],0.05805
+792,2022-12-13 20:02,Ewan McVicar,Heather Park,17751,0.715,0.519,['scottish techno'],0.29585
+793,2022-12-13 22:01,Mura (Br),Check It - Ewan McVicar ‘Organ’ Mix,9743,0.763,0.851,['No genre information available'],0.16238333333333332
+794,2022-12-15 09:53,Mura (Br),Check It - Ewan McVicar ‘Organ’ Mix,8501,0.763,0.851,['No genre information available'],0.14168333333333333
+795,2022-12-15 10:53,Good Luck,Look at U,215026,0.815,0.57,['aussietronica'],3.5837666666666665
+796,2022-12-15 11:01,Barry Can\'t Swim,God Is The Space Between Us,187988,0.677,0.1,"['electronic', 'House', 'breakbeat']",3.1331333333333333
+797,2022-12-15 11:03,Isenberg,Set You Free,160119,0.701,0.355,['bass house'],2.66865
+798,2022-12-15 11:16,Daphni,Falling,72747,0.768,0.859,"['canadian house', 'electronica', 'float house', 'future garage', 'microhouse']",1.21245
+799,2022-12-15 11:39,Wh0,Soul Searcher,72330,0.697,0.491,['uk dance'],1.2055
+800,2022-12-15 12:07,Flying Lotus,FF4,71520,0.607,0.486,"['afrofuturism', 'alternative hip hop', 'electronica', 'escape room', 'experimental hip hop', 'glitch', 'glitch hop', 'indietronica', 'instrumental hip hop', 'intelligent dance music', 'jazztronica', 'psychedelic hip hop', 'wonky']",1.192
+801,2022-12-15 12:11,Thundercat,Them Changes,188453,0.657,0.704,"['afrofuturism', 'indie soul']",3.1408833333333335
+802,2022-12-15 12:26,Yusef Lateef,Woodward Avenue,134226,0.59,0.644,"['avant-garde', 'bebop', 'free jazz', 'jazz', 'jazz saxophone']",2.2371
+803,2022-12-15 12:28,Clairo,4EVER,159595,0.75,0.584,"['bedroom pop', 'indie pop', 'pop', 'pov: indie']",2.6599166666666667
+804,2022-12-15 12:35,Dornik,Retail Therapy,183064,0.718,0.825,"['british soul', 'neo r&b']",3.051066666666667
+805,2022-12-15 12:37,Steve Lacy,Only If,100562,0.811,0.815,['afrofuturism'],1.6760333333333333
+806,2022-12-15 14:42,Travis Scott,ASTROTHUNDER,80226,0.7,0.286,"['hip hop', 'rap', 'slap house']",1.3371
+807,2022-12-15 16:37,The Weeknd,Stargirl Interlude,101663,0.715,0.426,"['canadian contemporary r&b', 'canadian pop', 'pop']",1.6943833333333334
+808,2022-12-16 16:02,The Weeknd,Stargirl Interlude,9972,0.715,0.426,"['canadian contemporary r&b', 'canadian pop', 'pop']",0.1662
+809,2022-12-16 16:05,BROCKHAMPTON,HOTTIE,197148,0.856,0.774,"['boy band', 'rap']",3.2858
+810,2022-12-16 16:09,GoldLink,"U Say (feat. Tyler, The Creator & Jay Prince)",201240,0.926,0.458,"['alternative r&b', 'dmv rap']",3.354
+811,2022-12-16 16:11,9th Wonder,LoveKills!!!,127184,0.714,0.972,"['alternative hip hop', 'hip hop', 'instrumental hip hop', 'north carolina hip hop']",2.1197333333333335
+812,2022-12-16 16:15,Ahmad Jamal,Swahililand,248760,0.311,0.0648,"['bebop', 'cool jazz', 'jazz', 'jazz piano']",4.146
+813,2022-12-16 16:19,BJ The Chicago Kid,Turnin' Me Up,269173,0.734,0.843,"['alternative r&b', 'chicago rap']",4.4862166666666665
+814,2022-12-16 16:22,BROCKHAMPTON,STAINS,179151,0.643,0.645,"['boy band', 'rap']",2.98585
+815,2022-12-16 16:25,Flying Lotus,Spontaneous,128647,0.647,0.0391,"['afrofuturism', 'alternative hip hop', 'electronica', 'escape room', 'experimental hip hop', 'glitch', 'glitch hop', 'indietronica', 'instrumental hip hop', 'intelligent dance music', 'jazztronica', 'psychedelic hip hop', 'wonky']",2.1441166666666667
+816,2022-12-16 16:32,Frank Ocean,Monks,200240,0.747,0.601,"['lgbtq+ hip hop', 'neo soul']",3.3373333333333335
+817,2022-12-16 16:38,Kendrick Lamar,Money Trees,386907,0.716,0.344,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",6.44845
+818,2022-12-16 16:42,SiR,Hair Down (feat. Kendrick Lamar),217006,0.793,0.47,"['alternative r&b', 'la pop']",3.6167666666666665
+819,2022-12-16 16:46,Arrested Development,Africa's Inside Me,191200,0.9,0.634,"['atl hip hop', 'conscious hip hop', 'hip hop', 'old school atlanta hip hop']",3.1866666666666665
+820,2022-12-16 16:50,James Blake,Mile High (feat. Travis Scott & Metro Boomin),193600,0.754,0.228,"['art pop', 'electronica', 'indie soul', 'indietronica', 'neo soul', 'uk alternative pop']",3.2266666666666666
+821,2022-12-16 16:52,Phonte,Hold Tight,131566,0.79,0.668,"['alternative hip hop', 'north carolina hip hop']",2.1927666666666665
+822,2022-12-16 16:55,Vince Staples,LAW OF AVERAGES,139050,0.544,0.478,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",2.3175
+823,2022-12-16 16:58,G-Unit,Smile,218000,0.779,0.591,"['gangster rap', 'hardcore hip hop', 'hip hop', 'nyc rap', 'pop rap', 'queens hip hop', 'rap', 'southern hip hop']",3.6333333333333333
+824,2022-12-16 17:00,Aminé,Sh!t2Luz,116643,0.779,0.848,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",1.94405
+825,2022-12-16 17:01,Thundercat,How Sway,74803,0.521,0.441,"['afrofuturism', 'indie soul']",1.2467166666666667
+826,2023-01-16 12:15,Thundercat,How Sway,74803,0.521,0.441,"['afrofuturism', 'indie soul']",1.2467166666666667
+827,2022-12-16 17:05,Hiatus Kaiyote,Laputa (Taylor McFerrin Remix feat. Anderson .Paak),244240,0.453,0.492,"['alternative r&b', 'australian r&b', 'indie soul', 'shiver pop']",4.070666666666667
+828,2022-12-16 17:10,Tarika Blue,Dreamflower,255533,0.551,0.376,"['jazz', 'Gilles Peterson']",4.258883333333333
+829,2022-12-18 10:01,"Tyler, The Creator",911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),76619,0.48,0.297,"['hip hop', 'rap']",1.2769833333333334
+830,2022-12-29 19:51,"Tyler, The Creator",911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),225397,0.48,0.297,"['hip hop', 'rap']",3.7566166666666665
+831,2022-12-26 11:04,Duke Deuce,Crunk Ain't Dead - Remix,118030,0.821,0.558,['memphis hip hop'],1.9671666666666667
+832,2022-12-26 11:10,Don Toliver,Cardigan,158708,0.747,0.0663,"['rap', 'trap']",2.6451333333333333
+833,2022-12-26 11:18,Quavo,RERUN (feat. Travis Scott),236947,0.684,0.529,"['atl hip hop', 'melodic rap', 'rap', 'trap']",3.949116666666667
+834,2022-12-26 11:23,Flume,Enough,85787,0.317,0.283,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",1.4297833333333334
+835,2022-12-26 11:24,Saweetie,Best Friend (feat. Doja Cat),75178,0.84,0.402,"['cali rap', 'trap queen']",1.2529666666666666
+836,2022-12-27 10:59,Charli XCX,New Shapes (feat. Christine and the Queens and Caroline Polachek),200688,0.735,0.553,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",3.3448
+837,2022-12-27 11:03,Kendrick Lamar,Father Time (feat. Sampha),222497,0.514,0.517,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",3.708283333333333
+838,2022-12-29 17:13,Pharoah Sanders,Greeting To Saud (Brother McCoy Tyner),247240,0.161,0.201,"['avant-garde jazz', 'free jazz', 'hard bop', 'jazz', 'jazz funk', 'jazz saxophone', 'spiritual jazz']",4.120666666666667
+839,2022-12-29 17:21,The Internet,"Palace/Curse (feat. Tyler, The Creator & Steve Lacy)",440013,0.447,0.261,"['alternative r&b', 'lgbtq+ hip hop']",7.33355
+840,2022-12-29 17:27,Frank Ocean,Nights,307151,0.457,0.428,"['lgbtq+ hip hop', 'neo soul']",5.119183333333333
+841,2023-01-09 19:50,Frank Ocean,Nights,2587,0.457,0.428,"['lgbtq+ hip hop', 'neo soul']",0.043116666666666664
+842,2023-01-22 15:50,Jhené Aiko,The Worst,11685,0.539,0.123,['r&b'],0.19475
+843,2022-12-29 17:31,Nico Segal,Slip Slide,211022,0.65,0.214,['pop soul'],3.5170333333333335
+844,2023-01-16 11:52,Nico Segal,Slip Slide,212299,0.65,0.214,['pop soul'],3.5383166666666668
+845,2022-12-29 17:36,Justin Bieber,No Sense,275040,0.643,0.363,"['canadian pop', 'pop']",4.584
+846,2023-01-02 18:14,Phoebe Bridgers,Motion Sickness,20224,0.651,0.623,"['indie pop', 'la indie', 'pov: indie']",0.3370666666666667
+847,2023-01-02 18:16,Kelly Clarkson,"Santa, Can’t You Hear Me",4353,0.495,0.462,"['dance pop', 'pop', 'talent show']",0.07255
+848,2023-01-02 22:27,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),104002,0.715,0.172,"['hip hop', 'rap', 'trap']",1.7333666666666667
+849,2023-01-09 18:59,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),55356,0.715,0.172,"['hip hop', 'rap', 'trap']",0.9226
+850,2023-01-09 19:03,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),149153,0.715,0.172,"['hip hop', 'rap', 'trap']",2.4858833333333332
+851,2023-01-03 12:47,Josef,Er Det For Sent? (feat. TopGunn) - Remix,149899,0.785,0.908,['No genre information available'],2.4983166666666667
+852,2023-01-03 12:49,TopGunn,Kongens Have,750,0.688,0.355,"['danish hip hop', 'danish pop']",0.0125
+853,2023-01-09 19:19,Central Cee,LET GO,4156,0.735,0.514,['melodic drill'],0.06926666666666667
+854,2023-01-03 15:23,Oliver Tree,Miss You,58212,0.587,0.199,['alternative hip hop'],0.9702
+855,2023-01-03 15:24,Lykke Li,I Follow Rivers - The Magician Remix,6466,0.786,0.306,"['art pop', 'electropop', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish indie pop', 'swedish pop']",0.10776666666666666
+856,2023-01-03 15:37,Dua Lipa,Pretty Please,1416,0.906,0.656,"['dance pop', 'pop', 'uk pop']",0.0236
+857,2023-01-04 10:04,Midnight Hour,Chill With Me,132750,0.767,0.297,['No genre information available'],2.2125
+858,2023-01-04 10:07,Noji,On My Way,136941,0.399,0.135,['No genre information available'],2.28235
+859,2023-01-04 10:09,ikeya,night after night,123601,0.608,0.485,['No genre information available'],2.060016666666667
+860,2023-01-04 10:11,Bluewerks,Up,120448,0.622,0.398,['fip'],2.0074666666666667
+861,2023-01-04 10:13,home grown,elevate,117000,0.517,0.0646,['No genre information available'],1.95
+862,2023-01-04 10:15,Midnight Hour,Soul Searching,106153,0.66,0.176,['No genre information available'],1.7692166666666667
+863,2023-01-04 10:17,Thymes,Sunset Drinks,114418,0.612,0.158,['No genre information available'],1.9069666666666667
+864,2023-01-04 10:19,Revoir,Feathers,129882,0.586,0.153,['No genre information available'],2.1647
+865,2023-01-04 10:22,Midnight Hour,After Dark,128108,0.628,0.381,['No genre information available'],2.1351333333333335
+866,2023-01-04 10:24,Living Room,Players Blues,111235,0.747,0.201,['lo-fi jazzhop'],1.8539166666666667
+867,2023-01-04 10:26,Lé Mon,Brush,123000,0.425,0.325,['No genre information available'],2.05
+868,2023-01-04 10:29,Noji,Sultry,100000,0.584,0.345,['No genre information available'],1.6666666666666667
+869,2023-01-04 15:30,Revoir,Antique Lunae,59817,0.553,0.0536,['No genre information available'],0.99695
+870,2023-02-08 17:56,Sam Smith,Unholy (feat. Kim Petras),42805,0.714,0.238,"['pop', 'uk pop']",0.7134166666666667
+871,2023-02-08 17:55,RAYE,Escapism.,35979,0.538,0.25,"['uk contemporary r&b', 'uk pop']",0.59965
+872,2023-02-21 09:47,RAYE,Escapism.,9241,0.538,0.25,"['uk contemporary r&b', 'uk pop']",0.15401666666666666
+873,2023-02-08 17:54,Taylor Swift,Anti-Hero,14059,0.637,0.533,['pop'],0.23431666666666667
+874,2023-01-09 19:08,Benny Jamz,Elo Elo,8057,0.805,0.659,"['danish hip hop', 'danish pop']",0.13428333333333334
+875,2023-01-09 19:39,The Game,Hate It Or Love It,206400,0.802,0.435,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",3.44
+876,2023-01-09 19:45,Solange,Jerrod,182106,0.409,0.218,"['afrofuturism', 'alternative r&b', 'r&b', 'urban contemporary']",3.0351
+877,2023-01-16 11:11,Solange,Jerrod,182107,0.409,0.218,"['afrofuturism', 'alternative r&b', 'r&b', 'urban contemporary']",3.0351166666666667
+878,2023-01-09 19:58,Donald Byrd,Lansana's Priestess,459466,0.476,0.894,"['bebop', 'hard bop', 'jazz', 'jazz funk', 'jazz trumpet', 'soul jazz']",7.657766666666666
+879,2023-01-10 16:09,Donald Byrd,Lansana's Priestess,459466,0.476,0.894,"['bebop', 'hard bop', 'jazz', 'jazz funk', 'jazz trumpet', 'soul jazz']",7.657766666666666
+880,2023-01-09 20:03,"Tyler, The Creator",Boredom (feat. Rex Orange County & Anna of the North),320720,0.559,0.239,"['hip hop', 'rap']",5.3453333333333335
+881,2023-01-09 20:06,The Carters,HEARD ABOUT US,190026,0.683,0.198,['r&b'],3.1671
+882,2023-01-09 20:09,"Tyler, The Creator",See You Again (feat. Kali Uchis),180386,0.558,0.62,"['hip hop', 'rap']",3.0064333333333333
+883,2023-01-10 15:55,King Krule,Cellular,179040,0.636,0.32,['uk alternative pop'],2.984
+884,2023-01-10 15:58,MF DOOM,Rapp Snitch Knishes feat. Mr. Fantastik,172893,0.728,0.825,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'instrumental hip hop']",2.88155
+885,2023-01-16 11:30,MF DOOM,Rapp Snitch Knishes feat. Mr. Fantastik,172893,0.728,0.825,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'instrumental hip hop']",2.88155
+886,2023-01-10 16:02,Frank Ocean,Lost,234093,0.913,0.497,"['lgbtq+ hip hop', 'neo soul']",3.90155
+887,2023-01-10 16:16,"Tyler, The Creator","FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)",375688,0.232,0.352,"['hip hop', 'rap']",6.261466666666666
+888,2023-01-10 16:18,Gesaffelstein,Lost in the Fire (feat. The Weeknd),110387,0.658,0.166,['dark clubbing'],1.8397833333333333
+889,2023-01-12 14:26,Elton John,Cold Heart - PNAU Remix,789,0.796,0.942,"['glam rock', 'mellow gold', 'piano rock', 'rock']",0.01315
+890,2023-01-12 15:05,Elton John,Cold Heart - PNAU Remix,60441,0.796,0.942,"['glam rock', 'mellow gold', 'piano rock', 'rock']",1.00735
+891,2023-01-13 15:03,Diplo,Wasted (feat. Kodak Black & Koe Wetzel),7836,0.674,0.292,"['edm', 'electro house', 'moombahton', 'pop dance', 'tropical house']",0.1306
+892,2023-01-13 15:05,Diplo,Wasted (feat. Kodak Black & Koe Wetzel),148418,0.674,0.292,"['edm', 'electro house', 'moombahton', 'pop dance', 'tropical house']",2.4736333333333334
+893,2023-01-13 15:07,Skrillex,Rumble,95214,0.81,0.0585,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",1.5869
+894,2023-01-13 15:09,Skrillex,Way Back,119314,0.657,0.544,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",1.9885666666666666
+895,2023-02-16 21:15,Skrillex,Way Back,16056,0.657,0.544,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",0.2676
+896,2023-02-22 10:24,Skrillex,Way Back,17635,0.657,0.544,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",0.29391666666666666
+897,2023-01-13 16:31,Duran Duran,Save a Prayer - 2009 Remaster,3668,0.572,0.671,"['album rock', 'classic rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",0.06113333333333333
+898,2023-01-13 16:32,Duran Duran,Save a Prayer - 2009 Remaster,4179,0.572,0.671,"['album rock', 'classic rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",0.06965
+899,2023-01-13 16:33,Duran Duran,Save a Prayer - 2009 Remaster,53809,0.572,0.671,"['album rock', 'classic rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",0.8968166666666667
+900,2023-01-15 11:02,Raekwon,Marvin,47900,0.715,0.746,"['east coast hip hop', 'hardcore hip hop']",0.7983333333333333
+901,2023-01-15 12:42,Drake,A Keeper,97749,0.6,0.323,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",1.62915
+902,2023-01-15 12:46,Drake,Falling Back,266178,0.718,0.349,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.4363
+903,2023-01-16 11:15,BROCKHAMPTON,RENTAL,213659,0.672,0.514,"['boy band', 'rap']",3.560983333333333
+904,2023-01-16 11:18,The Internet,For the World (feat. James Fauntleroy),8278,0.576,0.612,"['alternative r&b', 'lgbtq+ hip hop']",0.13796666666666665
+905,2023-01-16 11:22,Thundercat,Show You The Way,214554,0.698,0.63,"['afrofuturism', 'indie soul']",3.5759
+906,2023-01-16 11:25,James Blake,Barefoot In The Park (feat. ROSALÍA),211200,0.558,0.519,"['art pop', 'electronica', 'indie soul', 'indietronica', 'neo soul', 'uk alternative pop']",3.52
+907,2023-01-16 11:33,Phony Ppl,End of The niGht.,194680,0.809,0.651,"['alternative r&b', 'indie soul']",3.244666666666667
+908,2023-01-16 11:37,Miguel,Adorn,193147,0.625,0.235,['r&b'],3.219116666666667
+909,2023-01-16 11:40,Domo Genesis,Dapper (feat. Anderson .Paak),193093,0.753,0.562,"['alternative hip hop', 'underground hip hop']",3.2182166666666667
+910,2023-01-16 11:43,Kanye West,Believe What I Say,13642,0.595,0.416,"['chicago rap', 'hip hop', 'rap']",0.22736666666666666
+911,2023-01-16 11:49,J. Cole,Change,331480,0.74,0.235,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",5.524666666666667
+912,2023-01-16 11:59,Miles Davis,Little Church (feat. Hiatus Kaiyote) - Remix,395253,0.257,0.0733,"['cool jazz', 'hard bop', 'jazz', 'jazz fusion', 'jazz trumpet', 'soul', 'vocal jazz']",6.58755
+913,2023-01-16 12:03,Tame Impala,The Moment,255413,0.547,0.451,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",4.256883333333334
+914,2023-01-22 15:57,Tame Impala,The Moment,255413,0.547,0.451,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",4.256883333333334
+915,2023-01-16 12:08,Frank Ocean,Super Rich Kids,304760,0.739,0.58,"['lgbtq+ hip hop', 'neo soul']",5.0793333333333335
+916,2023-01-16 12:21,Donald Byrd,Miss Kane,380933,0.447,0.676,"['bebop', 'hard bop', 'jazz', 'jazz funk', 'jazz trumpet', 'soul jazz']",6.348883333333333
+917,2023-01-16 12:26,Liss,Without Me,288278,0.728,0.417,['danish electropop'],4.804633333333333
+918,2023-03-10 19:05,Liss,Without Me,288277,0.728,0.417,['danish electropop'],4.804616666666667
+919,2023-01-20 10:39,Jungle,All Of The Time,141690,0.694,0.877,"['indie soul', 'indietronica', 'uk contemporary r&b']",2.3615
+920,2023-01-22 15:32,Jungle,All Of The Time,42127,0.694,0.877,"['indie soul', 'indietronica', 'uk contemporary r&b']",0.7021166666666666
+921,2023-01-22 15:34,SiR,You Can't Save Me,149709,0.622,0.545,"['alternative r&b', 'la pop']",2.49515
+922,2023-01-22 15:37,Pusha T,The Games We Play,166120,0.694,0.592,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",2.768666666666667
+923,2023-01-22 15:38,Big K.R.I.T.,"The Light (feat. Bilal, Robert Glasper Jr., Kenneth Whalum & Burniss Earl Travis II)",68072,0.401,0.17,"['conscious hip hop', 'hip hop', 'mississippi hip hop', 'southern hip hop', 'trap']",1.1345333333333334
+924,2023-01-22 15:41,Isaac Hayes,Hung Up On My Baby,19982,0.678,0.937,"['classic soul', 'disco', 'funk', 'memphis soul', 'quiet storm', 'soul', 'southern soul']",0.33303333333333335
+925,2023-01-22 15:45,Drake,Best I Ever Had,258760,0.395,0.558,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",4.312666666666667
+926,2023-01-22 15:49,Kendrick Lamar,Complexion (A Zulu Love),263360,0.665,0.37,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",4.389333333333333
+927,2023-01-22 15:53,Knox Fortune,Lil Thing,207445,0.689,0.659,['chicago indie'],3.4574166666666666
+928,2023-01-22 16:05,Marvin Gaye,What's Going On,233000,0.283,0.828,"['classic soul', 'motown', 'neo soul', 'northern soul', 'quiet storm', 'soul']",3.8833333333333333
+929,2023-01-22 16:11,Khruangbin,Time (You and I),342189,0.751,0.923,"['indie soul', 'neo-psychedelic']",5.70315
+930,2023-01-22 16:14,Tame Impala,Instant Destiny,194707,0.381,0.509,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",3.2451166666666666
+931,2023-01-22 16:20,"Tyler, The Creator","2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)",353473,0.352,0.348,"['hip hop', 'rap']",5.891216666666667
+932,2023-01-31 15:34,Maroc,Gag Reflex,69056,0.704,0.388,['No genre information available'],1.1509333333333334
+933,2023-01-31 15:36,Maroc,Yellow Snow,2252,0.688,0.184,['No genre information available'],0.037533333333333335
+934,2023-01-31 16:33,Maroc,Punch Drunk Rich Kid,49771,0.747,0.629,['No genre information available'],0.8295166666666667
+935,2023-02-05 15:37,August Høyen,Vennerne Skinner,15233,0.609,0.513,['No genre information available'],0.25388333333333335
+936,2023-02-07 10:31,Maria Clante,Over Dig,123901,0.628,0.212,['No genre information available'],2.0650166666666667
+937,2023-02-07 10:43,Maria Clante,Frit Flydende Luftbobler,258101,0.643,0.472,['No genre information available'],4.301683333333333
+938,2023-02-08 17:59,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",67047,0.778,0.498,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",1.11745
+939,2023-02-08 22:05,Miley Cyrus,Flowers,136359,0.707,0.646,['pop'],2.27265
+940,2023-02-21 10:18,Miley Cyrus,Flowers,197021,0.707,0.646,['pop'],3.2836833333333333
+941,2023-02-16 21:08,Joji,SLOW DANCING IN THE DARK,24322,0.515,0.284,['viral pop'],0.40536666666666665
+942,2023-02-22 10:14,BAUGRUPPE90,Schwung,27631,0.751,0.303,['No genre information available'],0.4605166666666667
+943,2023-02-20 17:56,Don Toliver,What You Need,1880,0.656,0.137,"['rap', 'trap']",0.03133333333333333
+944,2023-02-21 09:43,TopGunn,For Altid,42283,0.575,0.901,"['danish hip hop', 'danish pop']",0.7047166666666667
+945,2023-02-21 09:45,Coi Leray,Players,134257,0.954,0.624,"['new jersey underground rap', 'trap queen']",2.237616666666667
+946,2023-02-22 10:23,PinkPantheress,Boy's a liar Pt. 2,131013,0.696,0.857,"['rap', 'electronic', 'hip hop', 'pop rap', 'mothers']",2.18355
+947,2023-02-22 10:25,Skrillex,RATATA,7233,0.889,0.501,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",0.12055
+948,2023-02-22 10:56,Skrillex,Supersonic (my existence),52987,0.555,0.0649,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",0.8831166666666667
+949,2023-03-06 19:32,slowthai,feel away (feat. James Blake & Mount Kimbie),123093,0.404,0.339,"['uk alternative hip hop', 'uk hip hop']",2.05155
+950,2023-03-06 19:41,slowthai,feel away (feat. James Blake & Mount Kimbie),197375,0.404,0.339,"['uk alternative hip hop', 'uk hip hop']",3.2895833333333333
+951,2023-03-08 17:35,slowthai,feel away (feat. James Blake & Mount Kimbie),200933,0.404,0.339,"['uk alternative hip hop', 'uk hip hop']",3.348883333333333
+952,2023-03-06 19:35,Beach Fossils,Down the Line,158474,0.615,0.528,"['brooklyn indie', 'dreamo', 'indie garage rock', 'indie rock', 'indie surf', 'noise pop', 'popgaze', 'shoegaze']",2.6412333333333335
+953,2023-03-06 19:37,Beach Fossils,Sleep Apnea,9994,0.553,0.491,"['brooklyn indie', 'dreamo', 'indie garage rock', 'indie rock', 'indie surf', 'noise pop', 'popgaze', 'shoegaze']",0.16656666666666667
+954,2023-03-06 19:44,slowthai,terms (feat. Dominic Fike & Denzel Curry),173002,0.727,0.238,"['uk alternative hip hop', 'uk hip hop']",2.883366666666667
+955,2023-03-06 19:45,Dominic Fike,3 Nights,72266,0.815,0.877,"['alternative pop rock', 'pov: indie']",1.2044333333333332
+956,2023-03-06 21:06,Dominic Fike,"Elliot's Song - From ""Euphoria"" An HBO Original Series",89909,0.394,0.411,"['alternative pop rock', 'pov: indie']",1.4984833333333334
+957,2023-03-06 21:50,Jaco Pastorius,Portrait of Tracy,130995,0.238,0.116,"['contemporary post-bop', 'electric bass', 'jazz', 'jazz funk', 'jazz fusion']",2.18325
+958,2023-03-08 17:42,Miguel,Sky Walker (feat. Travis Scott),154501,0.674,0.183,['r&b'],2.5750166666666665
+959,2023-03-08 17:45,Don Toliver,Embarrassed (feat. Travis Scott),192693,0.861,0.543,"['rap', 'trap']",3.21155
+960,2023-03-08 17:46,Don Toliver,4 Me (feat. Kali Uchis),6750,0.51,0.764,"['rap', 'trap']",0.1125
+961,2023-03-08 17:52,Don Toliver,4 Me (feat. Kali Uchis),160013,0.51,0.764,"['rap', 'trap']",2.6668833333333333
+962,2023-03-08 17:49,Don Toliver,Let Her Go (feat. James Blake),192720,0.732,0.396,"['rap', 'trap']",3.212
+963,2023-03-08 17:56,Don Toliver,Private Landing (feat. Justin Bieber & Future),217252,0.843,0.435,"['rap', 'trap']",3.6208666666666667
+964,2023-03-08 17:59,Don Toliver,Slow Motion (feat. Wizkid),168626,0.5,0.433,"['rap', 'trap']",2.810433333333333
+965,2023-03-08 18:03,Don Toliver,Cinderella (feat. Toro y Moi),226706,0.498,0.46,"['rap', 'trap']",3.7784333333333335
+966,2023-03-08 18:07,Don Toliver,Go Down (feat. TisaKorean),210853,0.582,0.4,"['rap', 'trap']",3.5142166666666665
+967,2023-03-10 19:00,Solange,Time (is),219960,0.493,0.38,"['afrofuturism', 'alternative r&b', 'r&b', 'urban contemporary']",3.666
