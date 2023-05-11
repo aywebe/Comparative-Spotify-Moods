@@ -19,7 +19,7 @@ alt.data_transformers.disable_max_rows()
 st.set_page_config(
     page_title='Comparative Moods',
     layout="wide",
-    initial_sidebar_state="expanded",
+    # initial_sidebar_state="expanded",
 )
 
 # Link to your CSS file
@@ -100,8 +100,8 @@ st.write("""
          )
 
 # SIDEBAR
-with st.sidebar:
-	st.write("Sidebar Hello")
+# with st.sidebar:
+# 	st.write("Sidebar Hello")
 
 ############### ALL ###################
 
