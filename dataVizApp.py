@@ -25,14 +25,14 @@ st.set_page_config(
 # Link to your CSS file
 st.markdown(
     """
-    <link href="./style.css" rel="stylesheet">
+    <style>
+    body {
+    font-family: 'Times New Roman', Times, serif;
+    }
+    </style>
     """,
-    unsafe_allow_html=True,
+    unsafe_allow_html=True
 )
-
-# CSS
-# with open("style.css") as f:
-#     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # IMPORT CHART FROM PYTHON PATHS ALL
 from radialChartAll.radialChartAverageValenceAll import radial_chart_average_valence_all
