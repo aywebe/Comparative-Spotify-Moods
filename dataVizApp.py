@@ -103,10 +103,6 @@ st.write("""
         """
         )
 
-# SIDEBAR
-# with st.sidebar:
-# 	st.write("Sidebar Hello")
-
 ############### ALL ###################
 
 # LINE CHART ALL
@@ -134,7 +130,7 @@ with col1:
 
 with col2:
     # 24-HOUR RADIAL VALENCE SCORE CHART FOR ALL
-    st.write("**Valence Score by Hour for All**")
+    st.write("**Average Valence Score by Hour for All**")
     st.altair_chart(radial_chart_valence_average_all, use_container_width=True)
     st.markdown("""<p class="picture-font"> Radial Chart Valence Score: Anomalies include the lowest average 
                 valence score at midnight and a relatively low score at 11 pm. Trends show a downward trend in valence 
@@ -144,7 +140,7 @@ with col2:
 
 with col3:
     # 24-HOUR RADIAL DANCEABILITY CHART FOR ALL
-    st.write("**Danceability Score by Hour for All**")
+    st.write("**Average Danceability Score by Hour for All**")
     st.altair_chart(hourly_danceability_all, use_container_width=True)
     st.markdown("""<p class="picture-font"> Radial Chart Danceability: This data suggests an increasing trend in 
                 danceability scores from midnight to early afternoon, peaking at 5 pm, followed by a slight decrease 
@@ -178,7 +174,7 @@ if "Anton" in options:
 
     with col5:
         # 24-HOUR RADIAL VALENCE CHART FOR ANTON
-        st.write("**Valence Score by 24-Hours for Anton**")
+        st.write("**Average Valence Score by 24-Hours for Anton**")
         st.altair_chart(radial_chart_average_valence_anton, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Anton: This data suggests 
                     that the average valence score of music played in a certain period is relatively stable 
@@ -190,7 +186,7 @@ if "Anton" in options:
 
     with col6:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR ANTON
-        st.write("**Danceability Score by 24-Hours for Anton**")
+        st.write("**Average Danceability Score by 24-Hours for Anton**")
         st.altair_chart(radial_chart_hourly_danceability_anton, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Danceability for Anton: The scores range from 
                     0.59 to 0.829, with the highest score occurring at 8am and the lowest score at 9am. 
@@ -216,7 +212,7 @@ if "Freyja" in options:
 
     with col8:
         # 24-HOUR RADIAL VALENCE CHART FOR FREYJA
-        st.write("**Valence Score by 24-Hours for Freyja**")
+        st.write("**Average Valence Score by 24-Hours for Freyja**")
         st.altair_chart(radial_chart_average_valence_freyja, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Freyja: 
                     The valence scores range from
@@ -230,7 +226,7 @@ if "Freyja" in options:
 
     with col9:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR FREYJA
-        st.write("**Danceability Score by 24-Hours for Freyja**")
+        st.write("**Average Danceability Score by 24-Hours for Freyja**")
         st.altair_chart(radial_chart_hourly_danceability_freyja, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Danceability for Freyja: The danceability scores range from
                     0.152 to 0.626, with the highest score occurring at 5am and the lowest score at 3am.
@@ -258,7 +254,7 @@ if "Laura" in options:
 
     with col11:
         # 24-HOUR RADIAL VALENCE CHART FOR LAURA
-        st.write("**Valence Score by 24-Hours for Laura**")
+        st.write("**Average Valence Score by 24-Hours for Laura**")
         st.altair_chart(radial_chart_average_valence_laura, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Laura: The valence scores 
                     range from 0.205 to 0.538, with the highest score occurring at 11pm and the lowest 
@@ -270,7 +266,7 @@ if "Laura" in options:
 
     with col12:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR Laura
-        st.write("*Danceability Score by 24-Hours for Laura*")
+        st.write("*Average Danceability Score by 24-Hours for Laura*")
         st.altair_chart(radial_chart_hourly_danceability_laura, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Danceability for Laura: The danceability 
                     scores range from 0.573 to 0.694, with the highest score occurring at 3am and the 
@@ -294,7 +290,7 @@ if "Emil" in options:
 
     with col14: 
         # 24-HOUR RADIAL VALENCE CHART FOR EMIL
-        st.write("**Valence Score by 24-Hours for Emil**")
+        st.write("**Average Valence Score by 24-Hours for Emil**")
         st.altair_chart(radial_chart_average_valence_emil, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Emil: 
             </p>""", unsafe_allow_html=True)
@@ -302,7 +298,7 @@ if "Emil" in options:
 
     with col15:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
-        st.write("**Danceability Score by 24-Hours for Emil**")
+        st.write("**Average Danceability Score by 24-Hours for Emil**")
         st.altair_chart(radial_chart_hourly_danceability_emil, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Danceability for Emil: 
             </p>""", unsafe_allow_html=True)

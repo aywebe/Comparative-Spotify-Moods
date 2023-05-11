@@ -26,9 +26,9 @@ df_genres_clean_40 = df_genres_clean_2[df_genres_clean_2['artistGenres'].isin(to
 strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_40, title='Strip Plot of Danceability by Top 10 Artist Genres').mark_circle(size=8).encode(
     y=alt.Y("artistGenres:N", axis=alt.Axis(title="Artist Genres")),
     x=alt.X("danceability:Q", axis=alt.Axis(title="Danceability")),
-    href='url:N',
+    # href='url:N',
     tooltip=['trackName:N', "artistName:N",'url:N'],
-    yOffset="jitter:Q",
+    # yOffset="jitter:Q",
     color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='plasma'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
