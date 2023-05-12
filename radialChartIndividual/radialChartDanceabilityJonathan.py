@@ -13,10 +13,10 @@ alt.data_transformers.disable_max_rows()
 
 # HOURLY DANCEABILITY CHART FOR ALL
 
-df_hourly_danceability_average_freyja = pd.read_csv("data/hourlyStreamingIndividual/dfHourlyDanceabilityAverageFreyja.csv")
+df_hourly_danceability_average_jonathan = pd.read_csv("data/hourlyStreamingIndividual/dfHourlyDanceabilityAverageJonathan.csv")
 
 # Extract values from df_hourly_valence_non_average
-values = df_hourly_danceability_average_freyja['averageDanceabilityScore'].tolist()
+values = df_hourly_danceability_average_jonathan['averageDanceabilityScore'].tolist()
 
 # Create a data frame with the values and index values
 source = pd.DataFrame({'values': values, 'hour': range(0, len(values))})
@@ -32,4 +32,4 @@ base = alt.Chart(source).encode(
 c1 = base.mark_arc(innerRadius=20, stroke="#fff")
 c2 = base.mark_text(radiusOffset=10).encode(text=alt.Text('hour:N'), angle=alt.value(0))
 
-radial_chart_hourly_danceability_freyja = (c1 + c2).properties(width=400, height=400)
+radial_chart_hourly_danceability_jonathan = (c1 + c2).properties(width=400, height=400)

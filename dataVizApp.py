@@ -38,7 +38,7 @@ streamlit_style = """
 st.markdown(streamlit_style, unsafe_allow_html=True)
 
 # IMPORT CHART FROM PYTHON PATHS ALL
-from radialChartAll.radialChartAverageValenceAll import radial_chart_average_valence_all
+# from radialChartAll.radialChartAverageValenceAll import radial_chart_average_valence_all
 from stripPlotAll.stripPlotTopTenGenresValenceAll import strip_plot_valence_artist_genres_all
 from stripPlotAll.stripPlotTopTenGenresDanceabilityAll import strip_plot_danceability_artist_genres_all
 from heatmapAll.heatmapValenceDanceabilityAll import heatmap_valence_danceability_all
@@ -69,6 +69,14 @@ from radialChartIndividual.radialChartDanceabilityLaura import radial_chart_hour
 from radialChartIndividual.radialChartCountSongsEmil import radial_chart_songs_count_hour_emil
 from radialChartIndividual.radialChartAverageValenceEmil import radial_chart_average_valence_emil
 from radialChartIndividual.radialChartDanceabilityEmil import radial_chart_hourly_danceability_emil
+
+# JONATHAN
+from radialChartIndividual.radialChartCountSongsJonathan import radial_chart_songs_count_hour_jonathan
+from radialChartIndividual.radialChartAverageValenceJonathan import radial_chart_average_valence_jonathan
+from radialChartIndividual.radialChartDanceabilityJonathan import radial_chart_hourly_danceability_jonathan
+
+
+####################################################################################################
 
 # TITLE
 st.title('Comparitive Moods Visualized with Spotify Data')
@@ -285,14 +293,22 @@ if "Emil" in options:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
         st.write("**Total Count of Songs by 24-Hours for Emil**")
         st.altair_chart(radial_chart_songs_count_hour_emil, use_container_width=True)
-        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Emil: 
+        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Emil: The chart 
+                    indicates that the fewest tracks were played during the early morning hours, 
+                    with the lowest count recorded at hour 4. The track count then gradually 
+                    increased throughout the day, with the highest count recorded during the late 
+                    afternoon and early evening hours from 6 PM to 9 PM. The count then decreases 
+                    from 9 PM to 4 AM
             </p>""", unsafe_allow_html=True)
 
     with col14: 
         # 24-HOUR RADIAL VALENCE CHART FOR EMIL
         st.write("**Average Valence Score by 24-Hours for Emil**")
         st.altair_chart(radial_chart_average_valence_emil, use_container_width=True)
-        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Emil: 
+        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Emil: The chart indicates 
+                    that the highest valence scores are recorded during the late afternoon and early 
+                    evening hours, with a peak at hour 21. The lowest valence scores are recorded during 
+                    the early morning hours.
             </p>""", unsafe_allow_html=True)
 
 
@@ -300,9 +316,55 @@ if "Emil" in options:
         # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
         st.write("**Average Danceability Score by 24-Hours for Emil**")
         st.altair_chart(radial_chart_hourly_danceability_emil, use_container_width=True)
-        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Emil: 
+        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Emil: The danceability 
+                    score is relatively high during the early morning hours from 3 AM to 7 AM. However, 
+                    there is a slight dip in danceability from 7 AM to 10 AM, with a low at hour 10. 
+                    The score then gradually increases from 10 AM to 8 PM, with the highest score 
+                    recorded at hour 21. The danceability score then decreases from 8 PM to 3 AM, with 
+                    the lowest score recorded at hour 2
             </p>""", unsafe_allow_html=True)
 
+######### JONATHAN ###########
+
+col16, col17, col18 = st.columns(3, gap="large")
+if "Jonathan" in options: 
+    with col16:
+        # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
+        st.write("**Total Count of Songs by 24-Hours for Jonathan**")
+        st.altair_chart(radial_chart_songs_count_hour_jonathan, use_container_width=True)
+        st.markdown("""<p class="picture-font"> Radial Chart Count of Songs for Emil: This data shows 
+                    the number of tracks played at different hours of the day, presented as a radial 
+                    chart. The chart shows that the number of tracks played is lowest during the early
+                    morning hours from 0 to 2. There is a gradual increase in the number of tracks 
+                    played from 2 to 7, with a steep increase from 7 to 10. The highest number of 
+                    tracks played is recorded at hour 17, after which the number decreases. The lowest 
+                    number of tracks played is recorded at hour 23.
+            </p>""", unsafe_allow_html=True)
+
+    with col17: 
+        # 24-HOUR RADIAL VALENCE CHART FOR EMIL
+        st.write("**Average Valence Score by 24-Hours for Jonathan**")
+        st.altair_chart(radial_chart_average_valence_jonathan, use_container_width=True)
+        st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Jonathan: This data 
+                    shows the average valence score of music tracks across the day, visualized on a 
+                    radial chart. The chart shows that valence scores are relatively low during the 
+                    early morning hours from 0 to 2, with a slight increase from 2 to 6. There is a 
+                    gradual increase in valence scores from 6 to 17, with the highest score recorded 
+                    at hour 17. Scores then decrease from 17 to 23, with the lowest score recorded at 
+                    hour 2.
+            </p>""", unsafe_allow_html=True)
+
+    with col18:
+        # 24-HOUR RADIAL DANCEABILITY CHART FOR EMIL
+        st.write("**Average Danceability Score by 24-Hours for Jonathan**")
+        st.altair_chart(radial_chart_hourly_danceability_jonathan, use_container_width=True)
+        st.markdown("""<p class="picture-font"> Radial Chart Danceability for Jonathan: The chart shows 
+                    that the danceability score is relatively low during the early morning hours, from 
+                    0 to 3. However, there is a gradual increase in danceability from 3 to 8, with a peak 
+                    at hour 15. The danceability score remains relatively high from 15 to 19, with a 
+                    slight dip at hour 18. The score then decreases from 19 to 23, with the lowest score 
+                    recorded at hour 3.
+            </p>""", unsafe_allow_html=True)
 
 ############### CHARTS THAT ARE WORKING ON ALL OF OUR DATA ###################
 

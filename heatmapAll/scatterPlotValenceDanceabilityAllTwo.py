@@ -28,7 +28,7 @@ scatter_plot_valence_danceability_all = alt.Chart(df_genres_clean_40).mark_circl
     # href='url:N', 
     tooltip=['trackName:N', "artistName:N", 'artistGenres:N','valenceScore:Q', 'danceability:Q', ],
     # yOffset="jitter:Q",
-    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='plasma'))
+    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='purpleblue'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
     # url='https://www.google.com/search?q=' + alt.datum.Name,

@@ -29,7 +29,7 @@ strip_plot_valence_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle
     tooltip=['trackName:N', "artistName:N", "artistGenres:N" ,"valenceScore:Q", "danceability:Q"],
     # yOffset="jitter:Q",
     # TODO: Let color be dependent on both valenceScore and danceability 
-    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='plasma'))
+    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='purples'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
     # url='https://www.google.com/search?q=' + alt.datum.Name,

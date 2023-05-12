@@ -18,10 +18,14 @@ total_valence_df = pd.read_csv("data/lineChartData/DfMonthlyMeanAll.csv")
 
 click = alt.selection_single(encodings=["color"])
 
+color_scale = alt.Scale(scheme='purples')
+color_mapper = alt.Color('valenceScore:Q', title="Valence Score", scale=color_scale)
+color_condition = alt.condition(click, "userID:N", alt.value("grey"))
+
 base = alt.Chart(source).encode(
-    x='endTime:T',
-    y='valenceScore:Q',
-    color='userID:N'
+    x=alt.X('endTime:T', title="Months"),
+    y=alt.Y('valenceScore:Q', title="Valence Score"),
+    color=alt.Color('userID:N', title="Group Member", scale=alt.Scale(scheme='purples'))
 )
 
 points = base.mark_circle().encode(
@@ -37,9 +41,9 @@ lines = base.mark_line().encode(
 )
 
 bar = alt.Chart(total_valence_df).mark_bar().encode(
-    x="valenceScore",
-    y="userID:N",
-    color=alt.condition(click, "userID:N",alt.value("grey")),
+    x=alt.X("valenceScore:Q", title="Valence Score"),
+    y=alt.Y("userID:N",title="Group Member", sort="-x"),
+    color=alt.condition(click, "userID:N", alt.value("grey"), scale=alt.Scale(scheme='purples')),
     tooltip=['valenceScore']  # Add tooltip encoding to display the score
 ).add_selection(
     click
