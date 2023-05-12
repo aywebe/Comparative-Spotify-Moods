@@ -54,6 +54,7 @@ from linechartAll.lineChartAll import line_chart_all
 from radialChartIndividual.radialChartCountSongsAnton import radial_chart_songs_count_hour_anton
 from radialChartIndividual.radialChartAverageValenceAnton import radial_chart_average_valence_anton
 from radialChartIndividual.radialChartDanceabilityAnton import radial_chart_hourly_danceability_anton
+# from radarCharts.radarChartAnton import fig
 
 # FREYJA
 from radialChartIndividual.radialChartCountSongsFreyja import radial_chart_songs_count_hour_freyja
@@ -425,9 +426,21 @@ with col19:
                 with its associated track name, artist name, artist genres, and a URL for searching the 
                 track. 
             </p>""", unsafe_allow_html=True)
+    
+
+# col20, col21, col22, col23, col24 = st.columns(5, gap="large")
+
+# with col20:
+#     st.subheader("Radar Chart Anton")
+#     st.plotly_chart(fig, use_container_width=True)
+#     st.markdown("""<p class="picture-font"> Radar Chart Anton:
+#             </p>""", unsafe_allow_html=True)
 
 
-
+# st.subheader("Radar Chart Anton")
+# st.plotly_chart(fig, use_container_width=True)
+# st.markdown("""<p class="picture-font"> Radar Chart Anton:
+#             </p>""", unsafe_allow_html=True)
 
 
 
