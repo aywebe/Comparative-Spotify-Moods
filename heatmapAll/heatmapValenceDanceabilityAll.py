@@ -34,7 +34,7 @@ df_grouped = df_grouped.reset_index()
 heatmap_valence_danceability_all = alt.Chart(df_grouped).mark_rect().encode(
     alt.X('valenceScore:Q', bin=True),
     alt.Y('danceability:Q', bin=True),
-    alt.Color('count():Q', scale=alt.Scale(scheme='greys'))
+    alt.Color('count():Q', scale=alt.Scale(scheme='hello'))
 ).properties(
     width=800,
     height=400,
