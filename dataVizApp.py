@@ -428,19 +428,6 @@ with col19:
             </p>""", unsafe_allow_html=True)
     
 
-# col20, col21, col22, col23, col24 = st.columns(5, gap="large")
-
-# with col20:
-#     st.subheader("Radar Chart Anton")
-#     st.plotly_chart(fig, use_container_width=True)
-#     st.markdown("""<p class="picture-font"> Radar Chart Anton:
-#             </p>""", unsafe_allow_html=True)
-
-
-# st.subheader("Radar Chart Anton")
-# st.plotly_chart(fig, use_container_width=True)
-# st.markdown("""<p class="picture-font"> Radar Chart Anton:
-#             </p>""", unsafe_allow_html=True)
 
 
 
