@@ -25,15 +25,11 @@ df_genres_clean_40 = df_genres_clean_2[df_genres_clean_2['artistGenres'].isin(to
 scatter_plot_valence_danceability_all = alt.Chart(df_genres_clean_40).mark_circle(size=30).encode(
     y=alt.Y("danceability:Q", axis=alt.Axis(title="Danceability")),
     x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
-    # href='url:N', 
     tooltip=['trackName:N', "artistName:N", 'artistGenres:N','valenceScore:Q', 'danceability:Q', ],
-    # yOffset="jitter:Q",
-    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='purpleblue'))
+    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='greys'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
-    # url='https://www.google.com/search?q=' + alt.datum.Name,
     # Generate Gaussian jitter with a Box-Muller transform
-    jitter="sqrt(-2*log(random()))*sin(2*PI*random())"
 ).properties(width=800, height=800)
 
 scatter_plot_valence_danceability_all 

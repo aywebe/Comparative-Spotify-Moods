@@ -7,8 +7,6 @@ import time
 import requests
 import csv
 import altair as alt
-import plotly.express as px
-import plotly.figure_factory as ff
 import numpy as np
 from datetime import datetime
 alt.data_transformers.disable_max_rows()
@@ -49,12 +47,6 @@ bar = alt.Chart(total_valence_df).mark_bar().encode(
     click
 ).properties(height=200)
 
-# # Create a scatterplot of valenceScore vs. endTime
-# scatter = alt.Chart(all_merged_streaming).mark_point().encode(
-#     x='valenceScore:Q',
-#     y='endTime:T',
-#     color='artistName:N'
-# )
 
 line_chart_all = bar | points + lines
 
