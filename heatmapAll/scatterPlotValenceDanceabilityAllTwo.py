@@ -15,6 +15,9 @@ alt.data_transformers.disable_max_rows()
 
 df_genres_clean_2 = pd.read_csv("data/mergedStreaming/GenresMergedStreaming.csv")
 
+# Remove "No genre information available"
+df_genres_clean = df_genres_clean_2[df_genres_clean_2['artistGenres'] != 'No genre information available']
+
 # Count the occurrences of each genre and get the top 40 most common genres
 top_genres = df_genres_clean_2['artistGenres'].value_counts().nlargest(10).index.tolist()
 
