@@ -47,7 +47,7 @@ from radialChartAll.radialChartCountSongsAll import radial_chart_songs_count_hou
 from radialChartAll.radialChartAverageValenceHourAll import radial_chart_valence_average_all
 from radialChartAll.radialChartAverageDanceabilityAll import hourly_danceability_all
 from linechartAll.lineChartAll import line_chart_all
-from linechartAll.lineChartMeanAll import mean_total_valence_danceability_all
+# from linechartAll.lineChartMeanAll import mean_total_valence_danceability_all
 
 # IMPORT CHART FROM PYTHON PATHS INDIVIDUAL
 
@@ -127,10 +127,10 @@ st.markdown("""<p class="picture-font">Line Chart: The line chart displays the v
 
 # LINE CHART MEAN ALL - DANCEABILITY + VALENCE
 
-st.subheader("1-Year Valence and Danceability Mean Score for All Group Members")
-st.altair_chart(mean_total_valence_danceability_all, use_container_width=True)
-st.markdown("""<p class="picture-font"> Line Chart Mean All: Awaiting text... 
-            </p>""", unsafe_allow_html=True)
+# st.subheader("1-Year Valence and Danceability Mean Score for All Group Members")
+# st.altair_chart(mean_total_valence_danceability_all, use_container_width=True)
+# st.markdown("""<p class="picture-font"> Line Chart Mean All: Awaiting text... 
+#             </p>""", unsafe_allow_html=True)
 
 
 st.subheader("24-Hour Valence Score and Danceability for All Group Members")
