@@ -133,7 +133,7 @@ st.markdown("""<p class="picture-font">Line Chart: The line chart displays the v
 #             </p>""", unsafe_allow_html=True)
 
 
-st.subheader("24-Hour Valence Score and Danceability for All Group Members")
+st.subheader("Comparative 24-Hour Valence Score and Danceability for All Group Members")
 # COLUMNS STYLING
 col1, col2, col3 = st.columns(3, gap="large")
 with col1:
