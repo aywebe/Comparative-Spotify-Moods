@@ -22,11 +22,11 @@ top_genres = df_genres_clean_2['artistGenres'].value_counts().nlargest(10).index
 df_genres_clean_40 = df_genres_clean_2[df_genres_clean_2['artistGenres'].isin(top_genres)]
 
 # Create the strip plot using the filtered DataFrame
-scatter_plot_valence_danceability_all = alt.Chart(df_genres_clean_40).mark_circle(size=30).encode(
+scatter_plot_valence_danceability_all = alt.Chart(df_genres_clean_40).mark_circle(size=30, color="#6f82ac").encode(
     y=alt.Y("danceability:Q", axis=alt.Axis(title="Danceability")),
     x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
     tooltip=['trackName:N', "artistName:N", 'artistGenres:N','valenceScore:Q', 'danceability:Q', ],
-    color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='greys'))
+    # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='greys'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
     # Generate Gaussian jitter with a Box-Muller transform
