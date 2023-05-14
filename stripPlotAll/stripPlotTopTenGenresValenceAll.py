@@ -35,7 +35,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
         scale=alt.Scale(),
     ),
     x=alt.X('valenceScore:Q', scale=alt.Scale(domain=(0, 1))),
-    sort=alt.EncodingSortField(field="count", order='descending'),
     color=alt.Color(legend=None),
     row=alt.Row(
         'artistGenres:N',
