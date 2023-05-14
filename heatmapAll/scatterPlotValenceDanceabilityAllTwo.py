@@ -61,6 +61,7 @@ detail = (
             scale=alt.Scale(domain={"selection": zoom.name, "encoding": "y"}),
             axis=alt.Axis(title="Danceability")
         ),
+        color=alt.Color(legend=None),
         tooltip=["trackName", "artistName", "valenceScore", "danceability"],
     )
     .properties(width=550, height=400)
