@@ -47,7 +47,7 @@ minimap = (
     )
 )
 
-minimap.configure_title(fontSize=12)
+minimap.configure_title(fontSize=2)
 
 detail = (
     alt.Chart(source)
