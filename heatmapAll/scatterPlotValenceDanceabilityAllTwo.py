@@ -38,7 +38,7 @@ minimap = (
     .encode(
         x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
         y=alt.Y("danceability:Q", axis=alt.Axis(title="Danceability")),
-        color=alt.condition(zoom, "artistGenres", alt.value("lightgray")),
+        color=alt.condition(zoom, alt.value("#6f82ac"), alt.value("lightgray")),
     )
     .properties(
         width=200,
