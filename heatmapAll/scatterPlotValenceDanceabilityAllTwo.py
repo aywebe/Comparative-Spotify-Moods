@@ -62,10 +62,14 @@ detail = (
             axis=alt.Axis(title="Danceability")
         ),
         color="artistGenres",
-        tooltip=["trackName", "artistName", "valenceScore", "danceability"]
+        tooltip=["trackName", "artistName", "valenceScore", "danceability"],
+        legend=None
     )
-    .properties(width=800, height=800)
+    .properties(width=600, height=600)
 )
+
+scatter_plot_valence_danceability_all = (detail & minimap)
+
 
 scatter_plot_valence_danceability_all = (detail & minimap)
 
