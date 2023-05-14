@@ -378,7 +378,7 @@ if "Jonathan" in options:
 
 ############### CHARTS THAT ARE WORKING ON ALL OF OUR DATA ###################
 
-col16, col17 = st.columns(2, gap="large")
+col16, col17 = st.columns(2, gap="small")
 with col16:
     # SCATTERPLOT / HEATMAP VERS 2
     st.subheader("Track Interconectedness of Valence Score and Danceability by Top 10 Artist Genres")
@@ -406,7 +406,7 @@ with col17:
             danceability ratings in the middle range of the two variables. 
             </p>""", unsafe_allow_html=True)
 
-col18, col19 = st.columns(2, gap="Large")
+col18, col19 = st.columns(2, gap="large")
 with col18:
     # STRIP PLOT TOP 10 ARTIST GENRES VALENCE
     st.subheader("Valence Score by Top 10 Artist Genres")
