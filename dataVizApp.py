@@ -378,25 +378,12 @@ if "Jonathan" in options:
 
 ############### CHARTS THAT ARE WORKING ON ALL OF OUR DATA ###################
 
-
-#with col17:
-    # HEATMAP
-st.subheader("Interconectedness of Valence Score and Danceability")
-st.altair_chart(heatmap_valence_danceability_all, use_container_width=False)
-st.markdown("""<p class="picture-font"> Heatmap of Valence vs. Danceability: This 2D histogram heatmap 
-                illustrates the 
-                correlation between the valence score and danceability of songs in a given dataset.
-            The central area of the chart exhibits a dense cluster of songs with moderate valence scores 
-            and danceability ratings. Showing a high concentration of songs with similar valence and 
-            danceability ratings in the middle range of the two variables. 
-            </p>""", unsafe_allow_html=True)
-
-# col16, col17 = st.columns(2, gap="large")
-# with col16:
+col16, col17 = st.columns(2, gap="large")
+with col16:
     # SCATTERPLOT / HEATMAP VERS 2
-st.subheader("Track Interconectedness of Valence Score and Danceability by Top 10 Artist Genres")
-st.altair_chart(scatter_plot_valence_danceability_all, use_container_width=True)
-st.markdown("""<p class="picture-font"> Scatter Plot Valence vs Danceability: The scatter plot represents 
+    st.subheader("Track Interconectedness of Valence Score and Danceability by Top 10 Artist Genres")
+    st.altair_chart(scatter_plot_valence_danceability_all, use_container_width=True)
+    st.markdown("""<p class="picture-font"> Scatter Plot Valence vs Danceability: The scatter plot represents 
                 the relationship between the valence score and danceability of songs across the top 10 most 
                 common genres in the dataset. The y-axis shows the danceability rating, while the x-axis 
                 shows the valence score. Each circle represents a song, and its color indicates the valence 
@@ -406,6 +393,17 @@ st.markdown("""<p class="picture-font"> Scatter Plot Valence vs Danceability: Th
                 different genres. Some genres, such as pop and rock, have a wider range of valence scores 
                 and danceability ratings, while others, such as hip-hop and R&B, tend to have higher 
                 danceability ratings but lower valence scores
+            </p>""", unsafe_allow_html=True)
+with col17:
+    # HEATMAP
+    st.subheader("Interconectedness of Valence Score and Danceability")
+    st.altair_chart(heatmap_valence_danceability_all, use_container_width=True)
+    st.markdown("""<p class="picture-font"> Heatmap of Valence vs. Danceability: This 2D histogram heatmap 
+                illustrates the 
+                correlation between the valence score and danceability of songs in a given dataset.
+            The central area of the chart exhibits a dense cluster of songs with moderate valence scores 
+            and danceability ratings. Showing a high concentration of songs with similar valence and 
+            danceability ratings in the middle range of the two variables. 
             </p>""", unsafe_allow_html=True)
 
 col18, col19 = st.columns(2, gap="large")
