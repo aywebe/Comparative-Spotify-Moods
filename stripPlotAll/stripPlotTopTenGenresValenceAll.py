@@ -25,7 +25,7 @@ top_genres = df_genres_clean['artistGenres'].value_counts().nlargest(10).index.t
 df_genres_clean_40 = df_genres_clean[df_genres_clean['artistGenres'].isin(top_genres)]
 
 # Create the strip plot using the filtered DataFrame
-strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600, height=100).mark_circle(size=12).encode(
+strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600, height=100).mark_circle(size=12, color="#5c3a94").encode(
     y=alt.Y(
         'jitter:Q',
         title=None,
@@ -51,6 +51,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     spacing=0
 ).configure_view(
     stroke=None
-).properties(width=100, height=100)
+)
 
 strip_plot_valence_artist_genres_all
