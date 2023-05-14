@@ -30,9 +30,26 @@ scatter_plot_valence_danceability_all = alt.Chart(df_genres_clean_40).mark_circl
     x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
     tooltip=['trackName:N', "artistName:N", 'artistGenres:N','valenceScore:Q', 'danceability:Q', ],
     # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='greys'))
-).transform_calculate(
-    # Generate an url to let people search for the tracks
-    # Generate Gaussian jitter with a Box-Muller transform
 ).properties(width=800, height=800)
 
-scatter_plot_valence_danceability_all 
+zoom = alt.selection_interval(encodings=["x", "y"])
+
+# Create the minimap using the entire dataset
+minimap = (
+    alt.Chart(df_genres_clean_2)
+    .mark_circle()
+    .encode(
+        x="valenceScore:Q",
+        y="danceability:Q",
+        color=alt.condition(zoom, "artistGenres:N", alt.value("lightgray")),
+    )
+    .properties(
+        width=200,
+        height=200,
+        title="Minimap -- click and drag to zoom in the detail view",
+    )
+)
+
+# Combine the scatter plot and the minimap
+scatter_plot_valence_danceability_all = scatter_plot_valence_danceability_all | minimap
+
