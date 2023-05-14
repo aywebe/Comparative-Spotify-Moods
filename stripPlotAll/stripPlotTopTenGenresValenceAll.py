@@ -13,6 +13,8 @@ alt.data_transformers.disable_max_rows()
 
 # Load dataframe
 
+
+
 df_genres_clean = pd.read_csv("data/mergedStreaming/GenresMergedStreaming.csv")
 
 # Filter out "No genre information available" genre
@@ -48,5 +50,8 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     # Generate Gaussian jitter with a Box-Muller transform
     jitter='sqrt(-2*log(random()))*cos(2*PI*random())'
 ).properties(width=40, height=40)
+
+text_color = {'fill': 'white'}
+strip_plot_valence_artist_genres_all = strip_plot_valence_artist_genres_all.configure_axis(labelColor=text_color)
 
 strip_plot_valence_artist_genres_all
