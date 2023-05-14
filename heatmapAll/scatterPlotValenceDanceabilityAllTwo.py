@@ -64,7 +64,7 @@ detail = (
         color=alt.Color("artistGenres", legend=None),
         tooltip=["trackName", "artistName", "valenceScore", "danceability"],
     )
-    .properties(width=600, height=600)
+    .properties(width=550, height=600)
 )
 
 scatter_plot_valence_danceability_all = (detail & minimap)
