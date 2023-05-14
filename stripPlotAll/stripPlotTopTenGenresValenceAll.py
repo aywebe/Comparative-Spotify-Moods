@@ -29,7 +29,7 @@ strip_plot_valence_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle
     y=alt.Y("artistGenres:N", axis=alt.Axis(title="Artist Genres"), sort=alt.EncodingSortField(field="count", order='descending')),    
     x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
     href='url:N',
-    tooltip=['trackName:N', "artistName:N", "artistGenres:N", "valenceScore:Q"],
+    tooltip=['trackName:N', "artistName:N", "artistGenres:N", "valenceScore:Q", "url:N"],
     # yOffset="jitter:Q",
     # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='purples'))
 ).transform_calculate(
