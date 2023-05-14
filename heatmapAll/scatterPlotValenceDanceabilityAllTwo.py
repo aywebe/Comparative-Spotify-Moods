@@ -33,7 +33,7 @@ zoom = alt.selection_interval(encodings=["x", "y"])
 
 minimap = (
     alt.Chart(source)
-    .mark_point()
+    .mark_circle()
     .add_selection(zoom)
     .encode(
         x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
@@ -49,7 +49,7 @@ minimap = (
 
 detail = (
     alt.Chart(source)
-    .mark_point()
+    .mark_circle()
     .encode(
         x=alt.X(
             "valenceScore:Q", 
@@ -61,7 +61,7 @@ detail = (
             scale=alt.Scale(domain={"selection": zoom.name, "encoding": "y"}),
             axis=alt.Axis(title="Danceability")
         ),
-        color=alt.value("#6f82ac", legend=None),
+        color=alt.Color("artistGenres", legend=None),
         tooltip=["trackName", "artistName", "valenceScore", "danceability"],
     )
     .properties(width=550, height=400)
