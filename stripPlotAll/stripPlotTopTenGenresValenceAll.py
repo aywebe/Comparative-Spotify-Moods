@@ -35,15 +35,15 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     ),
     x=alt.X('valenceScore:Q', scale=alt.Scale(domain=(0, 1))),
     color=alt.Color('artistGenres:N', legend=None),
-    # row=alt.Row(
-    #     'artistGenres:N',
-    #     header=alt.Header(
-    #         labelAngle=0,
-    #         titleOrient='top',
-    #         labelOrient='left',
-    #         labelAlign='left',
-    #     ),
-    # ),
+    row=alt.Row(
+        'artistGenres:N',
+        header=alt.Header(
+            labelAngle=0,
+            titleOrient='top',
+            labelOrient='left',
+            labelAlign='left',
+        ),
+    ),
 ).transform_calculate(
     # Generate Gaussian jitter with a Box-Muller transform
     jitter='sqrt(-2*log(random()))*cos(2*PI*random())'
