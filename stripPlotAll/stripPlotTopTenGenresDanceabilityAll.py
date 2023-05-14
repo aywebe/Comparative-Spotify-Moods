@@ -28,7 +28,7 @@ df_genres_clean_40 = df_genres_clean_2[df_genres_clean_2['artistGenres'].isin(to
 strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle(size=30, color="#32688f", opacity=1.0).encode(
     y=alt.Y("artistGenres:N", axis=alt.Axis(title="Artist Genres"), sort=alt.EncodingSortField(field="count", order='descending')),
     x=alt.X("danceability:Q", axis=alt.Axis(title="Danceability")),
-    # href='url:N',
+    href='url:N',
     tooltip=['trackName:N', "artistName:N","danceability:Q"],
     # yOffset="jitter:Q",
     # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='tealblues'))

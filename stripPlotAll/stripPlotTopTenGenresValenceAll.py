@@ -42,12 +42,13 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600,
     color=alt.Color(legend=None),
     row=alt.Row(
         'artistGenres:N',
+        sort=alt.EncodingSortField(field="count", order='descending'),
         header=alt.Header(
             labelAngle=0,
             labelOrient='left',
             labelAlign='left',
             labelColor="white",
-            titleColor="white"
+            titleColor="white",
         ),
     ),
 ).transform_calculate(
