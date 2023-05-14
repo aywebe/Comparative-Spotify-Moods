@@ -44,7 +44,7 @@ strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_10, width=
         header=alt.Header(
             labelAngle=0,
             labelOrient='left',
-            labelFontSize=5,
+            labelFontSize=12,
             labelAlign='left',
             labelColor="white",
             titleColor="white",
