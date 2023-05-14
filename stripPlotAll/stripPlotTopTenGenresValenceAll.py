@@ -33,7 +33,6 @@ df_genres_clean_10 = df_genres_clean_40.sort_values('artistGenres', ascending=Fa
 strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600, height=100).mark_circle(size=12, color="#5c3a94").encode(
     y=alt.Y(
         'jitter:Q',
-        # title="Valence Score",
         axis=alt.Axis(values=[0], ticks=True, grid=False, labels=False),
         scale=alt.Scale(),
     ),
@@ -41,7 +40,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600,
     color=alt.Color(legend=None),
     row=alt.Row(
         'artistGenres:N',
-        # sort="-x",
         header=alt.Header(
             labelAngle=0,
             labelOrient='left',
