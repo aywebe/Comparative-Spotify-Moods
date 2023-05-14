@@ -51,7 +51,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600,
             labelColor="white",
             titleColor="white",
         ),
-        tooltip=["trackName", "artistName", "valenceScore"]
     ),
 ).transform_calculate(
     # Generate Gaussian jitter with a Box-Muller transform
