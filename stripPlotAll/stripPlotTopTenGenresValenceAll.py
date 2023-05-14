@@ -37,13 +37,13 @@ strip_plot_valence_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle
         color=alt.Color("valenceScore:Q", legend=None),
         row=alt.Row(
             "artistGenres:N",
-            header=alt.Header(
-                labelAngle=0,
-                labelFontSize=16,
-                titleOrient='top',
-                labelOrient='lef',
-                labelAlign='left',
-            )
+            # header=alt.Header(
+            #     labelAngle=0,
+            #     labelFontSize=16,
+            #     titleOrient='top',
+            #     labelOrient='lef',
+            #     labelAlign='left',
+            # )
         ),
     ),
 ).transform_calculate(
