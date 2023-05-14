@@ -39,12 +39,11 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     color=alt.Color(legend=None),
     row=alt.Row(
         'artistGenres:N',
-        # header=alt.Header(
-        #     labelAngle=0,
-        #     titleOrient='top',
-        #     labelOrient='left',
-        #     labelAlign='left',
-        # ),
+        header=alt.Header(
+            labelAngle=0,
+            labelOrient='left',
+            labelAlign='left',
+        ),
     ),
 ).transform_calculate(
     # Generate Gaussian jitter with a Box-Muller transform
