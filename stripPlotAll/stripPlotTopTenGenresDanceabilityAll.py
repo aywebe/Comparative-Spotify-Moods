@@ -34,10 +34,7 @@ strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_40).mark_c
     # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='tealblues'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
-    url = alt.condition(
-    alt.datum.artistName.notnull() & (alt.datum.artistName != ""),
-    alt.expr("https://www.google.com/search?q=" + alt.datum.artistName.replace(' ', '+')),
-    alt.value("")),
+    url='https://www.google.com/search?q=' + 'artistName:N',
     # Generate Gaussian jitter with a Box-Muller transform
     jitter="sqrt(-2*log(random()))*cos(2*PI*random())"
 ).properties(width=800, height=800)
