@@ -34,7 +34,7 @@ strip_plot_valence_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle
     # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='purples'))
 ).transform_calculate(
     # Generate an url to let people search for the tracks
-    url='https://www.google.com/search?q=' + 'artistName:N',
+    url='https://www.google.com/search?q=' + ['artistName'],
     # Generate Gaussian jitter with a Box-Muller transform
     jitter="sqrt(-2*log(random()))*sin(2*PI*random())"
 ).properties(width=800, height=800)
