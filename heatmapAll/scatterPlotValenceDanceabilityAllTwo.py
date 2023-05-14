@@ -34,7 +34,7 @@ minimap = (
     .encode(
         x="valenceScore:Q",
         y="danceability:Q",
-        color=alt.condition(zoom, alt.value("lightgray")),
+        color=alt.condition(zoom, "purples", alt.value("lightgray")),
     )
     .properties(
         width=200,
