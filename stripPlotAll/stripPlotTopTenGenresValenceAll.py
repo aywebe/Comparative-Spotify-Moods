@@ -47,8 +47,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
 ).transform_calculate(
     # Generate Gaussian jitter with a Box-Muller transform
     jitter='sqrt(-2*log(random()))*cos(2*PI*random())'
-).configure_facet(
-    spacing=0
 )
 
 strip_plot_valence_artist_genres_all
