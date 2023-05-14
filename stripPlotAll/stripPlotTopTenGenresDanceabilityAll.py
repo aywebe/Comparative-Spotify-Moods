@@ -28,8 +28,13 @@ df_genres_clean_40 = df_genres_clean_2[df_genres_clean_2['artistGenres'].isin(to
 strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle(size=30, color="#32688f", opacity=1.0).encode(
     y=alt.Y("artistGenres:N", axis=alt.Axis(title="Artist Genres"), sort=alt.EncodingSortField(field="count", order='descending')),
     x=alt.X("danceability:Q", axis=alt.Axis(title="Danceability")),
-    href=alt.expr("https://www.google.com/search?q=" + alt.datum.artistName.replace(' ', '+')),
-    tooltip=['trackName:N', "artistName:N","danceability:Q", alt.expr('"https://www.google.com/search?q=" + datum.artistName.replace(\' \', \'+\')"')],
+    href='url:N',
+    tooltip=['trackName:N', "artistName:N","danceability:Q", "url:N"],
+    # yOffset="jitter:Q",
+    # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='tealblues'))
+).transform_calculate(
+    # Generate an url to let people search for the tracks
+    url='https://www.google.com/search?q=',
     # Generate Gaussian jitter with a Box-Muller transform
     jitter="sqrt(-2*log(random()))*cos(2*PI*random())"
 ).properties(width=800, height=800)
