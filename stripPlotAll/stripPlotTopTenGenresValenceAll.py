@@ -30,6 +30,7 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
         'jitter:Q',
         title=None,
         axis=alt.Axis(values=[0], ticks=True, grid=False, labels=False),
+        sort=alt.EncodingSortField(field="count", order='descending'),
         scale=alt.Scale(),
     ),
     x=alt.X('valenceScore:Q', scale=alt.Scale(domain=(0, 1))),
@@ -51,9 +52,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     spacing=0
 ).configure_view(
     stroke=None
-).configure_axis(
-    labelFontSize=16,
-    titleFontSize=16
 )
 
 strip_plot_valence_artist_genres_all
