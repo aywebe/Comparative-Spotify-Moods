@@ -394,7 +394,6 @@ with col16:
                 and danceability ratings, while others, such as hip-hop and R&B, tend to have higher 
                 danceability ratings but lower valence scores
             </p>""", unsafe_allow_html=True)
-
 with col17:
     # HEATMAP
     st.subheader("Interconectedness of Valence Score and Danceability")
@@ -422,8 +421,6 @@ with col18:
                 higher scores. The chart helps to visualize the distribution of valence scores across 
                 different genres of music.
             </p>""", unsafe_allow_html=True)
-
-
 with col19:
     # STRIP PLOT TOP 10 ARTIST GENRES DANCEABILITY
     st.subheader("Danceability by Top 10 Artist Genres")
