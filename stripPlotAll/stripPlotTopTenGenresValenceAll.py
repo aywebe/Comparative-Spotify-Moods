@@ -48,6 +48,6 @@ strip_plot_valence_artist_genres_all = alt.Chart(df_genres_clean_40).mark_circle
     ),
 ).transform_calculate(
     jitter="sqrt(-2*log(random()))*cos(2*PI*random())"
-).properties(width=800, height=800)
+)
 
 strip_plot_valence_artist_genres_all
