@@ -49,7 +49,7 @@ minimap = (
 
 detail = (
     alt.Chart(source)
-    .mark_circle()
+    .mark_circle(color="#6f82ac")
     .encode(
         x=alt.X(
             "valenceScore:Q", 
