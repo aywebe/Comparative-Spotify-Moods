@@ -27,13 +27,46 @@ top_genres = df_genres_clean['artistGenres'].value_counts().nlargest(10).index.t
 # Filter the DataFrame to only include rows with one of the top 10 genres
 df_genres_clean_10 = df_genres_clean[df_genres_clean['artistGenres'].isin(top_genres)]
 
-# Create the strip plot using the filtered DataFrame
-scatter_plot_valence_danceability_all = alt.Chart(df_genres_clean_10).mark_circle(size=30, color="#6f82ac").encode(
-    y=alt.Y("danceability:Q", axis=alt.Axis(title="Danceability")),
-    x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
-    tooltip=['trackName:N', "artistName:N", 'artistGenres:N','valenceScore:Q', 'danceability:Q', ],
-    # color=alt.Color("valenceScore:Q", legend=None, scale=alt.Scale(scheme='greys'))
-).properties(width=800, height=800)
+source = df_genres_clean_10
 
+zoom = alt.selection_interval(encodings=["x", "y"])
+
+minimap = (
+    alt.Chart(source)
+    .mark_point()
+    .add_selection(zoom)
+    .encode(
+        x=alt.X("valenceScore:Q", axis=alt.Axis(title="Valence Score")),
+        y=alt.Y("danceability:Q", axis=alt.Axis(title="Danceability")),
+        color=alt.condition(zoom, "artistGenres", alt.value("lightgray")),
+    )
+    .properties(
+        width=200,
+        height=200,
+        title="Minimap - click and drag to zoom",
+    )
+)
+
+detail = (
+    alt.Chart(source)
+    .mark_point()
+    .encode(
+        x=alt.X(
+            "valenceScore:Q", 
+            scale=alt.Scale(domain={"selection": zoom.name, "encoding": "x"}),
+            axis=alt.Axis(title="Valence Score")
+        ),
+        y=alt.Y(
+            "danceability:Q",
+            scale=alt.Scale(domain={"selection": zoom.name, "encoding": "y"}),
+            axis=alt.Axis(title="Danceability")
+        ),
+        color="artistGenres",
+        tooltip=["trackName", "artistName", "valenceScore", "danceability"]
+    )
+    .properties(width=600, height=400)
+)
+
+scatter_plot_valence_danceability_all = detail | minimap
 
 
