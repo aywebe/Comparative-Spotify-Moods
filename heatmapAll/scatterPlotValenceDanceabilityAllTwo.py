@@ -63,14 +63,11 @@ detail = (
         ),
         color="artistGenres",
         tooltip=["trackName", "artistName", "valenceScore", "danceability"],
-        legend=None
     )
     .properties(width=600, height=600)
 )
 
 scatter_plot_valence_danceability_all = (detail & minimap)
 
-
-scatter_plot_valence_danceability_all = (detail & minimap)
 
 
