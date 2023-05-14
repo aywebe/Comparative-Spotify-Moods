@@ -39,7 +39,7 @@ strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_10, width=
     color=alt.Color(legend=None),
     row=alt.Row(
         'artistGenres:N',
-        title="Artist Genres",
+        title=None,
         sort=alt.EncodingSortField(field="count", order='ascending'),
         header=alt.Header(
             labelAngle=0,
