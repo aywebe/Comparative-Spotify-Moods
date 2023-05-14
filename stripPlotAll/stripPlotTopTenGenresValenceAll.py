@@ -49,8 +49,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     jitter='sqrt(-2*log(random()))*cos(2*PI*random())'
 ).configure_facet(
     spacing=0
-).configure_view(
-    stroke=None
 )
 
 strip_plot_valence_artist_genres_all
