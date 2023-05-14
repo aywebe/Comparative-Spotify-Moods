@@ -382,7 +382,7 @@ if "Jonathan" in options:
 #with col17:
     # HEATMAP
 st.subheader("Interconectedness of Valence Score and Danceability")
-st.altair_chart(heatmap_valence_danceability_all, use_container_width=True)
+st.altair_chart(heatmap_valence_danceability_all, use_container_width=False)
 st.markdown("""<p class="picture-font"> Heatmap of Valence vs. Danceability: This 2D histogram heatmap 
                 illustrates the 
                 correlation between the valence score and danceability of songs in a given dataset.
