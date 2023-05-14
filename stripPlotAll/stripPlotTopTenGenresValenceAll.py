@@ -51,6 +51,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
     spacing=0
 ).configure_view(
     stroke=None
-)
+).properties(width=100, height=100)
 
 strip_plot_valence_artist_genres_all
