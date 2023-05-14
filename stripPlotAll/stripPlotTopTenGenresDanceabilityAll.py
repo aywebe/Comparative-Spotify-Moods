@@ -49,6 +49,7 @@ strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_10, width=
             labelColor="white",
             titleColor="white",
         ),
+        tooltip=["trackName", "artistName", "danceability"],
     ),
 ).transform_calculate(
     # Generate Gaussian jitter with a Box-Muller transform
