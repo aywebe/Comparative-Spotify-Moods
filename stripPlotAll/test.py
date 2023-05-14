@@ -11,9 +11,12 @@ import numpy as np
 from datetime import datetime
 alt.data_transformers.disable_max_rows()
 
-source = "dataframe"
+data_url = 'http://bit.ly/2cLzoxH'
+gapminder = pd.read_csv(data_url)
+gapminder.head()
 
-horizontal_stripplot =  alt.Chart(source, width=600, height=100).mark_circle(size=12).encode(
+
+horizontal_stripplot =  alt.Chart(gapminder, width=600, height=100).mark_circle(size=12).encode(
     y=alt.Y(
         'jitter:Q',
         title=None,
