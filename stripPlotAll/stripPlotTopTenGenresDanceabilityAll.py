@@ -31,11 +31,12 @@ df_genres_clean_10 = df_genres_clean_40.sort_values('artistGenres', ascending=Fa
 strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_10, width=600, height=100).mark_circle(size=12, color="#32688f").encode(
     y=alt.Y(
         'jitter:Q',
+        title="Artist Genres",
         title=None,
         axis=alt.Axis(values=[0], ticks=True, grid=False, labels=False),
         scale=alt.Scale(),
     ),
-    x=alt.X('valenceScore:Q', scale=alt.Scale(domain=(0, 1))),
+    x=alt.X('valenceScore:Q', scale=alt.Scale(domain=(0, 1)), title="Valence Score"),
     color=alt.Color(legend=None),
     row=alt.Row(
         'artistGenres:N',
