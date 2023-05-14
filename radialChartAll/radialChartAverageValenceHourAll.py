@@ -26,7 +26,8 @@ source = pd.DataFrame({'values': values, 'hour': range(0, len(values))})
 base = alt.Chart(source).encode(
     alt.Theta("hour:N", stack=True),
     alt.Radius("values:Q", scale=alt.Scale(type="sqrt", zero=True, rangeMin=20)),
-    color=alt.Color("values:Q", scale=alt.Scale(scheme="purples"))
+    color=alt.Color("values:Q", legend=alt.Legend(title="Valence Score"), scale=alt.Scale(scheme="purples"))
+
 )
 
 # Create the chart with index values as labels
