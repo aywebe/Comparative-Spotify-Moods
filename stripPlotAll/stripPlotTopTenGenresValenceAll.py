@@ -39,7 +39,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_40, width=600,
         'artistGenres:N',
         header=alt.Header(
             labelAngle=0,
-            labelFontSize=16,
             titleOrient='top',
             labelOrient='left',
             labelAlign='left',
