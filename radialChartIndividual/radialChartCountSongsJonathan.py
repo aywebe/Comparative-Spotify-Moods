@@ -27,7 +27,7 @@ source = pd.DataFrame({'values': values, 'hour': range(0, len(values))})
 base = alt.Chart(source).encode(
     alt.Theta("hour:N", stack=True),
     alt.Radius("values:Q", scale=alt.Scale(type="sqrt", zero=True, rangeMin=20)),
-    color=alt.Color("values:Q", scale=alt.Scale(scheme="greys"))
+    color=alt.Color("values:Q", legend=alt.Legend(title="Count of Songs"), scale=alt.Scale(scheme="greys"))
 )
 
 # Create the chart with index values as labels
