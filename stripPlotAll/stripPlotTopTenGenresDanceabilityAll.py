@@ -37,6 +37,7 @@ strip_plot_danceability_artist_genres_all = alt.Chart(df_genres_clean_10, width=
     ),
     x=alt.X('valenceScore:Q', title="Valence Score" , scale=alt.Scale(domain=(0, 1))),
     color=alt.Color(legend=None),
+    tooltip=["trackName", "artistName", "danceability"],
     row=alt.Row(
         'artistGenres:N',
         title=None,
