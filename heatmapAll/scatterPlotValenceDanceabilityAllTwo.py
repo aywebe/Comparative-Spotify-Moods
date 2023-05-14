@@ -44,6 +44,7 @@ minimap = (
         width=200,
         height=200,
         title="Minimap - click and drag to zoom",
+        titleFontSize=12,
     )
 )
 
