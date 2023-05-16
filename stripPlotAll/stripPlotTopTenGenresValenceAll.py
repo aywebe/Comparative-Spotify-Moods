@@ -38,7 +38,7 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600,
         scale=alt.Scale(),
     ),
     x=alt.X('valenceScore:Q', title= "Valence Score", scale=alt.Scale(domain=(0, 1))),
-    color=alt.Color(legend=None),
+    color=alt.Color("artistGenres:N", legend=None),
     tooltip=["trackName", "artistName", "valenceScore"],
     row=alt.Row(
         'artistGenres:N',
