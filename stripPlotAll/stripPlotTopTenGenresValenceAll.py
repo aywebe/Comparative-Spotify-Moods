@@ -44,12 +44,12 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600,
         'artistGenres:N',
         title=None,
         sort=alt.EncodingSortField(field="count", order='ascending'),
-        header=alt.Header(
-            labelAngle=0,
-            labelOrient='left',
-            labelAlign='left',
-            labelFontSize=12,
-        ),
+        # header=alt.Header(
+        #     labelAngle=0,
+        #     labelOrient='left',
+        #     labelAlign='left',
+        #     labelFontSize=12,
+        # ),
     ),
 ).transform_calculate(
     # Generate Gaussian jitter with a Box-Muller transform
