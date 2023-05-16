@@ -49,8 +49,6 @@ strip_plot_valence_artist_genres_all =  alt.Chart(df_genres_clean_10, width=600,
             labelOrient='left',
             labelAlign='left',
             labelFontSize=12,
-            labelColor="white",
-            titleColor="white",
         ),
     ),
 ).transform_calculate(

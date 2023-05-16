@@ -234,7 +234,7 @@ if "Freyja" in options:
         st.altair_chart(radial_chart_average_valence_freyja, use_container_width=True)
         st.markdown("""<p class="picture-font"> Radial Chart Valence Score for Freyja: 
                     The valence scores range from
-                    0.07666956521739131 to 0.49439999999999995, with the highest score occurring at 5am and
+                    0.0766 to 0.494, with the highest score occurring at 5am and
                     the lowest score at 0am. There is a steady increase in valence scores from the early
                     morning to the late afternoon, peaking at 5am. Valence scores then begin to decrease
                     until reaching their lowest point at 0am. The data suggests that songs played in the early
