@@ -54,14 +54,14 @@ detail = (
     .mark_circle(color="#6f82ac")
     .encode(
         x=alt.X(
-            "valenceScore:Q", 
-            scale=alt.Scale(domain={"selection": zoom.name, "encoding": "x"}),
-            axis=alt.Axis(title="Valence Score")
+        "valenceScore:Q", 
+        scale=alt.Scale(domain=[{"selection": zoom.name, "encoding": "x"}]),
+        axis=alt.Axis(title="Valence Score")
         ),
         y=alt.Y(
-            "danceability:Q",
-            scale=alt.Scale(domain={"selection": zoom.name, "encoding": "y"}),
-            axis=alt.Axis(title="Danceability")
+        "danceability:Q",
+        scale=alt.Scale(domain=[{"selection": zoom.name, "encoding": "y"}]),
+        axis=alt.Axis(title="Danceability")
         ),
         color=alt.Color(legend=None),
         tooltip=["trackName", "artistName", "valenceScore", "danceability"],
